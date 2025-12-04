@@ -1,0 +1,905 @@
+Symbol,CompanyName,Sector,Date,High,Low,Close,Volume,Value_NPR,Trades
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-22,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-29,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2024-12-31,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-01,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-15,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-21,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-22,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-01-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-02-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-03-30,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-01,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-15,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-21,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-22,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-29,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-04-30,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-14,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-15,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-21,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-22,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-05-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-15,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-22,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-29,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-06-30,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-01,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-14,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-15,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-21,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-22,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-29,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-30,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-07-31,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-14,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-21,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-08-31,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-01,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-21,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-09-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-07,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-08,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-14,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-15,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-28,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-29,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-10-30,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-03,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-04,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-05,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-06,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-09,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-10,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-11,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-12,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-13,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-16,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-17,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-18,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-19,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-20,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-23,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-24,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-25,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-26,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-27,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-11-30,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-12-01,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-12-02,95.0,95.0,95.0,0,0.0,0
+NWC,Nepal Welfare Company Limited,Tradings,2025-12-03,95.0,95.0,95.0,0,0.0,0
+STC,Salt Trading Corporation,Tradings,2024-12-03,6399.0,6084.0,6148.0,5643,34920356.2,179
+STC,Salt Trading Corporation,Tradings,2024-12-04,6146.0,6000.0,6000.0,2811,17059231.0,87
+STC,Salt Trading Corporation,Tradings,2024-12-05,6030.0,5801.1,5923.0,4077,24034339.3,156
+STC,Salt Trading Corporation,Tradings,2024-12-08,5976.0,5770.0,5864.0,3457,20113107.9,114
+STC,Salt Trading Corporation,Tradings,2024-12-09,5900.0,5760.2,5765.0,2404,13908254.8,84
+STC,Salt Trading Corporation,Tradings,2024-12-10,5850.0,5750.0,5775.0,1662,9627863.7,59
+STC,Salt Trading Corporation,Tradings,2024-12-11,5879.0,5775.0,5810.0,1053,6121606.0,40
+STC,Salt Trading Corporation,Tradings,2024-12-12,5924.0,5770.0,5770.0,1818,10533051.6,67
+STC,Salt Trading Corporation,Tradings,2024-12-16,5800.0,5666.0,5700.0,3822,21819225.1,99
+STC,Salt Trading Corporation,Tradings,2024-12-17,5720.0,5683.0,5691.0,1173,6688062.5,46
+STC,Salt Trading Corporation,Tradings,2024-12-18,5780.0,5690.0,5739.0,1085,6196877.0,48
+STC,Salt Trading Corporation,Tradings,2024-12-19,5844.0,5660.0,5700.0,2373,13468246.0,82
+STC,Salt Trading Corporation,Tradings,2024-12-22,5785.0,5651.0,5700.0,2212,12591310.0,55
+STC,Salt Trading Corporation,Tradings,2024-12-23,5785.0,5650.0,5700.0,1973,11200097.0,70
+STC,Salt Trading Corporation,Tradings,2024-12-24,5740.0,5640.0,5734.0,4309,24508859.0,73
+STC,Salt Trading Corporation,Tradings,2024-12-26,5700.0,5622.0,5700.0,1911,10848104.0,53
+STC,Salt Trading Corporation,Tradings,2024-12-29,5713.0,5610.1,5617.0,1807,10245822.1,51
+STC,Salt Trading Corporation,Tradings,2024-12-31,5700.0,5590.0,5675.0,3250,18234841.0,91
+STC,Salt Trading Corporation,Tradings,2025-01-01,5681.0,5606.0,5680.0,613,3459393.0,33
+STC,Salt Trading Corporation,Tradings,2025-01-02,5690.0,5607.0,5680.0,874,4933743.0,38
+STC,Salt Trading Corporation,Tradings,2025-01-05,5685.0,5610.0,5650.0,844,4759555.2,44
+STC,Salt Trading Corporation,Tradings,2025-01-06,5700.0,5635.0,5671.0,1597,9039461.0,60
+STC,Salt Trading Corporation,Tradings,2025-01-07,5700.0,5656.1,5680.0,1856,10543120.1,38
+STC,Salt Trading Corporation,Tradings,2025-01-08,5720.0,5650.0,5656.0,1838,10409545.1,56
+STC,Salt Trading Corporation,Tradings,2025-01-09,5680.0,5602.1,5648.0,2526,14253028.6,66
+STC,Salt Trading Corporation,Tradings,2025-01-12,5600.0,5444.0,5470.0,6588,36159256.0,176
+STC,Salt Trading Corporation,Tradings,2025-01-13,5540.0,5265.1,5379.0,3876,20743635.5,128
+STC,Salt Trading Corporation,Tradings,2025-01-15,5434.9,5360.0,5379.0,2697,14516200.6,64
+STC,Salt Trading Corporation,Tradings,2025-01-16,5400.0,5302.0,5311.0,2299,12309280.5,50
+STC,Salt Trading Corporation,Tradings,2025-01-19,5410.0,5250.0,5320.0,1946,10278321.2,70
+STC,Salt Trading Corporation,Tradings,2025-01-20,5394.0,5300.0,5390.0,1112,5935730.0,65
+STC,Salt Trading Corporation,Tradings,2025-01-21,5450.0,5305.0,5360.0,408,2183501.5,21
+STC,Salt Trading Corporation,Tradings,2025-01-22,5376.9,5326.0,5345.0,1734,9280828.0,62
+STC,Salt Trading Corporation,Tradings,2025-01-23,5400.0,5280.0,5300.0,869,4643255.7,43
+STC,Salt Trading Corporation,Tradings,2025-01-26,5397.0,5265.0,5348.0,2010,10727560.0,56
+STC,Salt Trading Corporation,Tradings,2025-01-27,5375.0,5300.0,5301.1,1069,5700479.9,46
+STC,Salt Trading Corporation,Tradings,2025-01-28,5385.0,5286.5,5300.0,1943,10328604.5,65
+STC,Salt Trading Corporation,Tradings,2025-02-02,5384.0,5300.0,5329.0,2499,13349622.8,84
+STC,Salt Trading Corporation,Tradings,2025-02-03,5459.9,5328.0,5360.0,2472,13263310.6,94
+STC,Salt Trading Corporation,Tradings,2025-02-04,5467.0,5340.1,5340.1,2698,14520647.4,65
+STC,Salt Trading Corporation,Tradings,2025-02-05,5393.7,5320.1,5349.0,1212,6458366.6,49
+STC,Salt Trading Corporation,Tradings,2025-02-06,5370.0,5291.0,5291.0,3670,19499203.2,93
+STC,Salt Trading Corporation,Tradings,2025-02-09,5390.0,5280.0,5325.0,5485,29123062.2,59
+STC,Salt Trading Corporation,Tradings,2025-02-10,5326.0,5277.0,5279.1,1266,6706014.6,54
+STC,Salt Trading Corporation,Tradings,2025-02-11,5300.0,5220.0,5225.0,937,4922796.6,54
+STC,Salt Trading Corporation,Tradings,2025-02-12,5250.0,5160.0,5160.0,1524,7920938.1,76
+STC,Salt Trading Corporation,Tradings,2025-02-13,5250.0,5150.0,5190.0,1843,9564402.0,66
+STC,Salt Trading Corporation,Tradings,2025-02-16,5293.0,5190.0,5220.0,3539,18530635.9,84
+STC,Salt Trading Corporation,Tradings,2025-02-17,5309.0,5220.0,5255.0,2416,12760377.7,72
+STC,Salt Trading Corporation,Tradings,2025-02-18,5396.9,5270.0,5379.0,3440,18366673.5,95
+STC,Salt Trading Corporation,Tradings,2025-02-20,5599.0,5387.9,5580.0,7042,39009319.2,222
+STC,Salt Trading Corporation,Tradings,2025-02-23,5622.0,5450.0,5601.0,2808,15671058.6,108
+STC,Salt Trading Corporation,Tradings,2025-02-24,5665.0,5520.0,5525.0,4052,22745224.6,114
+STC,Salt Trading Corporation,Tradings,2025-02-25,5520.0,5465.0,5500.0,1886,10339509.7,66
+STC,Salt Trading Corporation,Tradings,2025-02-27,5601.0,5500.0,5506.2,1789,9918215.4,48
+STC,Salt Trading Corporation,Tradings,2025-03-02,5616.0,5450.0,5584.0,3933,21746102.7,95
+STC,Salt Trading Corporation,Tradings,2025-03-03,5660.0,5520.0,5530.0,4224,23429885.4,106
+STC,Salt Trading Corporation,Tradings,2025-03-04,5540.0,5490.0,5530.0,2392,13170789.2,56
+STC,Salt Trading Corporation,Tradings,2025-03-05,5529.9,5475.0,5480.0,1788,9810926.9,46
+STC,Salt Trading Corporation,Tradings,2025-03-06,5510.0,5480.0,5500.0,1520,8341269.0,23
+STC,Salt Trading Corporation,Tradings,2025-03-09,5543.9,5405.0,5450.0,2205,12035098.0,51
+STC,Salt Trading Corporation,Tradings,2025-03-10,5500.0,5390.0,5448.9,1635,8901811.3,53
+STC,Salt Trading Corporation,Tradings,2025-03-11,5450.0,5350.0,5400.0,3028,16313716.4,54
+STC,Salt Trading Corporation,Tradings,2025-03-12,5420.0,5280.0,5355.0,2068,11060086.2,64
+STC,Salt Trading Corporation,Tradings,2025-03-16,5360.0,5280.0,5340.0,679,3602336.0,36
+STC,Salt Trading Corporation,Tradings,2025-03-17,5400.0,5240.0,5400.0,1522,8123183.0,50
+STC,Salt Trading Corporation,Tradings,2025-03-18,5435.0,5300.0,5350.0,1922,10205455.7,35
+STC,Salt Trading Corporation,Tradings,2025-03-19,5380.0,5300.0,5300.0,584,3107635.0,32
+STC,Salt Trading Corporation,Tradings,2025-03-20,5300.0,5270.0,5299.0,729,3855817.0,22
+STC,Salt Trading Corporation,Tradings,2025-03-23,5350.0,5172.0,5192.32,1964,10219293.0,57
+STC,Salt Trading Corporation,Tradings,2025-03-24,5240.0,5200.0,5211.31,1052,5486552.5,39
+STC,Salt Trading Corporation,Tradings,2025-03-25,5275.0,5101.0,5151.87,1002,5165761.0,45
+STC,Salt Trading Corporation,Tradings,2025-03-26,5200.0,5138.0,5197.26,1767,9129617.0,37
+STC,Salt Trading Corporation,Tradings,2025-03-27,5264.0,5176.0,5210.4,1517,7891320.2,44
+STC,Salt Trading Corporation,Tradings,2025-03-30,5334.0,5170.0,5182.37,2520,13156442.5,61
+STC,Salt Trading Corporation,Tradings,2025-04-01,5286.0,5151.1,5200.75,1331,6936667.5,47
+STC,Salt Trading Corporation,Tradings,2025-04-02,5450.0,5175.0,5314.81,3628,19251579.8,92
+STC,Salt Trading Corporation,Tradings,2025-04-03,5420.0,5250.1,5317.38,3894,20671212.0,114
+STC,Salt Trading Corporation,Tradings,2025-04-07,5315.0,5251.0,5273.96,2514,13278268.0,55
+STC,Salt Trading Corporation,Tradings,2025-04-08,5269.0,5190.0,5207.08,1761,9178617.0,62
+STC,Salt Trading Corporation,Tradings,2025-04-09,5311.2,5206.0,5248.89,1088,5694056.0,39
+STC,Salt Trading Corporation,Tradings,2025-04-10,5299.9,5184.1,5190.43,1059,5515562.3,53
+STC,Salt Trading Corporation,Tradings,2025-04-13,5200.0,5151.0,5155.34,796,4115634.0,36
+STC,Salt Trading Corporation,Tradings,2025-04-15,5277.9,5170.0,5250.45,1477,7734412.5,50
+STC,Salt Trading Corporation,Tradings,2025-04-16,5273.7,5170.3,5241.27,314,1643502.0,15
+STC,Salt Trading Corporation,Tradings,2025-04-17,5250.0,5200.0,5202.64,1620,8439583.3,72
+STC,Salt Trading Corporation,Tradings,2025-04-20,5250.0,5116.0,5226.24,1011,5251786.9,54
+STC,Salt Trading Corporation,Tradings,2025-04-21,5298.0,5126.0,5164.44,2063,10651499.0,65
+STC,Salt Trading Corporation,Tradings,2025-04-22,5228.0,5000.0,5089.8,5616,28868411.8,107
+STC,Salt Trading Corporation,Tradings,2025-04-23,5190.0,5100.0,5109.29,1171,6011130.0,41
+STC,Salt Trading Corporation,Tradings,2025-04-24,5150.0,5050.0,5113.72,435,2209354.8,22
+STC,Salt Trading Corporation,Tradings,2025-04-27,5130.0,5025.0,5098.69,2950,14935848.0,80
+STC,Salt Trading Corporation,Tradings,2025-04-28,5085.0,4998.0,5006.67,1931,9684271.1,94
+STC,Salt Trading Corporation,Tradings,2025-04-29,5030.0,4915.2,4919.82,2517,12458531.2,84
+STC,Salt Trading Corporation,Tradings,2025-04-30,5060.0,4905.1,5026.09,2605,12985411.3,97
+STC,Salt Trading Corporation,Tradings,2025-05-04,5199.9,4955.0,5151.95,2427,12379652.8,82
+STC,Salt Trading Corporation,Tradings,2025-05-05,5197.0,5050.0,5166.52,2296,11723755.0,46
+STC,Salt Trading Corporation,Tradings,2025-05-06,5225.0,4930.0,5136.68,11792,58459982.6,56
+STC,Salt Trading Corporation,Tradings,2025-05-07,5200.0,5060.0,5187.52,1232,6339667.9,38
+STC,Salt Trading Corporation,Tradings,2025-05-08,5195.0,5100.0,5179.91,1961,10103359.0,52
+STC,Salt Trading Corporation,Tradings,2025-05-11,5224.0,5105.0,5206.28,2834,14700780.8,70
+STC,Salt Trading Corporation,Tradings,2025-05-13,5314.2,5202.0,5238.87,7690,40416310.2,198
+STC,Salt Trading Corporation,Tradings,2025-05-14,5275.0,5200.0,5213.75,3146,16488844.0,101
+STC,Salt Trading Corporation,Tradings,2025-05-15,5275.0,5110.0,5123.79,2009,10401799.6,80
+STC,Salt Trading Corporation,Tradings,2025-05-18,5110.0,5000.1,5075.9,2695,13677663.0,62
+STC,Salt Trading Corporation,Tradings,2025-05-19,5140.0,5057.0,5060.78,981,4966745.4,36
+STC,Salt Trading Corporation,Tradings,2025-05-20,5100.0,5003.0,5083.12,1357,6874399.4,54
+STC,Salt Trading Corporation,Tradings,2025-05-21,5202.0,5000.0,5032.53,2283,11597648.8,99
+STC,Salt Trading Corporation,Tradings,2025-05-22,5075.0,4990.0,5003.63,3070,15357225.9,108
+STC,Salt Trading Corporation,Tradings,2025-05-25,5020.0,4990.0,5004.54,2473,12366547.0,65
+STC,Salt Trading Corporation,Tradings,2025-05-26,5104.6,4970.0,5004.88,2580,12944732.0,87
+STC,Salt Trading Corporation,Tradings,2025-05-27,5010.0,4954.0,4997.88,1872,9344222.0,43
+STC,Salt Trading Corporation,Tradings,2025-05-28,5045.0,4940.0,5013.76,4026,20052274.0,77
+STC,Salt Trading Corporation,Tradings,2025-06-02,5086.0,4950.0,5012.02,3712,18552275.9,79
+STC,Salt Trading Corporation,Tradings,2025-06-03,5034.0,4960.1,5009.86,567,2839550.0,25
+STC,Salt Trading Corporation,Tradings,2025-06-04,5009.0,4975.0,5001.85,2741,13679775.0,52
+STC,Salt Trading Corporation,Tradings,2025-06-05,5005.0,4941.0,5002.0,1463,7288259.0,52
+STC,Salt Trading Corporation,Tradings,2025-06-08,5029.0,4921.0,4999.87,3472,17258276.1,80
+STC,Salt Trading Corporation,Tradings,2025-06-09,5010.0,4925.1,4980.6,1166,5798465.7,34
+STC,Salt Trading Corporation,Tradings,2025-06-10,5000.0,4925.0,5000.0,2224,11016924.1,72
+STC,Salt Trading Corporation,Tradings,2025-06-11,5009.0,4906.0,5000.19,1993,9937622.4,50
+STC,Salt Trading Corporation,Tradings,2025-06-12,5005.0,4950.2,4994.64,1290,6424979.4,45
+STC,Salt Trading Corporation,Tradings,2025-06-15,5020.0,4950.0,5001.95,1427,7103649.3,30
+STC,Salt Trading Corporation,Tradings,2025-06-16,5075.9,4960.0,5003.0,1171,5854867.9,39
+STC,Salt Trading Corporation,Tradings,2025-06-17,5020.0,4951.0,5000.0,883,4395907.0,36
+STC,Salt Trading Corporation,Tradings,2025-06-18,5050.0,4970.0,5003.5,930,4652945.9,28
+STC,Salt Trading Corporation,Tradings,2025-06-19,5010.0,4970.0,4990.75,1590,7948032.0,53
+STC,Salt Trading Corporation,Tradings,2025-06-22,5050.0,4980.0,4998.93,2942,14724673.1,63
+STC,Salt Trading Corporation,Tradings,2025-06-23,5038.9,4960.0,4996.45,1928,9630690.0,64
+STC,Salt Trading Corporation,Tradings,2025-06-24,5040.0,4980.0,4992.52,1050,5264924.7,47
+STC,Salt Trading Corporation,Tradings,2025-06-25,5010.0,4960.0,4996.56,2085,10369048.0,31
+STC,Salt Trading Corporation,Tradings,2025-06-26,5005.0,4990.0,5000.25,1035,5173681.0,32
+STC,Salt Trading Corporation,Tradings,2025-06-29,5009.0,4980.0,5002.64,1928,9633994.0,43
+STC,Salt Trading Corporation,Tradings,2025-06-30,5099.0,4989.1,5038.15,3378,17021437.2,107
+STC,Salt Trading Corporation,Tradings,2025-07-01,5138.0,5042.1,5049.66,1753,8859179.9,49
+STC,Salt Trading Corporation,Tradings,2025-07-02,5150.0,5066.0,5131.87,2264,11602631.1,59
+STC,Salt Trading Corporation,Tradings,2025-07-03,5300.0,5133.0,5175.09,1528,7956001.0,63
+STC,Salt Trading Corporation,Tradings,2025-07-06,5176.0,5121.0,5139.13,1500,7702694.0,55
+STC,Salt Trading Corporation,Tradings,2025-07-07,5130.0,5100.0,5124.11,888,4537747.0,33
+STC,Salt Trading Corporation,Tradings,2025-07-08,5175.0,5109.0,5131.86,528,2710786.0,38
+STC,Salt Trading Corporation,Tradings,2025-07-09,5300.0,5151.0,5250.54,3383,17749806.7,122
+STC,Salt Trading Corporation,Tradings,2025-07-10,5348.0,5206.0,5277.48,3021,16013802.7,104
+STC,Salt Trading Corporation,Tradings,2025-07-13,5349.9,5276.0,5278.76,1128,5962761.6,52
+STC,Salt Trading Corporation,Tradings,2025-07-14,5381.0,5181.0,5192.89,2439,12765757.2,71
+STC,Salt Trading Corporation,Tradings,2025-07-15,5280.0,5177.0,5224.63,1585,8297380.0,55
+STC,Salt Trading Corporation,Tradings,2025-07-16,5325.0,5235.0,5290.0,1290,6804462.0,53
+STC,Salt Trading Corporation,Tradings,2025-07-17,5500.0,5251.0,5480.39,4914,26598986.3,157
+STC,Salt Trading Corporation,Tradings,2025-07-20,5800.0,5400.0,5461.36,8782,48359211.9,191
+STC,Salt Trading Corporation,Tradings,2025-07-21,5681.0,5430.0,5547.44,5393,29765732.9,152
+STC,Salt Trading Corporation,Tradings,2025-07-22,5771.4,5544.1,5634.68,3890,21790679.3,123
+STC,Salt Trading Corporation,Tradings,2025-07-23,5700.0,5500.0,5559.31,3285,18180955.5,121
+STC,Salt Trading Corporation,Tradings,2025-07-24,5638.0,5488.1,5531.46,2794,15410015.5,80
+STC,Salt Trading Corporation,Tradings,2025-07-27,5733.0,5480.0,5490.91,4217,23437398.0,104
+STC,Salt Trading Corporation,Tradings,2025-07-28,5579.0,5451.0,5509.86,2136,11745535.6,84
+STC,Salt Trading Corporation,Tradings,2025-07-29,5619.0,5501.1,5583.98,2203,12283036.5,86
+STC,Salt Trading Corporation,Tradings,2025-07-30,5624.9,5505.0,5567.12,5074,28231419.1,140
+STC,Salt Trading Corporation,Tradings,2025-07-31,5553.0,5458.1,5500.26,1986,10920839.6,60
+STC,Salt Trading Corporation,Tradings,2025-08-03,5500.0,5391.0,5482.42,5212,28583502.0,92
+STC,Salt Trading Corporation,Tradings,2025-08-04,5555.0,5381.0,5500.37,1248,6858395.6,50
+STC,Salt Trading Corporation,Tradings,2025-08-05,5596.9,5401.0,5405.36,1584,8607868.7,36
+STC,Salt Trading Corporation,Tradings,2025-08-06,5431.5,5380.0,5383.32,191,1028699.1,12
+STC,Salt Trading Corporation,Tradings,2025-08-07,5429.9,5281.0,5342.02,2685,14360181.5,53
+STC,Salt Trading Corporation,Tradings,2025-08-11,5400.0,5206.0,5211.68,3016,15917505.8,110
+STC,Salt Trading Corporation,Tradings,2025-08-12,5315.0,5170.0,5177.99,869,4521159.0,48
+STC,Salt Trading Corporation,Tradings,2025-08-13,5290.0,5100.0,5177.98,1262,6585134.6,60
+STC,Salt Trading Corporation,Tradings,2025-08-14,5200.0,5136.0,5161.07,648,3342878.0,25
+STC,Salt Trading Corporation,Tradings,2025-08-17,5170.0,5100.0,5125.24,748,3825993.0,36
+STC,Salt Trading Corporation,Tradings,2025-08-18,5199.0,5125.24,5184.18,978,5046134.0,38
+STC,Salt Trading Corporation,Tradings,2025-08-19,5229.0,5151.0,5157.82,592,3060354.0,26
+STC,Salt Trading Corporation,Tradings,2025-08-20,5255.0,5100.0,5155.86,549,2837636.4,25
+STC,Salt Trading Corporation,Tradings,2025-08-21,5195.0,5160.0,5170.03,520,2685905.0,15
+STC,Salt Trading Corporation,Tradings,2025-08-24,5200.0,5101.0,5198.42,1718,8919703.1,37
+STC,Salt Trading Corporation,Tradings,2025-08-25,5299.0,5180.0,5208.1,1243,6471130.8,37
+STC,Salt Trading Corporation,Tradings,2025-08-26,5280.0,5179.0,5277.25,315,1652001.0,20
+STC,Salt Trading Corporation,Tradings,2025-08-27,5310.0,5225.0,5304.0,1069,5657803.0,50
+STC,Salt Trading Corporation,Tradings,2025-08-28,5375.0,5218.0,5289.27,1055,5564560.3,57
+STC,Salt Trading Corporation,Tradings,2025-08-31,5275.0,5211.1,5233.54,1524,7971796.0,60
+STC,Salt Trading Corporation,Tradings,2025-09-01,5310.0,5032.0,5299.99,1295,6836150.0,56
+STC,Salt Trading Corporation,Tradings,2025-09-02,5389.0,5281.3,5356.45,2097,11161077.5,72
+STC,Salt Trading Corporation,Tradings,2025-09-03,5308.0,5277.5,5278.05,1836,9728190.0,24
+STC,Salt Trading Corporation,Tradings,2025-09-04,5299.0,5176.0,5252.33,2168,11334174.0,53
+STC,Salt Trading Corporation,Tradings,2025-09-07,5300.0,5158.0,5210.0,915,4749383.0,19
+STC,Salt Trading Corporation,Tradings,2025-09-08,5257.0,5171.0,5227.49,768,4014624.7,32
+STC,Salt Trading Corporation,Tradings,2025-09-18,5123.0,4832.0,4850.0,275,1339410.0,9
+STC,Salt Trading Corporation,Tradings,2025-09-21,5335.0,4947.0,5301.06,3741,19477180.0,138
+STC,Salt Trading Corporation,Tradings,2025-09-23,5407.0,5005.0,5400.0,4310,22746097.9,113
+STC,Salt Trading Corporation,Tradings,2025-09-24,5390.0,5216.0,5277.6,1418,7592193.4,55
+STC,Salt Trading Corporation,Tradings,2025-09-25,5400.0,5181.0,5310.0,1121,6031595.0,39
+STC,Salt Trading Corporation,Tradings,2025-09-28,5395.0,5270.0,5395.0,814,4319565.0,30
+STC,Salt Trading Corporation,Tradings,2025-10-07,5440.0,5288.0,5290.0,1305,6933004.0,46
+STC,Salt Trading Corporation,Tradings,2025-10-08,5290.0,5079.0,5278.0,1541,8043477.5,48
+STC,Salt Trading Corporation,Tradings,2025-10-09,5382.0,5213.5,5244.0,1235,6508662.0,31
+STC,Salt Trading Corporation,Tradings,2025-10-12,5244.0,5097.0,5179.0,2050,10532760.0,69
+STC,Salt Trading Corporation,Tradings,2025-10-13,5168.0,5000.0,5165.0,1354,6922373.0,58
+STC,Salt Trading Corporation,Tradings,2025-10-14,5165.0,5070.0,5150.0,832,4230140.0,32
+STC,Salt Trading Corporation,Tradings,2025-10-15,5190.0,5077.0,5126.0,470,2407130.0,19
+STC,Salt Trading Corporation,Tradings,2025-10-16,5150.0,5053.0,5055.0,380,1932018.7,14
+STC,Salt Trading Corporation,Tradings,2025-10-19,5200.0,5009.0,5200.0,330,1692460.0,12
+STC,Salt Trading Corporation,Tradings,2025-10-26,5199.0,5099.0,5187.0,180,927518.0,11
+STC,Salt Trading Corporation,Tradings,2025-10-28,5250.0,5153.0,5237.0,393,2045861.0,19
+STC,Salt Trading Corporation,Tradings,2025-10-29,5334.0,5167.1,5181.0,281,1465338.5,19
+STC,Salt Trading Corporation,Tradings,2025-10-30,5280.0,5180.0,5273.0,1082,5686463.0,44
+STC,Salt Trading Corporation,Tradings,2025-11-02,5348.0,5180.0,5189.0,456,2375985.4,26
+STC,Salt Trading Corporation,Tradings,2025-11-03,5280.9,5185.0,5185.0,671,3499215.0,30
+STC,Salt Trading Corporation,Tradings,2025-11-04,5250.0,5174.0,5210.0,1774,9264310.0,27
+STC,Salt Trading Corporation,Tradings,2025-11-05,5300.0,5105.8,5207.9,2675,13955458.5,56
+STC,Salt Trading Corporation,Tradings,2025-11-06,5290.0,5185.0,5185.0,725,3784156.0,26
+STC,Salt Trading Corporation,Tradings,2025-11-09,5229.0,5110.0,5112.0,885,4531387.0,28
+STC,Salt Trading Corporation,Tradings,2025-11-10,5200.0,5100.0,5200.0,901,4660928.0,30
+STC,Salt Trading Corporation,Tradings,2025-11-11,5304.0,4997.1,5279.0,2486,12581033.0,54
+STC,Salt Trading Corporation,Tradings,2025-11-12,5295.0,5160.0,5200.0,453,2361481.0,29
+STC,Salt Trading Corporation,Tradings,2025-11-13,5268.0,5126.0,5224.0,572,2976026.0,23
+STC,Salt Trading Corporation,Tradings,2025-11-16,5240.0,5120.0,5219.9,1600,8292229.0,46
+STC,Salt Trading Corporation,Tradings,2025-11-17,5285.0,5155.2,5285.0,1755,9200681.7,55
+STC,Salt Trading Corporation,Tradings,2025-11-18,5328.9,5260.0,5309.0,1609,8538853.0,55
+STC,Salt Trading Corporation,Tradings,2025-11-19,5399.9,5256.0,5317.0,1212,6419970.0,40
+STC,Salt Trading Corporation,Tradings,2025-11-20,5400.0,5212.1,5365.0,2338,12507826.0,109
+STC,Salt Trading Corporation,Tradings,2025-11-23,5419.9,5331.0,5419.9,2246,12083465.4,75
+STC,Salt Trading Corporation,Tradings,2025-11-24,5525.0,5426.0,5460.0,3998,21851870.1,82
+STC,Salt Trading Corporation,Tradings,2025-11-25,5421.0,5371.0,5393.3,748,4042537.0,41
+STC,Salt Trading Corporation,Tradings,2025-11-26,5420.0,5287.0,5361.3,1907,10248981.4,52
+STC,Salt Trading Corporation,Tradings,2025-11-27,5420.0,5346.0,5400.0,586,3151426.0,22
+STC,Salt Trading Corporation,Tradings,2025-11-30,5445.0,5315.0,5350.0,1537,8227615.0,53
+STC,Salt Trading Corporation,Tradings,2025-12-01,5380.0,5301.0,5332.0,268,1432463.0,19
+STC,Salt Trading Corporation,Tradings,2025-12-02,5395.0,5308.0,5360.0,341,1830355.0,17
+STC,Salt Trading Corporation,Tradings,2025-12-03,5448.0,5356.0,5365.0,2188,11800851.7,64
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-03,7247.0,6626.0,7015.0,9407,66046851.6,510
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-04,6874.7,6313.5,6372.0,8331,54390893.2,422
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-05,6899.0,6160.0,6630.0,7545,48506094.1,292
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-08,6895.0,6473.0,6483.0,3848,25533394.2,204
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-09,6610.0,6300.1,6400.0,2563,16374798.6,158
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-10,6650.0,6370.0,6420.0,2402,15638677.9,148
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-11,6548.0,6300.0,6525.0,3535,22645429.6,151
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-12,6630.0,6403.1,6440.1,1573,10296234.1,96
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-16,6494.0,6100.0,6200.0,2891,17982480.0,101
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-17,6400.0,6140.0,6240.0,1727,10791023.7,91
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-18,6392.0,6180.0,6270.0,948,5898511.9,50
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-19,6280.0,6089.0,6089.0,1555,9568807.0,91
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-22,6210.0,5902.0,6000.0,1624,9718042.5,90
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-23,6194.0,5946.0,6029.9,1181,7128569.5,73
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-24,6140.0,5917.0,5997.9,1239,7412476.0,58
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-26,6340.0,5935.0,6150.0,2333,14189295.5,98
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-29,6249.9,6000.0,6088.0,1394,8500921.8,75
+BBC,Bishal Bazar Company Limited,Tradings,2024-12-31,5989.9,5782.0,5889.0,1602,9425785.7,85
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-01,5995.0,5800.0,5929.0,1212,7077638.8,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-02,5900.0,5750.0,5799.0,1428,8257939.0,81
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-05,5950.0,5705.0,5873.0,1994,11599015.0,80
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-06,5980.0,5800.0,5901.0,2275,13400403.8,88
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-07,6019.0,5853.0,5938.0,737,4351282.0,44
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-08,6056.7,5820.0,5840.0,615,3609998.0,35
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-09,5898.0,5749.0,5794.0,1054,6087608.0,54
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-12,5909.8,5695.0,5739.0,530,3046470.0,32
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-13,5824.0,5625.0,5629.0,1243,7021159.0,42
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-15,5741.5,5627.0,5630.0,299,1688751.0,16
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-16,6091.0,5521.0,5759.0,806,4651127.0,59
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-19,5863.0,5700.0,5750.0,383,2206645.9,26
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-20,5834.9,5651.0,5810.0,1111,6397082.0,71
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-21,5899.0,5590.0,5681.1,620,3542560.0,41
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-22,6164.0,5585.0,5832.0,1910,11133677.5,64
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-23,5915.0,5772.0,5821.0,919,5338423.8,34
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-26,5897.5,5712.0,5770.0,812,4686710.0,47
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-27,5800.0,5660.0,5660.0,1654,9408959.0,77
+BBC,Bishal Bazar Company Limited,Tradings,2025-01-28,6002.0,5670.0,5675.0,795,4568225.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-02,5799.0,5675.0,5753.0,661,3810609.5,34
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-03,5860.0,5725.0,5799.9,1197,6902397.5,56
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-04,5845.0,5701.0,5769.0,649,3727750.0,34
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-05,5800.0,5680.0,5680.2,473,2699361.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-06,5749.9,5566.6,5677.9,1744,9790524.4,101
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-09,6245.0,5576.0,5690.1,540,3104551.0,37
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-10,5797.0,5607.0,5700.0,274,1554781.2,25
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-11,5799.0,5563.0,5640.0,2119,11926311.0,107
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-12,5752.8,5564.0,5590.0,788,4404471.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-13,5700.0,5517.0,5587.0,1668,9251897.1,54
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-16,5657.0,5500.0,5600.0,924,5119057.5,65
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-17,5620.0,5500.0,5520.2,747,4129403.0,49
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-18,5599.9,5450.0,5535.0,822,4527218.0,49
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-20,5814.0,5530.0,5744.0,2980,16850347.7,160
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-23,5790.0,5570.0,5660.0,757,4295088.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-24,5759.0,5585.0,5650.0,363,2038803.1,22
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-25,5750.0,5428.0,5499.0,2109,11632404.5,92
+BBC,Bishal Bazar Company Limited,Tradings,2025-02-27,5608.9,5450.0,5570.0,661,3666192.0,39
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-02,5633.9,5500.1,5628.0,1269,7077098.5,64
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-03,5730.0,5520.1,5581.1,1271,7158142.5,69
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-04,5650.0,5511.0,5530.0,851,4740405.0,59
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-05,5599.0,5490.0,5560.0,571,3165286.5,40
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-06,5595.9,5500.0,5543.9,638,3529573.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-09,5640.0,5452.1,5499.0,1105,6079993.4,44
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-10,5588.0,5400.0,5401.0,890,4842827.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-11,5489.9,5300.0,5300.0,943,5041944.0,60
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-12,5405.0,5300.0,5316.0,2205,11760023.0,60
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-16,5600.0,5219.0,5600.0,2307,12322535.9,116
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-17,5699.0,5379.0,5391.0,545,2968439.7,46
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-18,5540.0,5356.0,5356.0,843,4600002.6,54
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-19,5500.0,5390.0,5395.0,472,2560146.1,30
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-20,5487.0,5305.0,5410.69,346,1872051.9,35
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-23,5409.9,5254.0,5254.0,555,2947468.0,36
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-24,5400.0,5192.0,5312.82,526,2794400.7,45
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-25,5415.0,5210.0,5211.4,1426,7469599.0,66
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-26,5296.0,5125.0,5264.2,250,1310208.0,20
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-27,5698.0,5201.0,5609.16,4977,27549225.0,244
+BBC,Bishal Bazar Company Limited,Tradings,2025-03-30,5750.0,5550.0,5595.53,2486,14064222.2,131
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-01,5950.0,5486.0,5822.95,4253,24288715.4,214
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-02,6405.2,5732.0,6403.05,9596,59780852.7,347
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-03,6661.6,6223.0,6289.14,3671,23588548.3,153
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-07,6320.0,6000.0,6083.61,3044,18708797.8,150
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-08,6198.0,5867.0,6134.86,2458,14700755.8,124
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-09,6330.0,5990.0,6104.75,3153,19251594.6,156
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-10,6220.0,6000.0,6102.13,1862,11378931.0,72
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-13,6200.0,5981.0,6013.36,1120,6778123.5,56
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-15,6126.0,5932.0,5964.17,982,5896844.0,69
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-16,6083.4,5920.0,5972.0,579,3468454.0,37
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-17,6091.0,5861.0,5965.35,770,4597188.0,33
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-20,6081.0,5860.0,6029.0,1140,6803643.5,63
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-21,6100.0,5885.0,5935.33,1196,7145710.3,68
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-22,6035.0,5778.1,5836.51,2788,16439904.0,89
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-23,5951.0,5780.0,5816.0,666,3888121.3,50
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-24,6000.0,5776.2,5840.46,1070,6305797.5,65
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-27,6248.0,5800.0,5915.6,2290,13714209.0,103
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-28,6139.0,5914.0,5949.9,437,2602849.0,27
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-29,6537.0,5899.0,5923.87,1634,9836330.1,81
+BBC,Bishal Bazar Company Limited,Tradings,2025-04-30,6028.9,5880.0,5941.27,788,4682237.0,43
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-04,6050.0,5812.0,5877.75,345,2034662.6,29
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-05,5960.0,5790.1,5830.67,471,2751531.0,37
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-06,6120.0,5799.2,5960.0,326,1926446.0,31
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-07,5999.0,5842.5,5990.0,265,1570724.0,24
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-08,6108.0,5807.0,5862.4,1613,9636061.0,69
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-11,6448.0,5860.6,5883.11,383,2295008.0,33
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-13,6000.0,5700.0,5725.07,971,5604334.8,60
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-14,5839.0,5653.3,5684.43,1118,6399607.0,76
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-15,5808.0,5697.0,5734.8,555,3175179.7,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-18,5839.0,5507.8,5573.9,1416,7963564.1,101
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-19,5696.0,5590.0,5609.64,410,2314523.0,34
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-20,5718.0,5600.0,5698.0,380,2146540.0,35
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-21,5925.0,5605.0,5670.33,611,3475724.0,44
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-22,5739.0,5577.2,5623.33,294,1663312.0,28
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-25,5733.0,5572.0,5631.09,585,3287568.0,28
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-26,5743.7,5526.1,5623.0,499,2814600.0,42
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-27,5695.0,5530.0,5680.9,232,1313363.0,19
+BBC,Bishal Bazar Company Limited,Tradings,2025-05-28,5765.0,5576.0,5681.95,523,2953686.0,47
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-02,5694.7,5581.0,5660.63,348,1958058.5,28
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-03,5747.0,5555.1,5577.47,908,5095007.8,46
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-04,5670.0,5495.0,5607.64,324,1811976.0,32
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-05,5710.0,5502.1,5556.34,310,1728966.0,29
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-08,5650.0,5390.0,5542.62,1701,9362935.0,90
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-09,5625.0,5431.8,5518.0,928,5109127.0,45
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-10,5600.0,5473.0,5579.8,167,926289.0,14
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-11,5590.9,5474.4,5524.43,635,3499233.9,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-12,5587.0,5423.0,5460.0,260,1428864.0,25
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-15,5560.0,5450.1,5523.0,309,1699104.8,27
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-16,6001.0,5436.0,5528.4,869,4883211.0,64
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-17,5613.0,5506.0,5535.7,129,714589.0,12
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-18,5593.0,5446.1,5526.27,249,1374084.9,24
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-19,5550.0,5300.0,5380.38,2347,12698044.6,115
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-22,5486.0,5285.0,5338.46,600,3213640.9,49
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-23,5750.0,5250.0,5465.37,1016,5522390.1,76
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-24,5550.0,5359.0,5460.0,200,1085666.0,19
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-25,5507.0,5355.0,5396.52,261,1408276.0,23
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-26,5494.0,5320.0,5384.3,711,3849206.0,50
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-29,5489.0,5310.0,5400.0,137,741091.3,13
+BBC,Bishal Bazar Company Limited,Tradings,2025-06-30,5498.9,5389.2,5439.0,251,1360416.0,19
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-01,5469.0,5341.1,5402.26,207,1120599.0,20
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-02,5520.0,5329.0,5497.91,380,2076835.0,27
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-03,5650.0,5395.1,5418.21,1078,5898987.6,49
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-06,5519.9,5373.0,5472.5,735,3989225.0,40
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-07,5581.0,5328.2,5400.0,762,4116004.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-08,5497.0,5300.0,5421.94,350,1893808.0,23
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-09,5457.0,5350.0,5432.63,736,3973252.0,34
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-10,5479.0,5320.0,5399.0,857,4595859.2,57
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-13,5505.0,5364.0,5383.5,461,2498464.5,39
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-14,5490.0,5325.0,5353.06,323,1743393.3,28
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-15,5448.0,5306.2,5399.8,217,1162965.0,17
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-16,5499.0,5301.0,5383.99,517,2793724.6,39
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-17,5480.0,5400.1,5471.17,819,4468722.8,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-20,5555.0,5255.0,5442.7,1241,6810128.2,68
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-21,5529.9,5400.1,5461.33,634,3457808.0,39
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-22,5532.0,5322.0,5514.45,1873,10191116.1,91
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-23,5555.0,5450.0,5539.0,987,5438374.5,66
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-24,5598.0,5511.0,5558.12,817,4547964.0,57
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-27,6041.5,5415.0,5647.8,3303,18489625.0,196
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-28,6114.0,5510.0,5843.84,2711,15574572.4,174
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-29,5900.0,5700.0,5822.0,687,3991018.5,54
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-30,5875.0,5598.0,5715.06,433,2483985.9,40
+BBC,Bishal Bazar Company Limited,Tradings,2025-07-31,5796.9,5514.0,5570.09,1060,5957856.7,84
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-03,5680.0,5463.0,5485.1,613,3383304.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-04,6023.0,5475.0,5655.0,1172,6614462.8,90
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-05,6120.0,5541.0,5563.45,1181,6647333.7,85
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-06,5640.0,5500.0,5525.45,696,3867019.3,49
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-07,5942.0,5525.0,5588.3,440,2483825.0,35
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-11,5690.0,5488.0,5512.0,811,4503971.0,60
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-12,5599.0,5450.0,5463.24,696,3816432.5,57
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-13,5550.0,5342.0,5374.8,1058,5723229.1,63
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-14,5534.0,5376.0,5432.5,218,1185625.5,19
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-17,5518.0,5330.0,5339.43,1146,6149213.5,68
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-18,5444.0,5320.0,5409.45,498,2678631.0,33
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-19,5498.9,5389.0,5422.18,180,977136.0,15
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-20,5422.18,5321.1,5360.33,495,2651109.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-21,5437.0,5310.0,5321.86,381,2032766.6,35
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-24,5409.6,5302.0,5308.32,520,2769311.0,32
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-25,5373.9,5275.0,5310.66,337,1788049.8,22
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-26,5397.0,5312.0,5312.0,280,1502048.9,24
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-27,5500.0,5375.0,5463.75,678,3698963.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-28,5520.0,5360.0,5390.7,450,2440681.4,40
+BBC,Bishal Bazar Company Limited,Tradings,2025-08-31,5447.7,5300.0,5372.8,345,1844274.0,28
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-01,5480.2,5300.0,5317.85,261,1395908.0,24
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-02,5418.9,5131.0,5199.73,7018,36556112.2,140
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-03,5298.8,5100.0,5210.46,592,3070492.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-04,5290.0,5107.0,5245.36,394,2057509.0,37
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-07,5277.0,5152.0,5234.9,360,1877796.0,32
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-08,5200.0,4899.0,5046.38,2459,12522647.2,127
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-18,5100.0,4565.0,4566.1,340,1650464.0,27
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-21,5020.0,4582.1,4959.28,1536,7343425.9,92
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-23,5058.0,4970.0,5050.0,527,2645008.0,37
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-24,5145.0,4881.1,4969.0,646,3223854.4,39
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-25,5041.9,4950.0,5040.0,372,1855785.0,22
+BBC,Bishal Bazar Company Limited,Tradings,2025-09-28,5137.0,4955.0,4962.8,317,1592326.0,26
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-07,5062.0,4871.1,4908.0,823,4080969.0,30
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-08,4995.0,4741.0,4886.0,860,4142651.0,51
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-09,5180.0,4810.0,4810.0,1923,9456636.0,80
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-12,4905.0,4480.0,4666.0,1433,6796608.0,84
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-13,4986.0,4582.0,4810.0,1859,8932794.0,54
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-14,5090.0,4801.1,4889.0,1878,9334521.8,99
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-15,4897.0,4707.0,4780.0,594,2853755.0,43
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-16,4872.0,4700.0,4765.0,551,2620929.0,39
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-19,4819.9,4731.0,4800.0,70,336210.0,7
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-26,4845.0,4660.1,4845.0,430,2056516.0,21
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-28,4939.9,4795.0,4801.0,1630,7860432.9,55
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-29,4978.0,4879.0,4910.0,1616,7932014.0,68
+BBC,Bishal Bazar Company Limited,Tradings,2025-10-30,5294.0,4817.0,4950.0,621,3111019.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-02,5024.0,4854.0,4897.1,401,1978832.1,37
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-03,4980.0,4881.0,4947.0,231,1135107.0,20
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-04,4953.9,4852.0,4939.0,484,2375316.0,34
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-05,5432.0,4925.3,4962.0,1491,7485218.3,88
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-06,5458.0,4952.3,4952.3,977,4945227.0,53
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-09,5047.0,4855.0,4927.4,370,1817343.8,33
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-10,5023.0,4792.1,4950.0,601,2912850.0,44
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-11,4998.0,4800.0,4981.0,341,1658610.0,17
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-12,4947.0,4785.4,4860.0,879,4247100.2,43
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-13,4939.0,4783.0,4900.0,438,2132413.0,32
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-16,4945.0,4804.0,4895.0,170,831062.0,17
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-17,4939.8,4811.0,4895.0,479,2333037.0,38
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-18,4935.0,4868.0,4898.0,81,396810.0,8
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-19,4994.0,4857.0,4914.6,333,1634186.5,27
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-20,4939.9,4823.0,4920.0,270,1321209.0,27
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-23,4990.0,4832.0,4929.0,350,1718365.0,29
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-24,4996.0,4862.1,4966.8,433,2137558.3,32
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-25,5000.0,4900.1,4900.1,324,1595961.6,28
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-26,4989.0,4890.3,4939.0,177,874927.0,17
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-27,5000.0,4890.1,4928.0,251,1239018.0,18
+BBC,Bishal Bazar Company Limited,Tradings,2025-11-30,5398.0,4855.0,4904.3,1406,7048319.1,80
+BBC,Bishal Bazar Company Limited,Tradings,2025-12-01,4997.0,4802.1,4900.0,1302,6335621.0,63
+BBC,Bishal Bazar Company Limited,Tradings,2025-12-02,4940.0,4835.0,4938.0,110,539020.0,9
+BBC,Bishal Bazar Company Limited,Tradings,2025-12-03,4985.0,4840.3,4924.9,599,2920998.0,34
+NTL,Nepal Tading Limited,Tradings,2024-12-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-22,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-29,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2024-12-31,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-01,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-15,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-21,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-22,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-01-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-02-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-03-30,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-01,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-15,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-21,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-22,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-29,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-04-30,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-14,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-15,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-21,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-22,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-05-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-15,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-22,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-29,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-06-30,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-01,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-14,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-15,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-21,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-22,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-29,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-30,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-07-31,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-14,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-21,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-08-31,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-01,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-21,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-09-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-07,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-08,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-14,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-15,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-28,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-29,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-10-30,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-03,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-04,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-05,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-06,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-09,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-10,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-11,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-12,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-13,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-16,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-17,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-18,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-19,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-20,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-23,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-24,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-25,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-26,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-27,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-11-30,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-12-01,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-12-02,56.0,56.0,56.0,0,0.0,0
+NTL,Nepal Tading Limited,Tradings,2025-12-03,56.0,56.0,56.0,0,0.0,0

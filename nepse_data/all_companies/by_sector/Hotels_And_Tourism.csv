@@ -1,0 +1,1600 @@
+Symbol,CompanyName,Sector,Date,High,Low,Close,Volume,Value_NPR,Trades
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-11,313.5,285.0,313.5,270,83515.0,27
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-12,344.8,313.9,344.8,490,167734.0,49
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-13,379.2,344.5,379.2,610,230274.0,61
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-16,417.1,386.7,417.1,820,341273.0,82
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-17,458.8,420.0,458.8,1430,654222.0,143
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-18,504.6,467.6,504.6,1540,776170.0,154
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-19,555.0,514.4,555.0,2360,1307985.0,236
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-20,610.5,566.0,610.5,6810,4155966.0,681
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-23,671.5,622.7,671.5,22250,14935774.0,1914
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-24,738.6,684.9,738.6,57040,42095094.0,5096
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-25,812.0,750.1,792.0,346850,269997649.0,34263
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-26,795.0,760.0,763.1,255880,196817555.5,23688
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-27,765.0,750.1,758.1,170479,128563286.3,14976
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-11-30,778.9,750.0,764.9,130752,99728356.6,7955
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-12-01,806.0,758.0,789.0,187463,146792961.0,6910
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-12-02,796.0,778.5,780.0,76732,60088493.6,3686
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels And Tourism,2025-12-03,837.0,775.1,825.0,227147,184976769.6,5466
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-22,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-29,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2024-12-31,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-01,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-15,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-21,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-22,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-01-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-02-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-03-30,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-01,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-15,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-21,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-22,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-29,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-04-30,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-14,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-15,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-21,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-22,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-05-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-15,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-22,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-29,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-06-30,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-01,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-14,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-15,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-21,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-22,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-29,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-30,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-07-31,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-14,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-21,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-08-31,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-01,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-21,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-09-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-07,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-08,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-14,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-15,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-28,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-29,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-10-30,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-03,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-04,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-05,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-06,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-09,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-10,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-11,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-12,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-13,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-16,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-17,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-18,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-19,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-20,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-23,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-24,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-25,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-26,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-27,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-11-30,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-12-01,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-12-02,600.0,600.0,600.0,0,0.0,0
+YHL,Yak And Yeti Hotel Limited,Hotels And Tourism,2025-12-03,600.0,600.0,600.0,0,0.0,0
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-03,1035.0,973.1,989.9,10542,10606725.0,79
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-04,1009.0,971.0,1002.0,5964,5934238.5,64
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-05,982.0,950.0,965.0,9048,8717701.8,112
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-08,981.0,951.0,953.0,6514,6253316.0,68
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-09,960.0,937.1,941.0,6012,5691140.5,59
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-10,955.0,940.0,940.0,5558,5237077.0,67
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-11,955.0,935.1,944.0,1713,1613554.7,42
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-12,956.0,926.0,938.0,3539,3313448.0,47
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-16,924.0,906.0,908.0,3608,3277707.1,55
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-17,918.0,890.0,910.0,4232,3803378.3,48
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-18,918.0,900.0,900.0,1590,1435487.2,21
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-19,910.0,875.0,890.0,2471,2186520.0,48
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-22,902.0,860.0,887.0,1269,1132615.4,38
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-23,893.0,870.0,885.1,3695,3235850.0,22
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-24,936.3,886.0,887.0,2867,2560578.0,53
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-26,904.7,888.0,893.9,3855,3434380.0,23
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-29,892.0,863.0,888.0,4225,3710943.3,56
+OHL,Oriental Hotels Limited,Hotels And Tourism,2024-12-31,889.0,849.0,857.0,4570,3923425.3,63
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-01,880.0,842.0,863.0,1495,1289321.1,27
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-02,861.0,851.1,851.5,3643,3119240.7,41
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-05,867.9,850.0,867.9,3073,2638812.5,34
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-06,913.0,850.9,904.0,3351,2972280.9,60
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-07,898.9,882.0,890.0,6203,5533880.2,42
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-08,916.0,880.0,893.2,2142,1925327.7,34
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-09,918.0,895.0,908.0,3352,3035687.1,45
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-12,902.0,890.0,900.0,600,539314.0,12
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-13,900.0,881.0,895.0,5892,5206856.0,42
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-15,930.0,885.0,885.0,2570,2338917.5,44
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-16,902.0,875.0,880.0,2303,2038031.2,35
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-19,893.0,864.0,880.6,2612,2303044.8,23
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-20,900.0,887.0,888.0,14673,13022844.9,27
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-21,904.9,877.0,893.0,3548,3185822.5,39
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-22,929.0,900.0,907.2,6504,5974159.4,58
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-23,945.0,900.0,916.0,6794,6266080.8,77
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-26,925.0,900.0,911.0,4236,3883715.3,50
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-27,937.0,900.0,918.9,6534,6022789.6,64
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-01-28,936.0,901.4,910.0,4736,4309172.8,60
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-02,928.0,911.1,922.0,6244,5733416.3,62
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-03,949.0,910.3,924.0,6122,5645396.1,72
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-04,940.0,892.0,912.5,16769,15120798.1,221
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-05,930.7,897.0,903.7,1571,1420340.4,31
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-06,920.0,901.0,902.0,6177,5585709.2,65
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-09,918.0,890.0,900.3,1664,1498916.5,39
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-10,917.8,882.3,899.0,1891,1684279.8,54
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-11,917.0,881.1,900.0,5440,4918191.6,81
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-12,903.0,885.0,886.2,3293,2939237.0,62
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-13,903.9,878.0,878.0,4942,4360439.7,102
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-16,950.0,880.0,934.3,26457,24453328.7,281
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-17,1027.0,945.0,1006.2,58256,57821495.3,424
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-18,1060.0,975.2,980.0,31256,31545705.3,225
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-20,999.0,970.0,989.9,13406,13189759.9,142
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-23,995.0,951.6,989.0,17563,17296240.6,134
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-24,1000.0,972.0,973.5,8706,8554652.3,76
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-25,975.0,948.0,960.0,7560,7289826.0,77
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-02-27,997.0,960.1,985.0,18682,18350469.1,106
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-02,1030.0,991.0,1027.0,20519,20685462.8,193
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-03,1038.0,1000.0,1000.0,16347,16462875.5,143
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-04,1100.0,990.0,1006.0,38631,38997646.5,179
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-05,1023.5,971.0,997.0,2305,2291437.9,58
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-06,1010.0,975.3,980.5,8448,8394311.1,69
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-09,986.8,952.1,958.0,11661,11188791.0,117
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-10,977.0,932.0,943.0,5917,5585862.8,75
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-11,977.0,927.0,940.0,10059,9416759.1,75
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-12,957.9,923.0,926.0,8679,8049137.4,54
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-16,958.9,905.0,914.0,9830,8984840.4,79
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-17,929.5,890.0,900.0,14900,13380651.8,84
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-18,936.0,892.1,898.0,12571,11423816.1,63
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-19,925.0,882.2,905.0,10351,9270237.5,60
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-20,914.0,873.0,891.75,4307,3822211.8,42
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-23,892.0,857.5,865.05,13506,11699183.8,110
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-24,880.0,850.2,873.55,3422,2996275.4,35
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-25,874.0,857.0,861.2,4165,3581841.1,58
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-26,872.0,852.0,870.99,3041,2635477.4,46
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-27,889.9,861.2,881.36,4109,3624779.1,53
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-03-30,909.5,888.0,899.45,10488,9430526.0,77
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-01,910.0,877.7,885.87,6273,5546680.0,46
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-02,903.0,870.3,887.16,2225,1975073.3,31
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-03,903.9,885.0,886.61,3519,3136507.1,41
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-07,887.0,870.2,874.0,1161,1021132.9,22
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-08,879.0,870.1,875.23,1268,1108268.8,21
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-09,900.0,883.1,898.83,4741,4233996.4,42
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-10,895.0,885.3,888.59,2621,2332011.9,29
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-13,887.0,875.0,876.24,3649,3206202.0,41
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-15,901.0,858.8,885.9,11024,9622609.8,57
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-16,890.0,873.1,884.41,4705,4155281.0,32
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-17,905.0,872.5,889.0,9613,8619414.8,64
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-20,889.0,879.1,879.95,2778,2449212.3,22
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-21,920.0,876.0,898.0,3215,2883801.8,36
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-22,909.0,875.0,877.9,7662,6762134.2,59
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-23,892.9,852.1,873.02,17140,14856571.4,95
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-24,875.0,865.0,869.77,5410,4703199.0,39
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-27,878.8,838.9,845.55,8278,7063244.8,85
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-28,870.0,840.4,850.0,9151,7853235.6,64
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-29,867.0,845.0,849.73,2601,2227255.7,30
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-04-30,852.0,843.1,843.13,4385,3707980.9,36
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-04,875.0,848.0,849.07,5879,5021180.5,32
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-05,854.8,841.0,849.55,7984,6735076.1,32
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-06,858.0,842.0,856.16,1657,1404687.0,25
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-07,869.9,840.0,852.44,8531,7224054.8,54
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-08,862.9,846.1,852.04,7530,6430841.0,53
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-11,921.0,845.1,901.8,35222,31528640.7,247
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-13,905.0,882.0,883.39,14502,12918196.3,62
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-14,874.0,866.0,867.09,2417,2098828.5,25
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-15,919.0,867.0,891.43,16774,14893401.8,111
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-18,980.5,886.0,945.15,190905,176645288.7,695
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-19,964.0,932.0,959.55,80484,76310650.8,298
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-20,1010.8,940.0,986.85,102675,99170700.6,458
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-21,1049.5,964.0,990.79,110436,110017183.5,542
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-22,999.9,945.0,947.63,49107,46996075.5,297
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-25,964.0,901.0,920.97,58827,54015494.3,345
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-26,947.0,903.7,907.04,36418,33305691.4,227
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-27,918.0,897.0,901.48,22278,20201995.5,153
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-05-28,919.0,896.0,906.93,22719,20601336.5,185
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-02,942.9,908.0,915.21,74116,68326886.1,407
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-03,915.0,890.0,891.3,35598,32012289.0,227
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-04,905.0,880.7,887.56,28521,25419508.9,103
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-05,895.0,880.0,882.57,14061,12457245.5,146
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-08,894.9,867.5,869.9,22751,19874612.8,179
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-09,897.9,871.0,885.77,11448,10088183.0,73
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-10,901.0,872.2,891.72,19483,17235227.7,119
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-11,897.9,880.5,881.02,10982,9717093.2,77
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-12,919.9,871.2,899.74,25637,22854762.0,228
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-15,917.0,883.1,895.83,15546,13937910.6,112
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-16,946.0,897.0,941.82,84052,77550537.5,439
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-17,959.0,913.1,914.8,41749,38815968.0,229
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-18,918.0,897.0,900.55,9641,8756025.0,81
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-19,912.0,890.1,892.38,14573,13060910.5,154
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-22,902.0,877.3,877.57,13136,11554345.0,112
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-23,885.0,870.0,881.81,9225,8076027.2,63
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-24,888.0,875.0,879.79,19960,17584898.2,89
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-25,887.5,875.0,885.62,5648,4985985.5,47
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-26,889.0,873.1,873.39,10745,9447253.5,70
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-29,884.0,850.7,868.52,23388,20169228.5,146
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-06-30,879.9,866.0,866.58,3428,2978086.9,63
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-01,878.0,863.0,868.61,10872,9432295.3,79
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-02,882.5,870.0,877.59,3746,3286685.3,53
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-03,891.0,870.0,883.7,10436,9143706.0,86
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-06,887.0,872.0,872.5,3847,3376441.8,62
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-07,894.9,874.0,878.36,11845,10462946.9,79
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-08,885.0,870.0,873.68,5784,5064848.2,61
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-09,888.0,873.2,877.56,4223,3709700.7,36
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-10,885.4,873.0,879.04,3786,3332084.8,63
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-13,890.0,875.0,880.15,9119,8026311.7,84
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-14,894.7,880.1,882.16,5776,5120050.3,58
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-15,895.0,880.0,889.12,78683,70014237.4,102
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-16,904.7,880.0,880.45,14766,13140311.8,132
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-17,915.0,897.9,909.32,12933,11724169.6,172
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-20,940.0,900.0,924.42,41388,38295928.1,257
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-21,924.9,906.1,917.94,21230,19440135.6,150
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-22,948.0,915.0,940.71,25361,23787718.5,187
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-23,940.0,915.0,923.03,16667,15457526.7,154
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-24,935.0,916.0,925.15,15268,14101725.9,129
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-27,940.0,909.0,910.69,26112,24083339.6,221
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-28,914.0,895.5,903.62,17886,16166715.6,145
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-29,934.9,896.5,917.17,13067,11992232.0,95
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-30,925.0,898.1,899.61,12848,11618657.0,126
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-07-31,902.0,886.1,890.98,14163,12665256.0,133
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-03,895.0,880.1,881.85,5586,4935337.1,82
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-04,890.0,870.0,875.12,7818,6863524.8,99
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-05,885.0,873.0,874.2,8416,7399269.3,87
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-06,884.0,866.1,875.83,6312,5541097.0,53
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-07,884.9,870.0,873.05,12118,10611274.2,118
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-11,880.0,864.0,867.69,7755,6757371.0,77
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-12,878.0,865.0,866.96,5164,4483050.8,51
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-13,883.9,868.0,868.32,2942,2555333.6,38
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-14,885.6,867.1,869.55,8078,7024351.2,66
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-17,865.0,852.2,855.89,10494,9010282.2,107
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-18,863.0,846.1,851.38,4906,4179129.5,54
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-19,863.0,847.3,855.51,5765,4930940.7,65
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-20,878.0,841.2,866.96,8051,6953687.7,83
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-21,866.96,856.6,862.03,2725,2344402.2,30
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-24,864.0,851.2,852.76,3527,3025104.9,41
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-25,865.0,844.1,856.27,2204,1881493.0,29
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-26,880.0,860.0,871.88,14491,12605736.8,94
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-27,912.0,855.0,902.25,30417,27146220.6,145
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-28,916.0,858.0,859.74,91197,79218566.3,321
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-08-31,865.1,844.1,845.32,19712,16817180.5,135
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-01,855.0,844.7,849.01,8438,7159574.0,62
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-02,860.0,844.0,844.05,2847,2408111.3,56
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-03,840.0,818.4,820.33,21458,17752694.6,208
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-04,825.0,791.0,807.76,16140,12930371.9,170
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-07,800.0,777.0,777.85,17799,13967122.7,179
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-08,795.6,772.7,774.7,12982,10115101.7,123
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-18,759.3,700.0,700.0,1120,794971.0,17
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-21,745.0,687.2,718.36,15364,10889695.5,158
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-23,742.9,718.0,732.5,16384,11901503.2,105
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-24,741.0,721.0,731.0,5725,4149280.0,59
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-25,735.1,716.4,733.0,21898,15809355.2,68
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-09-28,739.0,718.0,725.0,3737,2710087.9,50
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-07,725.0,697.0,703.0,6429,4516560.3,86
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-08,705.0,674.1,680.0,10654,7275764.3,114
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-09,721.0,676.8,695.0,9903,6851802.4,108
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-12,683.0,657.0,669.0,11805,7879714.2,112
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-13,681.0,650.0,681.0,9608,6402198.5,82
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-14,681.0,655.1,681.0,2135,1428536.6,46
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-15,682.9,667.4,675.0,4941,3345274.8,57
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-16,687.0,654.1,670.0,3984,2639132.1,60
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-19,670.0,642.0,666.0,6645,4327300.0,94
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-26,670.0,633.1,670.0,5160,3321410.8,51
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-28,735.0,662.0,708.8,11685,8167951.7,99
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-29,710.0,686.2,692.8,8902,6198166.2,90
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-10-30,709.9,686.1,709.8,5571,3892108.9,59
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-02,719.8,696.0,707.9,9114,6445124.2,68
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-03,731.9,700.0,724.0,10281,7398401.2,85
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-04,730.0,706.0,717.5,8983,6447004.0,67
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-05,720.0,692.0,717.0,4340,3051500.0,34
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-06,720.4,703.9,703.9,6390,4532885.6,45
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-09,717.0,689.9,703.0,14739,10225503.2,89
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-10,729.0,689.0,707.8,5169,3636407.8,65
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-11,736.0,693.1,715.6,8862,6317195.4,82
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-12,715.3,690.0,705.0,5364,3740898.0,44
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-13,714.0,678.0,698.7,8942,6144737.8,94
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-16,711.9,676.2,706.0,8018,5498439.3,98
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-17,733.0,678.1,704.0,7464,5115955.9,102
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-18,717.8,677.0,698.0,12334,8468968.9,109
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-19,709.5,671.0,689.0,5010,3437666.8,43
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-20,689.0,669.2,683.0,8185,5518083.3,69
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-23,694.0,680.0,689.0,2468,1700371.2,39
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-24,729.0,675.3,699.9,9180,6389368.4,83
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-25,705.0,686.1,700.9,8430,5904907.8,60
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-26,723.9,690.0,723.0,13267,9382735.0,107
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-27,752.0,709.0,741.0,23303,17187993.5,186
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-11-30,750.0,701.0,716.0,18576,13494487.8,114
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-12-01,729.0,700.0,715.9,7693,5455025.4,67
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-12-02,716.9,702.1,716.0,4699,3326142.5,48
+OHL,Oriental Hotels Limited,Hotels And Tourism,2025-12-03,733.0,700.0,702.0,26492,18752333.6,110
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-03,540.0,519.4,521.0,42731,22588120.8,219
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-04,531.4,519.0,522.3,37988,19856956.3,118
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-05,520.9,494.9,505.1,68151,34775743.7,266
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-08,511.0,491.0,493.1,57539,28841028.0,222
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-09,503.0,486.6,487.3,51779,25460618.0,200
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-10,495.0,485.2,487.9,24239,11895306.8,96
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-11,493.0,484.0,493.0,20593,10046267.7,106
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-12,494.9,481.2,485.0,30616,14954349.8,130
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-16,487.5,470.0,473.4,46458,22225816.5,201
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-17,481.0,470.0,477.0,25235,12023980.4,111
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-18,486.0,475.0,475.0,32056,15297539.7,107
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-19,483.0,470.0,470.0,28383,13413983.5,139
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-22,473.0,455.0,465.8,26896,12563427.9,114
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-23,472.0,458.1,466.0,34051,15831222.0,145
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-24,475.3,467.0,472.9,29507,13898222.4,105
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-26,471.9,460.6,469.0,20942,9815438.8,81
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-29,471.2,462.0,464.0,23710,11009002.8,104
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2024-12-31,470.0,457.2,463.1,33338,15347619.4,120
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-01,470.9,459.0,470.5,26776,12422675.9,103
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-02,474.8,465.0,471.1,17851,8392805.8,78
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-05,474.0,466.0,470.8,29220,13708077.5,98
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-06,492.0,470.0,490.0,58062,28180088.0,261
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-07,497.9,482.0,493.6,41687,20527292.0,183
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-08,494.8,481.5,492.0,23362,11480995.9,93
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-09,497.0,483.2,492.0,22261,10947091.0,126
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-12,492.0,480.0,490.0,20373,9948287.5,73
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-13,489.0,477.3,480.3,39562,19071823.0,131
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-15,491.0,479.1,489.9,31943,15571433.8,104
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-16,504.0,485.0,493.0,33445,16522604.3,132
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-19,495.0,485.0,489.5,28566,13976185.8,115
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-20,493.9,489.5,491.0,32693,16077945.6,103
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-21,504.9,490.0,500.0,40177,19996796.4,169
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-22,519.0,500.0,518.0,137082,70403692.2,368
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-23,520.0,500.0,513.9,43221,22104666.3,175
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-26,518.0,508.1,514.9,65954,33713327.1,159
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-27,514.8,500.8,509.7,38900,19820728.1,162
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-01-28,517.0,500.0,515.0,44820,22854523.6,131
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-02,526.1,510.0,521.0,101593,52970373.3,283
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-03,532.0,516.6,526.0,91197,47701864.9,254
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-04,525.9,513.5,515.0,41998,21767396.8,145
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-05,516.0,500.1,515.0,46341,23765005.8,164
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-06,517.9,506.0,510.0,38461,19563104.9,123
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-09,514.0,500.0,507.0,21170,10744520.9,121
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-10,507.0,500.0,505.9,18343,9236226.0,80
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-11,503.9,487.6,493.0,41220,20459537.4,231
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-12,499.0,485.5,494.0,34970,17333919.7,166
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-13,500.0,481.2,491.0,30489,15048432.6,176
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-16,503.7,475.3,499.0,127765,62369901.5,391
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-17,524.9,491.0,510.3,92094,46987920.8,384
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-18,523.5,500.1,506.0,59691,30459522.1,183
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-20,514.0,491.0,502.0,34200,17163029.0,162
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-23,510.0,486.2,499.0,52054,25973319.1,188
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-24,508.0,487.0,494.0,51003,25479303.2,183
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-25,502.0,486.3,495.0,40032,19917496.9,128
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-02-27,503.0,486.3,497.0,29342,14592006.9,124
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-02,522.9,496.0,518.0,117090,60346032.4,430
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-03,521.0,507.0,511.0,74206,38254448.5,378
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-04,519.0,497.9,506.0,66830,34184328.3,254
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-05,514.0,494.1,503.0,47814,24106250.6,173
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-06,506.0,491.0,500.0,41007,20496464.6,163
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-09,505.5,490.0,498.0,52240,26045797.2,182
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-10,503.0,490.0,493.3,44839,22281915.4,170
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-11,500.5,485.1,486.4,42471,20854098.9,168
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-12,496.1,488.0,489.5,18462,9053503.7,85
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-16,496.0,480.0,490.0,44346,21746907.2,162
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-17,494.0,485.0,490.0,24967,12244935.4,95
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-18,494.9,477.3,488.0,22131,10848267.2,94
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-19,495.0,488.1,490.0,37395,18341058.0,131
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-20,495.0,485.0,488.99,25574,12516356.4,89
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-23,490.5,480.0,480.78,40257,19470029.5,179
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-24,486.0,472.0,484.81,36437,17421585.5,166
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-25,482.0,470.4,471.94,56357,26766009.5,183
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-26,483.0,472.0,482.26,18612,8928899.5,86
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-27,484.5,469.0,481.41,38312,18433953.5,145
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-03-30,490.0,480.0,486.48,33419,16229652.5,153
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-01,486.0,470.0,478.85,25594,12273140.3,108
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-02,486.0,472.0,485.07,28246,13649328.4,128
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-03,490.0,482.3,486.36,35234,17099872.3,107
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-07,483.0,475.1,479.09,30666,14689854.6,93
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-08,480.0,469.2,476.13,32877,15599315.8,131
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-09,496.0,475.3,494.8,62267,30582366.8,318
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-10,496.9,480.4,492.02,22678,11148452.7,106
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-13,494.8,477.0,492.53,25099,12256116.3,73
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-15,507.0,490.0,506.04,107134,53930051.5,330
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-16,510.0,495.9,505.39,75902,38338935.0,215
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-17,515.0,500.3,509.12,94140,48048389.0,258
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-20,515.0,496.4,501.9,66230,33526347.3,204
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-21,508.0,490.0,501.18,60608,30405985.6,138
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-22,513.0,498.0,508.23,107177,54461041.3,236
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-23,510.0,500.0,500.97,78296,39450008.3,167
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-24,504.0,488.1,495.98,42546,21193962.6,154
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-27,509.0,493.0,502.71,109402,54816137.3,275
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-28,506.9,500.1,500.88,57009,28651537.1,135
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-29,502.0,489.0,499.8,30608,15263999.6,88
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-04-30,503.7,493.0,502.35,52501,26269652.8,144
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-04,506.0,501.6,502.97,61481,30968750.5,194
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-05,503.9,495.1,501.76,27528,13789876.9,102
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-06,504.9,490.5,500.85,49467,24783140.4,134
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-07,509.8,496.0,507.13,70383,35656060.4,240
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-08,515.0,500.0,511.16,109167,55553654.7,270
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-11,562.2,515.0,553.91,573286,311493868.3,1623
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-13,566.6,534.6,542.5,253205,139406501.1,772
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-14,562.0,526.1,529.25,188073,101127675.8,568
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-15,575.5,525.0,571.85,824999,461915510.4,2366
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-18,586.0,560.0,566.93,409600,234808358.4,1195
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-19,574.9,544.9,555.34,346161,192756562.8,846
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-20,590.1,556.1,582.63,505312,292809184.8,1494
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-21,606.0,570.0,585.38,412921,241554818.8,1053
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-22,597.0,570.0,573.52,347850,203109109.4,890
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-25,577.0,545.9,563.14,318522,179511664.8,824
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-26,580.0,550.0,557.98,230821,129463327.8,576
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-27,565.0,546.7,561.8,226773,126355057.8,512
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-05-28,580.0,550.6,570.85,315844,181108166.7,709
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-02,601.0,578.0,585.4,561476,330379078.3,1340
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-03,589.0,562.0,571.18,236083,135739162.4,611
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-04,578.5,564.0,565.87,123545,70212243.0,349
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-05,571.8,550.0,560.82,212462,119410290.5,577
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-08,574.8,557.1,565.74,297550,168432356.2,641
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-09,569.7,551.9,558.64,239199,134550220.2,519
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-10,578.0,558.6,572.03,315155,179213315.7,671
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-11,574.0,559.0,561.07,194522,110175044.6,464
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-12,579.9,551.0,570.28,350935,200086278.9,755
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-15,578.0,553.2,563.62,159010,90107506.3,424
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-16,604.0,554.0,599.15,900638,530557987.4,1843
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-17,617.9,588.0,592.55,501929,302980441.0,1266
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-18,597.0,583.0,588.75,144559,85095455.9,458
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-19,596.0,573.5,579.75,358731,209441372.7,847
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-22,581.0,555.0,556.64,213001,120585926.5,650
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-23,569.9,543.0,563.45,142891,80297448.9,451
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-24,574.0,556.0,556.9,96835,54500915.9,327
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-25,566.9,550.0,562.84,97030,54557248.5,284
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-26,578.3,546.0,550.65,204538,113742018.6,472
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-29,557.8,540.0,553.26,99674,55017462.7,295
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-06-30,561.7,550.0,553.27,96374,53528395.5,286
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-01,559.9,544.0,558.5,84327,46908540.5,236
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-02,565.0,550.0,561.66,87947,49363769.2,265
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-03,565.0,549.0,559.13,114750,64364147.8,329
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-06,564.9,550.0,559.1,106025,59363780.0,240
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-07,577.0,555.1,564.65,169163,96017406.2,515
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-08,570.0,550.0,564.25,84450,47776183.2,262
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-09,569.9,553.7,564.13,75423,42666346.4,203
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-10,576.3,553.0,564.16,72957,41254352.3,280
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-13,575.4,551.8,567.25,169044,95628222.5,342
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-14,574.8,558.6,566.02,120143,68241429.3,304
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-15,579.0,563.5,573.63,171988,98306685.6,438
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-16,585.1,567.0,577.58,181350,104941295.8,408
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-17,599.0,577.3,588.65,192333,113285652.9,601
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-20,599.3,575.0,584.27,228293,134898315.8,665
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-21,595.0,572.0,584.07,156962,91780322.7,423
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-22,615.0,586.0,612.98,544088,329001030.4,1294
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-23,616.0,588.5,601.42,319537,193332052.7,863
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-24,613.3,590.0,605.47,212009,127980800.3,486
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-27,619.0,588.0,590.37,453779,272657848.24,991
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-28,595.0,575.0,589.33,210958,123848362.7,586
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-29,600.0,583.3,586.45,151771,90024072.2,400
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-30,593.0,567.0,576.19,237920,137751702.4,506
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-07-31,582.8,564.7,573.85,136308,78530385.9,370
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-03,580.0,560.0,568.76,101379,57794007.0,322
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-04,575.0,559.2,566.15,106407,60333982.9,299
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-05,570.9,557.0,559.43,113878,63950003.1,295
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-06,565.0,550.0,561.68,60761,34113717.3,261
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-07,570.0,560.0,565.31,45717,25891623.2,238
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-11,569.5,549.8,556.71,79745,44634434.6,333
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-12,560.8,550.0,556.1,43033,23963695.5,195
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-13,560.0,550.0,557.78,26187,14611820.4,158
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-14,564.9,556.0,560.85,42863,24040936.1,192
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-17,568.0,550.1,562.09,42265,23783320.5,153
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-18,567.0,555.0,565.49,29115,16442476.7,131
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-19,568.8,555.0,561.75,38347,21615614.0,134
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-20,579.0,560.0,571.9,86698,49638187.5,339
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-21,579.0,560.0,563.63,24961,14165532.0,118
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-24,572.0,550.0,558.48,45670,25599320.9,132
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-25,562.4,550.0,561.12,24835,13891802.09,122
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-26,565.0,555.0,561.8,15674,8813316.8,73
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-27,575.0,555.0,571.15,48014,27243814.1,158
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-28,575.0,560.0,561.95,87475,49633184.1,216
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-08-31,566.0,550.2,559.32,35900,20098054.2,132
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-01,565.0,552.0,561.44,21663,12174594.4,94
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-02,565.0,551.8,563.3,40466,22686290.7,149
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-03,564.5,555.0,557.34,44279,24769100.6,193
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-04,561.0,547.0,551.78,73684,40640907.4,207
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-07,557.0,550.1,552.15,40514,22430028.5,161
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-08,561.0,542.0,544.31,32918,17993095.9,115
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-18,533.5,489.9,489.9,5696,2823860.4,20
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-21,525.0,480.2,517.6,89896,45621025.1,347
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-23,540.0,519.0,537.1,37955,20203308.4,165
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-24,540.0,520.0,532.0,32711,17389578.0,147
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-25,535.0,515.0,530.2,26208,13826307.1,91
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-09-28,539.9,526.0,536.4,12303,6557493.5,76
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-07,530.0,515.5,521.0,40916,21333730.1,142
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-08,518.0,498.0,505.7,56489,28732677.2,205
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-09,536.5,506.0,511.0,31500,16268542.7,137
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-12,505.0,470.4,478.2,132788,64518060.4,357
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-13,501.0,477.0,501.0,55736,27363062.7,179
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-14,500.9,488.0,493.0,20551,10166782.9,92
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-15,498.0,486.0,488.5,30371,14933290.5,93
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-16,494.0,483.3,485.0,19520,9496547.3,66
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-19,495.5,485.0,494.5,21984,10879596.9,42
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-26,502.7,485.0,501.0,17881,8812503.2,87
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-28,518.9,499.1,518.9,61184,31245788.8,162
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-29,559.8,529.2,543.1,207945,113891899.1,898
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-10-30,555.0,538.1,549.0,102925,56519720.2,401
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-02,557.5,549.0,552.0,76357,42258807.9,366
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-03,555.0,538.1,548.0,47749,26255109.5,230
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-04,558.9,537.1,544.0,35815,19554437.6,161
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-05,545.0,534.0,542.2,41106,22280100.7,133
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-06,555.0,536.2,540.0,48155,26109361.9,169
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-09,545.0,535.0,540.0,35370,19097279.8,139
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-10,543.6,536.0,543.6,35661,19279713.1,123
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-11,554.4,531.0,548.8,83496,46064503.5,99
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-12,551.9,540.0,541.5,25230,13722802.7,107
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-13,547.0,536.0,539.7,48141,25981517.0,135
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-16,543.8,525.0,536.0,59547,31815737.4,193
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-17,550.0,533.0,543.0,28431,15372045.4,128
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-18,550.9,540.0,545.0,28435,15535525.9,108
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-19,552.0,542.0,545.8,28517,15527139.9,112
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-20,552.0,544.0,546.0,96431,52624320.2,423
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-23,481.0,464.0,471.9,46349,21923022.9,245
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-24,480.0,471.9,477.0,30245,14388696.0,120
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-25,479.7,470.0,477.9,15265,7267733.6,90
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-26,494.0,477.9,493.0,50083,24439262.5,178
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-27,496.5,490.0,495.0,24097,11879985.1,99
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-11-30,500.0,487.2,498.4,63990,31749248.5,205
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-12-01,500.0,488.0,493.0,24408,12001564.3,100
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-12-02,496.0,486.0,487.4,11361,5551747.5,55
+SHL,Soaltee Hotel Limited,Hotels And Tourism,2025-12-03,496.7,478.2,484.0,16548,8098602.7,90
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-03,1284.0,1230.0,1246.0,13534,16953626.5,158
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-04,1256.0,1221.1,1246.0,13006,16151135.2,117
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-05,1228.0,1147.6,1170.0,33780,40050994.1,244
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-08,1161.0,1120.0,1139.9,7736,8780288.2,121
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-09,1160.0,1118.0,1129.0,5061,5679849.1,65
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-10,1147.0,1100.0,1125.0,3381,3763054.9,50
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-11,1144.0,1130.0,1143.5,7368,8390085.8,88
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-12,1145.1,1075.0,1098.0,10766,11963330.3,143
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-16,1094.0,1050.0,1068.6,10679,11295254.7,93
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-17,1083.0,1055.2,1056.0,19755,20893072.0,49
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-18,1077.0,1045.0,1045.0,39637,41544797.8,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-19,1065.0,1036.0,1049.0,7546,7893642.5,77
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-22,1069.0,1035.0,1050.0,4437,4634238.5,62
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-23,1067.0,1050.1,1067.0,1367,1443805.0,40
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-24,1082.0,1050.0,1077.9,2126,2261856.3,45
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-26,1080.0,1050.0,1065.0,3645,3863358.3,44
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-29,1080.0,1064.0,1080.0,5496,5910989.9,53
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2024-12-31,1074.0,1029.0,1052.0,9548,10096227.0,51
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-01,1070.0,1033.0,1057.0,5615,5932642.5,47
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-02,1080.0,1040.1,1079.0,3408,3639598.1,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-05,1121.8,1061.0,1101.0,6273,6776877.9,79
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-06,1164.0,1079.0,1110.0,2517,2799712.1,47
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-07,1118.9,1091.0,1110.0,4902,5389902.0,36
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-08,1135.0,1101.2,1124.0,6371,7129078.2,90
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-09,1197.0,1120.2,1167.0,125369,144422206.2,242
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-12,1170.0,1151.0,1151.0,3807,4396452.7,63
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-13,1158.0,1120.1,1145.0,92358,106847956.0,47
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-15,1259.0,1145.0,1204.0,37343,44232186.0,265
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-16,1205.0,1175.0,1175.1,16505,19532719.9,115
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-19,1180.0,1157.0,1170.0,5858,6838233.5,47
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-20,1175.0,1146.6,1163.0,7489,8643711.0,64
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-21,1176.0,1151.0,1152.1,8206,9472089.7,59
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-22,1185.0,1161.3,1183.0,7743,9083754.8,68
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-23,1180.0,1153.0,1175.0,8030,9373607.0,73
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-26,1178.0,1158.0,1158.0,5755,6696934.8,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-27,1180.0,1151.0,1154.0,2962,3452818.0,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-01-28,1247.0,1155.1,1175.0,16093,19055771.9,129
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-02,1201.0,1166.0,1170.0,15327,18129567.2,121
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-03,1191.0,1155.0,1155.0,8198,9555187.5,67
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-04,1170.0,1125.2,1128.2,10690,12183104.8,121
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-05,1150.7,1108.1,1115.1,5767,6504545.9,63
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-06,1149.0,1093.0,1122.0,10630,11922014.0,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-09,1130.0,1101.6,1125.0,2878,3192421.6,42
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-10,1129.0,1105.0,1110.0,3221,3578490.1,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-11,1129.0,1100.0,1129.0,4808,5352155.2,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-12,1133.3,1100.0,1108.8,5837,6481040.2,35
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-13,1131.0,1104.0,1108.0,7514,8331640.3,62
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-16,1140.0,1111.0,1128.1,5300,5999987.7,65
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-17,1178.1,1130.2,1159.0,14179,16425979.1,142
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-18,1172.0,1137.9,1150.0,6028,6920544.7,59
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-20,1149.8,1127.0,1149.8,1467,1660397.0,24
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-23,1146.0,1122.0,1126.1,5213,5888317.7,76
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-24,1145.1,1112.0,1113.1,7235,8096561.3,91
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-25,1135.0,1110.0,1110.0,5114,5738836.0,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-02-27,1154.0,1085.0,1116.3,6027,6638242.1,56
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-02,1170.0,1121.0,1167.0,9546,10995066.1,110
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-03,1190.0,1135.0,1139.0,6843,7892952.6,82
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-04,1161.7,1127.0,1127.0,3423,3868219.8,32
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-05,1148.0,1120.0,1120.0,4890,5504232.2,40
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-06,1129.8,1100.0,1103.0,5173,5747460.0,49
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-09,1124.0,1097.0,1108.0,2902,3203302.6,54
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-10,1123.0,1095.0,1101.0,3200,3515040.0,39
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-11,1098.0,1081.0,1098.0,9053,9840418.9,86
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-12,1098.5,1076.1,1095.0,2151,2320992.9,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-16,1094.4,1074.0,1084.0,2901,3124454.0,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-17,1111.0,1058.5,1108.9,11612,12452786.8,94
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-18,1119.0,1085.0,1104.0,3266,3599030.3,56
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-19,1117.7,1086.0,1094.9,575,626675.0,16
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-20,1094.0,1081.1,1089.15,875,950582.9,22
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-23,1073.2,1050.0,1051.42,6460,6852975.0,47
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-24,1074.0,1054.0,1072.53,1642,1756130.0,26
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-25,1079.0,1016.2,1036.3,2680,2794228.0,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-26,1060.8,1022.0,1055.86,1563,1631296.7,42
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-27,1074.0,1050.0,1063.03,752,796014.0,24
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-03-30,1105.0,1069.1,1069.13,5084,5500477.4,48
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-01,1063.0,1050.0,1056.08,1328,1398755.0,23
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-02,1063.0,1040.2,1045.95,2820,2945090.0,32
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-03,1065.0,1036.1,1040.03,5791,6051454.3,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-07,1044.0,1028.0,1032.66,869,897078.0,19
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-08,1036.9,1020.0,1021.42,1783,1821509.9,36
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-09,1045.0,1022.1,1040.38,3615,3741292.5,42
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-10,1050.0,1033.0,1041.71,5049,5241670.7,23
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-13,1074.0,1035.0,1059.21,1620,1707176.5,30
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-15,1067.0,1047.0,1066.0,1710,1805100.0,19
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-16,1070.0,1043.0,1062.5,2411,2549013.1,27
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-17,1070.0,1040.0,1052.11,9022,9518497.7,73
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-20,1047.0,1015.8,1026.95,1874,1930629.7,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-21,1047.0,1015.0,1028.0,3534,3633913.0,30
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-22,1048.5,1020.0,1029.25,3461,3574075.6,61
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-23,1030.0,1018.0,1020.09,1420,1450581.3,26
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-24,1020.0,1000.0,1001.44,4311,4334364.0,73
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-27,1010.0,1001.0,1002.91,1682,1686519.2,28
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-28,1010.0,989.0,990.38,2465,2451833.0,40
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-29,985.0,977.2,978.0,1749,1713193.6,29
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-04-30,985.0,940.0,941.13,5413,5156885.6,88
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-04,954.0,912.4,927.97,8620,8014380.2,88
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-05,939.0,909.5,937.0,3966,3626709.4,36
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-06,935.0,920.0,927.0,4625,4274868.6,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-07,972.0,921.2,955.86,3434,3264555.2,56
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-08,955.0,940.0,941.89,3576,3374984.8,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-11,1019.0,936.0,996.4,20404,20342657.2,138
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-13,1015.9,961.0,961.0,2343,2291387.5,45
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-14,971.0,950.0,956.74,1297,1244025.7,25
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-15,1004.0,974.0,998.37,23568,23412398.8,169
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-18,1035.0,1010.0,1033.94,33588,34350208.5,239
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-19,1075.0,999.0,1003.46,14927,15187101.0,156
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-20,1040.0,990.0,1016.34,44326,45173708.6,164
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-21,1075.0,980.0,1025.0,19736,19914439.6,161
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-22,1040.0,961.0,966.88,17756,17365922.7,187
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-25,986.0,940.0,945.74,13182,12613716.5,131
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-26,983.8,935.0,947.55,10080,9516072.6,101
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-27,950.0,928.7,932.92,12533,11710752.3,126
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-05-28,948.0,933.0,934.86,5348,5020733.3,67
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-02,976.0,953.5,970.79,14986,14489431.0,139
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-03,975.0,953.0,955.54,6086,5837563.3,68
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-04,972.9,956.5,959.36,3735,3589095.3,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-05,966.0,940.2,942.91,7704,7288329.5,60
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-08,940.0,928.0,932.48,5025,4691962.7,69
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-09,944.0,926.0,928.47,3540,3296093.7,53
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-10,965.0,940.1,940.82,3785,3617948.7,44
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-11,957.9,921.2,926.86,7790,7242694.4,94
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-12,958.9,921.0,942.89,8224,7761578.0,104
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-15,958.0,940.0,951.74,2574,2441777.9,39
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-16,985.0,952.0,980.32,27441,26675573.4,206
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-17,996.0,950.1,959.14,12637,12292675.5,125
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-18,973.0,940.0,944.99,3487,3299974.0,44
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-19,955.0,926.0,944.85,9814,9214117.7,113
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-22,949.6,919.0,920.0,9078,8418852.0,124
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-23,930.0,920.1,927.81,4950,4574558.0,55
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-24,944.0,916.2,917.73,2406,2235936.0,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-25,934.0,920.2,929.29,1546,1430365.0,22
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-26,930.0,915.0,916.28,8897,8177753.0,71
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-29,933.0,898.0,913.95,4261,3875599.4,98
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-06-30,929.0,911.0,915.11,1323,1212243.6,34
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-01,924.4,907.0,916.16,1658,1522148.5,35
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-02,951.0,901.0,928.48,8563,7970832.1,83
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-03,945.0,920.1,938.94,5730,5358064.5,75
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-06,943.1,931.2,932.84,3099,2900692.9,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-07,944.0,932.1,932.7,3370,3154989.0,32
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-08,937.0,924.0,929.56,1561,1449317.0,25
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-09,943.0,925.0,938.86,3657,3416347.1,40
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-10,955.0,930.0,951.73,12778,12038526.7,107
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-13,970.0,940.0,950.33,8542,8115897.6,93
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-14,1045.3,938.0,948.41,14705,14676425.8,111
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-15,958.0,939.0,941.42,4132,3922536.9,56
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-16,957.0,939.0,946.12,10063,9548762.0,66
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-17,980.0,946.0,970.16,11923,11564089.5,136
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-20,1015.0,969.0,988.98,24914,24631458.6,280
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-21,1005.0,990.0,1002.19,11218,11193692.9,134
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-22,1050.6,1002.7,1034.48,21159,21676599.3,213
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-23,1049.0,1010.0,1025.08,10129,10346639.6,119
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-24,1065.0,1018.0,1034.15,15661,16215492.1,149
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-27,1086.3,1026.2,1032.83,34761,36643521.2,263
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-28,1051.0,1001.1,1022.72,20725,21299105.3,173
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-29,1063.8,1025.0,1037.82,6368,6646832.4,94
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-30,1045.0,1010.2,1010.62,10987,11247361.6,90
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-07-31,1030.8,980.0,989.84,17472,17470778.8,140
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-03,999.0,973.2,975.46,12542,12264437.1,117
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-04,1000.0,957.0,963.74,10653,10256219.4,85
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-05,983.0,957.0,960.09,3708,3565210.1,43
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-06,979.0,941.0,950.55,15834,15081180.6,103
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-07,969.5,945.0,946.35,7172,6813208.2,57
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-11,964.9,944.9,950.55,6160,5849580.4,61
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-12,965.0,942.0,957.2,2766,2646018.0,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-13,958.0,940.0,941.06,7794,7354750.5,75
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-14,955.0,935.1,942.66,3098,2914467.1,45
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-17,952.0,936.0,940.58,5159,4869266.0,52
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-18,950.0,921.8,947.91,2803,2646029.3,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-19,957.5,944.0,945.0,3510,3328518.0,40
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-20,975.0,940.1,959.29,5559,5330773.0,90
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-21,971.9,955.0,956.83,4051,3882230.9,45
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-24,972.4,955.0,966.98,6044,5848757.7,80
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-25,973.0,958.0,969.18,1391,1342799.0,29
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-26,966.9,948.0,959.42,7545,7211849.7,73
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-27,980.0,960.0,975.25,6108,5914023.6,77
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-28,992.0,955.2,960.0,7639,7406149.5,103
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-08-31,963.0,935.0,944.65,6176,5840931.5,69
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-01,946.0,935.0,941.64,7596,7129416.0,60
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-02,940.0,925.0,927.93,11633,10848165.0,69
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-03,944.9,920.0,925.16,4180,3884415.6,48
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-04,926.0,911.4,919.37,3235,2972635.0,57
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-07,937.6,918.0,921.22,4396,4058956.9,44
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-08,919.0,915.0,915.47,2160,1979319.2,31
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-18,897.2,897.2,897.2,50,44860.0,1
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-21,914.5,807.5,853.48,18553,15460270.5,233
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-23,874.0,837.1,860.0,6220,5324223.6,68
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-24,867.0,842.8,850.0,8148,6917342.6,53
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-25,844.7,833.1,839.0,2040,1707625.0,30
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-09-28,856.8,825.0,856.8,8799,7315222.5,46
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-07,850.0,823.2,845.0,7591,6344654.7,68
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-08,835.0,813.0,819.0,3029,2478112.7,65
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-09,845.0,807.1,827.0,6317,5183502.0,63
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-12,815.0,796.0,801.0,3924,3143860.5,51
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-13,816.7,799.1,816.7,3216,2589430.4,30
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-14,828.9,809.1,816.0,1296,1060917.0,20
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-15,816.0,800.1,814.8,2174,1745479.0,29
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-16,808.6,793.0,807.9,2479,1973005.9,33
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-19,814.0,796.0,796.0,1107,888708.0,18
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-26,780.1,716.4,739.0,27892,20122049.8,304
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-28,752.0,701.3,735.0,24734,17652450.2,254
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-29,750.0,730.0,739.9,8954,6614997.5,109
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-10-30,740.0,711.0,720.0,11132,8102276.2,130
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-02,733.9,711.1,724.8,15084,10881777.2,198
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-03,748.0,716.1,733.7,14914,10865297.5,137
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-04,737.0,719.1,724.0,9178,6676933.4,98
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-05,725.0,715.0,718.0,8035,5780608.3,113
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-06,729.8,703.7,717.0,8012,5769446.5,91
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-09,731.3,710.0,711.2,4743,3403695.0,93
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-10,725.0,707.2,714.0,3404,2419973.5,62
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-11,714.5,708.0,710.1,5519,3920960.6,77
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-12,710.4,699.9,701.0,11373,7975448.2,132
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-13,707.0,699.8,702.0,6212,4364082.0,62
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-16,701.0,695.0,695.0,5093,3553195.0,62
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-17,695.0,681.1,686.9,4139,2841924.3,70
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-18,700.0,682.0,695.0,4705,3247980.8,66
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-19,696.0,687.2,687.2,3259,2248052.3,38
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-20,695.0,685.0,693.0,5768,3964980.9,67
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-23,706.0,692.0,695.0,5566,3888679.3,83
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-24,705.0,693.1,705.0,6902,4818716.3,59
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-25,722.0,702.2,718.0,5086,3623571.2,80
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-26,724.9,714.0,723.0,3769,2704113.6,60
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-27,734.0,715.0,727.5,12697,9211003.4,108
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-11-30,730.0,710.0,710.0,6491,4671309.9,78
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-12-01,719.9,711.1,718.7,2740,1957507.9,35
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-12-02,715.0,705.0,709.9,2525,1786008.1,31
+TRH,Taragaon Regency Hotel Limited,Hotels And Tourism,2025-12-03,708.0,700.0,704.0,2976,2097970.2,44
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-03,1002.0,960.0,972.0,21704,21157396.1,288
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-04,977.0,948.0,948.0,21334,20499505.5,279
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-05,952.8,920.1,921.0,15208,14127275.3,220
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-08,938.0,905.0,905.0,19069,17471286.2,245
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-09,922.9,900.0,912.0,10415,9493895.4,145
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-10,922.0,907.5,921.0,8045,7348171.5,124
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-11,931.0,910.0,929.0,6725,6215769.0,106
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-12,936.0,902.0,902.0,9209,8438764.2,152
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-16,902.0,875.1,880.0,17167,15184602.3,194
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-17,892.0,866.0,874.0,5442,4772608.5,113
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-18,906.0,869.0,872.0,15372,13516822.9,180
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-19,889.0,863.0,863.0,14929,12968878.7,135
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-22,880.0,851.0,859.9,9805,8436807.3,134
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-23,872.0,855.0,872.0,4800,4151518.4,90
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-24,888.9,870.0,876.9,9903,8713146.0,145
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-26,885.0,870.0,878.1,4930,4315285.4,89
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-29,892.0,865.0,865.0,8557,7491897.0,141
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2024-12-31,860.0,840.0,854.8,12261,10422505.5,150
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-01,871.5,850.0,866.0,1916,1653299.9,63
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-02,884.9,857.2,882.0,9777,8548994.9,122
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-05,887.7,867.0,875.1,7943,6956716.3,88
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-06,918.0,875.0,907.0,12123,10938316.5,179
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-07,917.9,897.0,901.0,12960,11755332.4,176
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-08,913.5,901.0,901.0,12186,11029666.0,135
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-09,936.3,897.1,901.0,20568,18741353.5,259
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-12,915.0,900.0,900.0,4797,4330752.0,75
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-13,908.0,870.0,890.0,13483,11890780.3,171
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-15,909.6,885.0,885.0,9120,8168073.0,135
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-16,897.6,875.0,897.6,9145,8089587.9,133
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-19,906.0,880.4,905.0,6716,6014439.9,111
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-20,923.0,888.0,912.0,9117,8259079.1,158
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-21,920.0,904.2,915.0,8371,7632463.5,158
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-22,935.0,912.5,929.5,30909,28683554.7,331
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-23,944.0,911.3,918.0,9134,8418993.0,154
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-26,929.0,912.1,913.0,14693,13529119.5,226
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-27,920.0,906.1,908.5,10160,9264152.4,185
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-01-28,914.0,900.0,905.0,17896,16245980.4,234
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-02,977.0,915.0,968.0,38787,36686395.5,572
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-03,987.3,948.0,949.0,18390,17596164.0,281
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-04,955.9,941.0,943.0,10031,9514988.6,189
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-05,946.0,925.0,927.0,9647,8993329.0,188
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-06,942.9,921.2,925.5,9714,9000485.7,156
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-09,940.0,920.3,921.0,8579,7954609.4,157
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-10,935.0,902.6,928.0,19067,17712204.7,232
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-11,945.0,930.0,940.0,9713,9113783.1,154
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-12,952.0,923.0,923.0,15166,14177810.2,164
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-13,930.0,910.0,911.0,16697,15251829.5,213
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-16,933.3,892.8,930.0,11431,10548112.8,199
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-17,950.0,920.0,938.9,18508,17419695.9,280
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-18,940.0,917.4,920.0,13836,12855641.0,180
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-20,927.0,910.1,912.0,9524,8735922.2,163
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-23,920.0,890.4,906.5,14811,13428313.2,209
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-24,924.0,901.0,905.0,13985,12781993.8,205
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-25,915.0,903.1,907.0,11945,10849275.3,163
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-02-27,925.1,908.0,918.9,10042,9196744.0,182
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-02,953.0,923.2,953.0,31412,29542738.4,361
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-03,961.0,925.0,926.0,19720,18503310.8,362
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-04,944.0,915.0,916.4,5748,5312972.6,149
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-05,933.9,900.0,900.3,11020,9993493.8,196
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-06,914.0,900.0,906.1,10551,9567868.8,149
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-09,906.2,889.0,895.3,14406,12918908.6,214
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-10,912.9,880.1,880.2,10862,9703226.9,173
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-11,894.9,863.0,869.0,12618,11076127.0,158
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-12,895.0,851.7,892.6,15942,14029250.9,167
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-16,900.0,871.0,885.0,13394,11861292.2,163
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-17,899.8,870.1,877.1,5847,5140076.8,117
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-18,888.0,875.2,875.2,4279,3771549.3,71
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-19,897.0,875.0,880.0,8516,7543887.2,131
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-20,881.0,870.4,873.32,4783,4182623.8,107
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-23,875.0,849.6,850.17,7050,6050504.5,135
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-24,862.9,834.1,856.9,4142,3519226.1,93
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-25,850.0,816.1,821.63,9341,7761174.8,144
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-26,845.0,821.0,839.09,3527,2944923.5,78
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-27,855.0,837.0,850.26,7538,6374842.1,112
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-03-30,885.0,850.0,874.57,6657,5783873.7,126
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-01,877.0,850.0,852.91,4773,4090316.4,98
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-02,868.7,845.1,860.0,2817,2403185.0,71
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-03,865.0,851.6,853.37,3929,3373007.0,95
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-07,856.4,833.0,837.26,5670,4778782.4,117
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-08,844.0,830.0,836.55,4625,3863184.9,86
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-09,853.9,820.0,842.26,4481,3790259.9,102
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-10,853.0,838.8,842.65,2775,2339109.9,79
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-13,842.9,826.5,840.72,3851,3233731.4,87
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-15,869.9,835.0,857.92,5842,4995928.2,92
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-16,863.0,845.0,853.97,3255,2788936.0,79
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-17,882.0,856.0,862.76,7628,6604765.6,140
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-20,876.0,853.0,853.0,3680,3188294.1,76
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-21,855.1,836.0,850.0,3535,3010958.8,57
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-22,887.0,840.0,870.68,8977,7710820.0,148
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-23,870.5,850.0,860.5,7840,6730591.3,101
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-24,875.0,840.0,843.17,9217,7807663.7,111
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-27,860.0,839.0,840.28,5731,4847476.0,76
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-28,862.6,830.2,849.47,6590,5585051.5,83
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-29,862.0,835.0,840.65,5207,4376470.5,55
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-04-30,847.0,824.0,836.68,6426,5381270.6,86
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-04,844.0,828.0,838.91,7919,6589256.0,125
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-05,846.0,826.0,838.59,2964,2479064.0,73
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-06,840.0,820.1,828.28,8679,7175755.9,84
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-07,858.0,820.0,847.5,7796,6497916.8,134
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-08,859.8,833.1,839.85,5133,4309742.0,98
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-11,882.3,825.0,871.33,20690,17942296.8,307
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-13,878.0,851.7,861.21,5452,4688495.1,98
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-14,864.8,846.0,850.6,1665,1418267.9,61
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-15,870.0,835.5,863.98,19458,16768013.9,276
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-18,886.0,847.0,874.86,33939,29714428.8,333
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-19,890.0,859.1,864.84,12637,11103248.4,156
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-20,894.9,847.6,891.67,27983,24817903.2,274
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-21,915.0,873.9,876.04,22251,19744440.6,238
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-22,889.6,860.0,862.44,9765,8467402.1,146
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-25,865.0,843.5,850.53,8917,7590342.5,134
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-26,868.0,835.0,839.75,9062,7643102.3,117
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-27,844.0,830.0,831.84,8741,7293000.1,115
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-05-28,847.9,825.3,831.21,6030,5025628.5,112
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-02,859.0,840.0,851.41,9264,7877466.0,182
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-03,851.0,831.0,833.73,5014,4196921.3,103
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-04,861.9,837.0,839.08,5977,5042673.9,124
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-05,855.8,825.1,827.98,9461,7868053.8,165
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-08,832.0,823.0,825.31,6961,5758639.7,127
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-09,839.9,818.2,837.48,4036,3365258.5,104
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-10,849.9,830.0,837.63,6867,5742415.0,109
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-11,844.9,820.9,824.83,8483,7028774.7,124
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-12,850.6,821.0,831.95,15003,12506822.1,227
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-15,846.0,821.0,836.27,6029,5038770.2,123
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-16,870.0,840.1,861.33,29634,25386261.9,399
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-17,878.2,846.2,852.45,8491,7312316.3,154
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-18,863.0,840.0,841.82,3899,3302422.9,73
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-19,849.9,825.0,831.51,13384,11168928.2,158
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-22,833.9,821.0,823.03,4154,3420928.8,97
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-23,829.9,816.0,824.79,5275,4329368.1,88
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-24,835.0,820.5,822.91,3529,2916411.2,69
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-25,835.0,821.1,828.94,3284,2718884.3,84
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-26,834.9,820.0,820.95,4855,3992936.5,118
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-29,829.8,819.0,821.7,3903,3208314.0,74
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-06-30,833.0,820.0,821.13,2028,1667161.8,57
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-01,829.8,819.0,823.15,7019,5760721.2,100
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-02,839.0,823.2,831.99,8038,6662799.6,125
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-03,845.0,826.4,829.74,4555,3800368.8,95
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-06,846.6,821.0,831.96,11194,9379937.8,146
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-07,844.0,830.0,830.53,5167,4306491.2,95
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-08,840.4,827.2,833.48,2487,2072889.9,69
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-09,843.8,833.0,837.07,6439,5398204.5,81
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-10,844.7,834.0,841.31,7381,6187622.6,106
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-13,857.0,841.1,854.97,15101,12824404.4,205
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-14,868.6,851.1,852.65,8112,6949838.8,120
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-15,862.9,849.5,861.63,6747,5805701.0,93
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-16,885.0,861.0,873.65,25977,22763991.1,236
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-17,915.0,880.9,907.7,43420,39059963.6,441
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-20,998.4,903.1,984.81,158912,154621901.8,1491
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-21,990.0,945.0,954.91,84338,81193581.5,1116
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-22,973.0,951.0,954.68,40950,39389070.1,410
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-23,964.0,936.0,945.92,34829,33095450.0,446
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-24,964.8,938.0,940.45,22385,21149540.3,373
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-27,958.0,921.7,939.41,30720,29097677.0,347
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-28,945.0,921.6,937.13,19566,18239080.2,309
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-29,970.0,918.4,950.2,35927,34365749.6,317
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-30,965.0,932.0,932.9,19846,18730843.7,262
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-07-31,939.9,922.0,927.43,19470,18135617.0,233
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-03,964.0,927.4,935.17,36795,34373184.4,525
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-04,944.8,930.0,937.25,15480,14505396.3,273
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-05,940.0,925.0,927.19,21075,19617360.9,278
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-06,945.7,920.0,932.4,19657,18275231.3,269
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-07,951.0,934.0,943.21,29245,27604130.5,407
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-11,963.0,940.0,961.15,101105,96348276.7,1165
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-12,636.2,589.9,636.2,30278,19231148.0,235
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-13,670.0,603.7,618.41,75273,46997144.1,927
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-14,619.0,595.1,598.89,27291,16407687.9,406
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-17,600.0,584.0,584.98,13893,8186083.3,227
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-18,590.0,579.3,582.73,9372,5444934.0,125
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-19,607.0,582.5,603.6,15863,9475756.8,281
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-20,611.9,592.0,601.87,13734,8249686.3,171
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-21,607.9,595.0,598.26,8619,5163908.6,151
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-24,605.8,590.0,601.97,20580,12367218.3,156
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-25,606.0,596.0,600.21,6262,3762867.1,89
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-26,610.0,598.0,604.65,5210,3147502.8,99
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-27,619.8,601.1,609.99,11639,7097569.8,148
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-28,621.0,600.0,602.34,18590,11278906.4,135
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-08-31,610.0,598.0,599.17,14457,8703770.8,122
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-01,605.0,592.0,602.63,11396,6867381.3,111
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-02,612.0,597.1,597.49,4130,2489494.3,68
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-03,602.0,595.0,598.24,7850,4697178.1,87
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-04,610.0,586.3,601.94,10675,6373440.1,97
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-07,599.9,593.0,593.09,5031,2994658.0,67
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-08,598.0,583.0,586.4,11509,6758315.7,104
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-18,574.7,574.7,574.7,10,5747.0,1
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-21,592.0,541.8,587.73,20846,11928265.9,186
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-23,594.9,582.1,590.0,6645,3908106.5,95
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-24,649.0,580.0,649.0,14778,8844846.0,99
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-25,636.1,588.0,600.0,60922,36458959.4,455
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-09-28,599.0,576.3,582.0,9159,5331326.5,120
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-07,582.0,565.0,566.2,7329,4178791.9,116
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-08,564.0,534.0,537.0,10516,5744087.5,177
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-09,590.7,540.0,540.0,8901,4899897.4,113
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-12,550.0,510.0,523.0,8552,4491280.7,147
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-13,535.0,506.1,533.3,3601,1875644.1,61
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-14,536.5,523.3,530.0,2170,1144153.0,43
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-15,527.4,512.0,513.5,6046,3130033.5,71
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-16,520.0,509.0,518.0,5762,2956045.7,62
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-19,552.0,510.0,519.9,1613,843059.9,51
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-26,518.0,503.0,513.0,1318,673017.4,34
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-28,529.9,502.8,528.0,2049,1070413.1,35
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-29,577.0,528.1,530.0,6859,3664629.9,74
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-10-30,534.9,525.0,528.1,4652,2466465.9,47
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-02,555.0,520.0,542.0,5377,2902112.8,62
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-03,552.0,536.0,542.0,4402,2389874.2,60
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-04,585.0,526.1,526.2,5905,3173049.3,88
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-05,533.0,515.0,529.7,3741,1941443.6,51
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-06,530.2,517.0,524.9,5002,2629923.4,55
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-09,520.0,510.1,513.0,2776,1431238.2,61
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-10,564.0,508.6,564.0,4772,2452877.3,94
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-11,552.8,518.7,536.0,10999,5858510.2,138
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-12,577.0,525.3,547.2,7854,4236733.2,97
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-13,546.7,528.0,544.9,5673,3064539.7,80
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-16,544.7,530.0,539.0,4973,2672786.3,67
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-17,541.0,525.0,530.0,9897,5257775.3,102
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-18,535.0,526.1,526.2,4909,2597308.4,55
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-19,551.0,530.0,532.0,10029,5357667.4,69
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-20,530.0,522.0,529.0,6912,3636343.7,61
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-23,539.0,526.1,534.0,8161,4362361.3,92
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-24,543.0,533.0,537.0,5293,2842606.3,59
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-25,542.0,526.5,533.6,3099,1646994.5,58
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-26,540.0,529.0,535.6,3587,1923157.6,42
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-27,542.0,527.0,538.5,4407,2365584.0,72
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-11-30,540.0,531.0,538.7,6850,3663264.8,80
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-12-01,538.0,530.1,530.2,5065,2690659.6,45
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-12-02,534.0,521.2,531.2,3644,1920129.8,56
+CITY,CITY HOTEL LIMITED ,Hotels And Tourism,2025-12-03,535.5,525.2,530.0,2620,1389403.1,41
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-03,1221.0,1180.0,1190.0,14084,16894899.1,233
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-04,1202.9,1170.0,1172.1,17202,20447878.8,194
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-05,1169.0,1120.0,1128.0,12481,14253887.1,174
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-08,1152.5,1106.1,1120.0,8351,9420559.4,128
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-09,1140.0,1111.1,1113.0,7027,7838473.5,83
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-10,1170.0,1111.2,1161.0,22053,25142925.0,165
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-11,1178.0,1144.1,1167.0,2428,2809625.0,56
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-12,1185.0,1145.1,1170.0,11739,13743451.4,127
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-16,1160.0,1131.0,1140.0,12220,13931690.5,127
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-17,1168.0,1122.1,1163.0,8498,9780631.6,117
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-18,1208.0,1150.0,1179.0,18261,21580015.6,219
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-19,1197.5,1144.0,1144.0,9800,11439070.8,99
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-22,1190.0,1135.0,1190.0,22766,26549097.3,199
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-23,1261.0,1170.0,1177.9,47441,56786846.1,647
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-24,1185.0,1165.0,1169.0,7445,8738976.8,142
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-26,1160.0,1127.0,1140.0,10347,11826031.2,174
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-29,1148.0,1119.9,1119.9,12253,13883636.6,168
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2024-12-31,1114.8,1061.0,1078.0,9168,9863675.7,163
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-01,1090.0,1065.3,1086.0,3401,3642327.8,73
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-02,1107.0,1070.0,1100.0,6362,6931973.0,75
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-05,1099.8,1080.0,1099.0,3050,3315298.4,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-06,1169.0,1085.2,1135.0,6319,7085032.5,98
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-07,1140.0,1112.3,1120.0,3750,4204320.2,66
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-08,1120.0,1100.0,1100.0,5080,5631631.9,105
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-09,1160.0,1087.1,1125.0,4199,4720910.0,114
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-12,1129.0,1095.0,1116.9,1042,1149403.3,35
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-13,1116.9,1073.1,1090.0,4741,5142428.2,120
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-15,1106.0,1085.0,1098.0,5845,6370141.1,78
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-16,1119.0,1076.0,1076.0,2997,3242703.4,67
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-19,1095.0,1076.5,1081.0,2228,2410555.7,69
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-20,1100.0,1080.2,1086.2,5637,6131267.4,77
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-21,1114.0,1083.2,1097.0,6293,6899692.7,122
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-22,1147.5,1083.0,1122.0,7986,8962433.5,145
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-23,1139.0,1082.0,1086.0,4378,4811030.2,87
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-26,1106.0,1085.0,1090.0,2920,3186311.5,77
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-27,1100.0,1072.1,1083.0,2447,2657073.5,65
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-01-28,1100.0,1070.1,1095.0,4672,5070778.8,97
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-02,1143.0,1101.0,1130.0,8649,9706751.8,166
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-03,1142.8,1113.0,1127.5,7786,8789155.1,109
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-04,1139.0,1110.0,1120.0,6533,7316955.0,107
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-05,1143.2,1110.0,1117.5,8254,9300950.5,137
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-06,1139.8,1117.1,1127.0,6937,7789046.3,108
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-09,1159.0,1127.0,1140.0,12554,14346052.9,217
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-10,1181.0,1135.0,1169.9,26878,31227984.4,297
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-11,1200.0,1160.0,1200.0,15761,18803226.7,248
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-12,1220.0,1171.9,1195.0,9643,11485092.2,192
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-13,1220.0,1170.0,1183.9,11783,14009457.0,190
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-16,1200.0,1153.0,1197.0,11554,13597713.5,193
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-17,1220.0,1181.0,1188.0,10199,12198421.1,165
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-18,1212.5,1164.3,1200.0,15941,19156195.4,209
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-20,1213.0,1190.0,1206.0,22285,26925103.4,208
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-23,1245.0,1194.0,1243.9,29039,35551010.5,334
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-24,1264.9,1209.0,1219.9,21273,26349689.6,341
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-25,1254.0,1226.0,1234.5,18192,22502492.6,207
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-02-27,1259.0,1216.0,1230.1,9400,11649429.7,141
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-02,1298.0,1235.0,1283.0,16504,20842193.9,265
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-03,1306.3,1270.0,1290.0,16546,21272557.8,231
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-04,1300.0,1230.0,1270.0,14908,18856485.8,237
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-05,1269.9,1226.3,1230.0,9774,12095953.2,137
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-06,1251.0,1208.0,1241.1,7746,9510217.3,145
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-09,1234.0,1195.6,1210.0,6319,7644696.5,139
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-10,1233.1,1180.0,1180.0,4504,5390315.2,110
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-11,1180.0,1148.0,1150.0,5394,6287195.8,123
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-12,1173.0,1152.0,1166.0,3598,4191905.0,70
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-16,1166.0,1143.0,1144.0,3055,3507847.5,55
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-17,1159.0,1130.0,1159.0,5420,6197353.0,92
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-18,1173.9,1142.0,1142.0,2663,3068686.1,62
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-19,1210.0,1134.0,1142.0,1916,2219333.9,62
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-20,1164.8,1120.0,1124.8,3995,4513926.5,83
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-23,1135.0,1085.0,1091.16,5479,6013251.4,115
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-24,1118.0,1070.0,1101.49,1859,2027495.0,66
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-25,1097.0,1072.0,1079.52,3821,4136289.0,76
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-26,1111.0,1080.0,1095.66,2625,2887472.0,66
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-27,1135.0,1092.7,1112.08,4504,4999710.9,84
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-03-30,1150.0,1103.0,1144.79,2699,3052401.0,69
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-01,1131.1,1100.1,1108.57,3164,3513820.0,81
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-02,1140.0,1100.0,1115.41,702,786075.0,30
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-03,1132.0,1090.0,1102.9,4944,5459127.5,85
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-07,1120.0,1083.1,1084.68,1864,2030360.5,69
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-08,1104.0,1070.0,1086.0,1965,2121337.0,47
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-09,1117.7,1088.1,1113.54,1914,2121687.9,64
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-10,1128.0,1100.2,1101.8,2150,2379213.5,55
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-13,1100.0,1083.4,1091.6,1911,2088533.1,40
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-15,1120.0,1089.8,1118.55,3932,4333120.4,97
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-16,1122.8,1097.0,1119.52,1143,1271318.2,45
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-17,1139.9,1101.1,1123.32,2259,2547516.6,63
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-20,1120.0,1101.1,1103.92,1567,1735576.7,47
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-21,1111.0,1090.0,1098.73,3515,3865724.4,88
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-22,1111.8,1087.0,1111.37,1890,2071237.0,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-23,1118.7,1091.0,1105.0,1916,2112225.0,35
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-24,1111.0,1085.0,1093.96,3213,3520516.9,67
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-27,1120.0,1090.0,1109.38,2926,3226025.0,73
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-28,1109.9,1095.0,1106.81,2536,2789138.7,47
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-29,1100.0,1085.5,1087.86,3449,3768449.6,75
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-04-30,1114.0,1075.0,1105.73,8329,9105250.6,114
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-04,1129.9,1090.0,1106.01,3296,3653785.1,94
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-05,1138.0,1104.5,1108.2,2167,2415497.7,45
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-06,1125.0,1110.0,1122.42,3506,3923672.6,53
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-07,1150.0,1112.0,1141.95,4987,5618340.7,98
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-08,1163.0,1122.1,1127.21,3226,3658048.0,66
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-11,1173.9,1130.0,1156.66,7692,8926269.1,143
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-13,1175.0,1138.0,1145.0,3661,4230796.8,92
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-14,1167.0,1134.2,1145.99,2114,2428922.0,48
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-15,1168.9,1145.0,1159.39,3527,4079649.8,98
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-18,1199.8,1157.0,1183.76,12642,14947411.3,183
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-19,1200.0,1152.5,1170.09,5643,6653875.7,89
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-20,1190.0,1151.0,1188.61,5105,6041813.0,75
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-21,1212.0,1167.0,1169.47,2749,3243253.0,60
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-22,1179.0,1152.7,1158.15,4368,5065422.7,85
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-25,1177.0,1141.1,1153.26,3090,3563087.5,72
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-26,1198.5,1130.2,1135.2,2037,2329930.0,54
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-27,1140.0,1118.0,1140.0,1161,1305861.5,36
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-05-28,1161.0,1115.3,1118.05,4238,4758318.6,71
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-02,1150.0,1108.4,1142.92,3507,3968877.5,85
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-03,1142.0,1110.0,1121.62,791,887691.9,32
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-04,1130.0,1092.0,1096.07,2590,2858347.5,63
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-05,1109.0,1085.0,1092.65,3033,3312936.0,68
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-08,1110.0,1090.0,1094.23,3209,3505924.5,65
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-09,1125.0,1087.0,1114.2,2688,2970774.8,58
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-10,1134.0,1095.0,1119.6,1320,1470040.0,49
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-11,1139.0,1100.0,1111.79,1459,1627848.7,55
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-12,1152.6,1094.0,1122.8,8246,9245402.1,128
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-15,1145.0,1105.3,1108.13,2541,2840295.0,64
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-16,1150.0,1095.0,1138.16,5323,6026297.7,143
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-17,1140.0,1105.0,1114.98,3025,3382390.0,51
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-18,1129.0,1099.1,1108.39,5269,5843103.9,136
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-19,1125.0,1101.0,1107.54,2699,2985241.1,77
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-22,1107.0,1080.2,1089.96,3118,3395187.3,68
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-23,1103.8,1076.0,1085.62,1378,1499630.5,51
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-24,1098.9,1080.2,1080.39,2841,3089338.0,58
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-25,1096.9,1076.0,1083.24,2946,3186449.5,74
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-26,1100.0,1063.0,1068.12,5006,5384069.0,103
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-29,1100.0,1050.0,1096.63,4322,4682475.9,83
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-06-30,1097.0,1077.0,1085.28,1350,1464201.0,39
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-01,1106.9,1072.0,1100.8,1700,1848408.5,50
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-02,1105.0,1081.0,1102.23,3210,3527721.0,57
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-03,1105.0,1085.1,1103.58,3749,4111947.9,67
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-06,1114.0,1092.0,1109.69,2185,2412191.0,49
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-07,1128.0,1106.1,1111.08,5979,6666759.3,96
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-08,1130.0,1100.0,1116.75,2081,2312619.9,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-09,1128.0,1094.5,1121.31,1735,1930549.2,46
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-10,1127.1,1080.0,1097.5,3772,4171984.6,110
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-13,1123.0,1100.0,1118.02,2920,3252197.0,79
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-14,1107.0,1100.0,1102.2,1510,1664069.0,39
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-15,1125.0,1082.0,1121.1,3547,3934501.0,86
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-16,1193.4,1100.3,1157.21,5300,6067781.0,95
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-17,1190.0,1130.0,1182.77,7125,8380405.8,144
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-20,1195.0,1150.0,1168.07,10133,11860613.2,170
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-21,1180.0,1145.0,1171.46,4875,5640349.6,128
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-22,1200.0,1155.0,1192.77,8901,10513129.6,201
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-23,1194.5,1165.0,1178.11,7716,9084838.6,127
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-24,1185.0,1155.2,1161.37,6065,7073570.4,121
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-27,1185.0,1150.0,1152.35,6848,7979536.8,145
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-28,1168.0,1129.4,1157.37,7628,8758908.4,126
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-29,1179.8,1160.0,1174.0,7176,8394541.4,132
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-30,1175.2,1135.0,1140.76,6066,7025544.5,109
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-07-31,1155.0,1115.0,1128.36,4309,4881507.0,121
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-03,1140.0,1100.0,1108.07,6083,6776068.3,126
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-04,1120.0,1098.0,1118.63,3240,3588639.0,110
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-05,1140.0,1097.0,1108.92,5853,6482164.5,99
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-06,1115.0,1080.0,1094.12,2870,3157661.0,72
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-07,1121.9,1091.1,1114.38,1183,1311193.7,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-11,1100.1,1090.0,1094.0,2580,2827107.8,62
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-12,1099.0,1079.0,1085.98,2303,2506905.5,76
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-13,1100.0,1079.0,1080.55,1416,1534215.0,43
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-14,1100.0,1080.0,1091.07,3463,3768271.8,61
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-17,1102.9,1083.0,1101.3,1403,1537055.1,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-18,1100.0,1088.0,1094.5,2216,2421431.8,33
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-19,1100.0,1085.2,1090.0,1410,1540811.0,38
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-20,1132.0,1075.0,1100.83,3834,4216768.1,86
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-21,1110.0,1078.0,1080.49,1295,1409237.0,31
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-24,1088.0,1070.0,1073.48,1717,1848359.7,53
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-25,1085.0,1063.1,1080.3,1030,1108577.0,36
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-26,1101.9,1070.6,1089.93,2578,2801250.3,63
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-27,1110.0,1068.2,1087.15,3055,3290704.8,66
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-28,1108.8,1080.1,1082.05,2791,3048285.0,80
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-08-31,1082.05,1063.2,1064.47,1775,1894985.8,66
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-01,1072.0,1057.0,1066.72,908,964651.7,41
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-02,1070.0,1052.1,1053.91,1689,1784551.1,55
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-03,1055.0,1038.0,1040.1,2257,2361847.0,56
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-04,1031.1,1000.0,1018.41,3670,3723439.7,101
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-07,1032.0,1011.1,1016.22,655,667300.5,42
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-08,1020.0,985.0,993.2,1075,1081977.0,42
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-18,973.4,954.0,954.0,40,38354.0,4
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-21,971.0,905.1,955.92,4981,4693275.4,118
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-23,999.0,951.0,999.0,1045,1019250.0,52
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-24,1038.0,980.0,994.0,1020,1009981.0,36
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-25,998.9,980.0,998.9,913,899285.5,25
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-09-28,998.0,980.0,997.0,905,890518.0,13
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-07,980.0,961.0,965.0,1589,1540356.4,38
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-08,975.0,939.0,939.0,2132,2029031.7,50
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-09,1015.4,941.1,941.1,4282,4120178.8,58
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-12,943.4,900.0,920.0,2788,2533975.5,78
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-13,920.0,901.0,920.0,2627,2400738.0,60
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-14,950.0,900.0,910.0,2687,2457629.9,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-15,918.9,895.0,918.9,1892,1720297.2,55
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-16,917.6,884.2,901.9,1672,1489179.5,43
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-19,922.0,890.0,900.0,1160,1042514.8,33
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-26,900.0,881.1,890.0,1630,1447306.0,32
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-28,930.0,895.0,916.0,1479,1353304.5,46
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-29,927.0,905.0,915.0,2036,1861651.0,40
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-10-30,926.0,900.1,926.0,2439,2229357.9,29
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-02,934.9,900.0,917.0,4049,3712206.9,59
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-03,928.9,911.1,928.0,434,398435.9,22
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-04,929.0,897.0,900.0,10146,9159897.4,98
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-05,910.0,896.2,909.0,1862,1678437.6,41
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-06,924.0,900.1,903.0,972,882988.0,19
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-09,910.0,896.4,900.0,4454,4023098.0,50
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-10,917.9,898.0,900.0,3133,2820436.0,33
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-11,906.0,894.0,906.0,1552,1393703.7,32
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-12,900.0,880.1,885.0,3652,3245914.4,67
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-13,902.0,884.0,884.0,930,824213.0,24
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-16,885.0,870.0,884.0,2734,2405928.4,45
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-17,894.0,874.0,875.0,1480,1299265.0,28
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-18,890.0,873.0,889.0,2265,1999582.0,40
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-19,903.0,868.0,900.0,3000,2651276.4,63
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-20,899.0,877.1,894.6,1120,987269.0,35
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-23,909.6,890.0,901.0,1464,1316957.7,33
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-24,908.0,890.2,905.0,2958,2667502.6,62
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-25,923.1,896.0,909.9,2656,2405672.9,57
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-26,920.0,905.1,920.0,2506,2297214.9,69
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-27,931.0,903.1,914.0,6970,6346547.8,98
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-11-30,915.0,878.1,878.1,13170,11754593.0,169
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-12-01,895.6,874.0,883.0,2759,2432311.5,38
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-12-02,887.0,866.0,884.0,5885,5139840.5,84
+KDL,KALINCHOWK DARSHAN LIMITED ,Hotels And Tourism,2025-12-03,901.6,880.0,890.0,2731,2425730.5,47
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-03,993.4,962.5,972.0,29306,28487061.5,289
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-04,979.0,953.0,953.0,29329,28350754.2,307
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-05,965.0,935.0,935.3,36805,34742775.5,421
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-08,950.0,921.0,935.0,25162,23427718.6,301
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-09,948.0,925.0,926.0,14936,13876300.3,194
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-10,942.4,918.0,922.0,16448,15197168.1,203
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-11,935.0,921.0,933.0,7753,7174637.0,131
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-12,948.0,917.2,919.0,23893,22196487.2,220
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-16,924.0,910.0,912.0,21295,19445011.0,203
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-17,925.0,907.0,914.0,10635,9726614.8,138
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-18,925.0,911.0,912.2,9664,8835460.7,115
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-19,930.0,905.1,905.1,24632,22463900.5,205
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-22,915.0,903.2,907.0,20392,18498732.7,170
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-23,925.1,905.0,910.0,11288,10265866.6,121
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-24,925.0,900.0,918.0,15444,14159296.7,158
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-26,918.0,905.3,905.4,17207,15650293.1,183
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-29,913.5,900.0,900.0,17732,16039602.7,193
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2024-12-31,904.9,882.1,889.0,19880,17754715.1,286
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-01,895.0,882.0,884.0,8315,7370157.3,156
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-02,890.0,880.0,887.4,17446,15444890.0,211
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-05,904.0,880.0,902.0,11438,10238695.8,164
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-06,919.9,897.0,917.9,14747,13400575.0,182
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-07,924.0,907.0,914.0,11281,10330320.3,155
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-08,912.5,906.0,907.0,10005,9105114.7,145
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-09,922.0,901.0,908.9,24281,22064259.3,234
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-12,909.8,885.0,892.0,19425,17384686.2,186
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-13,899.0,876.6,883.0,30472,26950424.8,311
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-15,900.0,878.0,880.0,13320,11788324.4,164
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-16,890.0,870.0,877.0,18731,16420904.8,203
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-19,900.0,876.5,890.0,23070,20441154.8,192
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-20,899.4,880.0,883.0,20978,18563990.5,195
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-21,895.0,876.2,887.0,12701,11269420.8,137
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-22,920.0,887.0,906.0,37848,34393946.0,404
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-23,924.1,890.0,899.9,18932,17012474.5,239
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-26,902.0,889.3,894.0,21984,19612783.0,190
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-27,910.0,892.0,893.9,17117,15312982.5,119
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-01-28,899.0,881.5,892.0,31842,28308667.3,277
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-02,915.0,893.2,913.0,39058,35416628.8,327
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-03,922.0,905.1,918.0,36721,33626615.7,320
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-04,936.3,895.1,897.0,37507,33921434.3,333
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-05,910.9,897.0,900.0,23622,21287729.6,219
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-06,914.0,890.0,894.0,26144,23427249.3,245
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-09,908.0,889.8,892.0,36431,32545145.5,264
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-10,910.4,875.1,887.0,23188,20622230.5,206
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-11,920.0,869.3,885.0,20643,18341420.7,222
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-12,890.0,880.0,885.0,31963,28246480.1,304
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-13,900.0,880.1,884.0,21333,18871655.8,204
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-16,892.0,883.0,888.0,17754,15777481.0,221
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-17,904.5,885.0,894.0,35134,31464381.5,358
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-18,901.0,885.0,885.0,56068,50014698.5,389
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-20,892.0,885.0,885.3,21315,18923629.6,212
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-23,894.0,877.0,886.7,39276,34775680.3,333
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-24,904.0,888.1,890.1,24754,22190301.3,279
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-25,899.7,890.0,893.9,18708,16731142.6,212
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-02-27,935.0,896.0,931.0,75535,69212052.6,646
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-02,967.8,940.0,967.8,66953,63994450.7,664
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-03,981.5,941.0,941.0,49542,47409525.2,536
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-04,955.0,921.0,924.0,53291,50045566.2,503
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-05,932.0,911.1,917.0,37899,34859946.1,363
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-06,935.3,910.0,915.0,39755,36466510.8,284
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-09,924.0,894.1,897.0,41351,37472513.6,414
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-10,910.0,890.1,898.0,24762,22271079.9,279
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-11,903.0,885.0,885.0,26776,23882376.5,291
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-12,900.0,885.0,897.0,19047,17018886.0,175
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-16,914.9,890.0,892.5,19318,17317584.5,225
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-17,900.0,887.0,888.4,16286,14525770.4,166
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-18,904.0,887.0,890.0,14530,12927619.4,156
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-19,899.8,885.3,886.0,16501,14659826.7,170
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-20,895.0,880.5,886.71,16164,14331408.4,181
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-23,887.0,870.0,871.3,25260,22147205.0,285
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-24,880.0,856.0,877.42,25794,22436583.7,249
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-25,877.0,855.1,858.93,18716,16124511.2,254
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-26,869.6,855.0,864.24,16901,14579780.5,171
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-27,874.0,860.0,867.47,28112,24278526.5,232
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-03-30,885.0,860.1,879.92,28897,25317520.4,236
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-01,880.0,860.0,861.96,24998,21648689.6,254
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-02,874.9,860.1,867.17,22780,19737920.8,162
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-03,880.0,860.0,869.25,28718,24958163.2,200
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-07,885.0,858.3,859.27,28242,24374686.9,200
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-08,868.5,850.0,856.61,35339,30184569.5,310
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-09,870.0,850.0,854.55,16723,14335123.3,175
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-10,864.9,850.0,852.2,25325,21580072.5,238
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-13,855.6,850.0,853.01,18258,15576861.9,125
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-15,877.2,855.0,868.9,10356,9016706.0,150
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-16,873.0,866.0,869.79,8504,7407374.0,99
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-17,880.0,865.1,874.02,17961,15700575.2,182
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-20,880.0,870.0,873.17,15234,13333896.3,143
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-21,877.9,870.0,872.62,12815,11192519.3,136
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-22,882.0,865.0,873.24,8965,7845206.0,93
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-23,873.0,867.0,868.86,6912,6004476.2,100
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-24,872.0,861.5,862.33,17484,15138895.7,129
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-27,870.0,852.2,860.47,11906,10272249.6,138
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-28,865.0,856.1,858.41,10490,9021583.8,103
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-29,860.0,850.0,850.68,9798,8368729.9,158
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-04-30,854.0,844.0,845.19,12399,10497971.1,177
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-04,860.0,845.4,854.5,15455,13171855.7,149
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-05,858.5,851.0,852.25,11605,9889471.7,102
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-06,851.0,842.1,846.96,8734,7405095.0,114
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-07,868.0,845.0,861.63,9248,7894763.8,157
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-08,870.0,851.3,856.06,15896,13637567.3,143
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-11,892.3,857.1,889.52,56488,49562145.8,521
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-13,893.0,860.5,862.16,22587,19771920.3,274
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-14,874.0,856.5,857.83,6389,5511084.2,104
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-15,874.0,850.0,862.54,18776,16203533.8,266
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-18,893.0,865.3,877.26,146426,129811183.5,448
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-19,920.0,880.0,896.28,266246,236754650.8,675
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-20,919.8,891.8,918.48,260857,235478845.8,669
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-21,955.0,898.0,900.13,131695,121358311.0,575
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-22,909.8,882.3,887.96,26524,23674177.7,300
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-25,890.1,876.0,876.75,25447,22383316.0,267
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-26,894.2,861.0,865.24,26722,23313554.5,264
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-27,870.0,860.0,861.97,18546,16016870.4,212
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-05-28,879.0,855.1,868.99,11821,10248555.5,114
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-02,904.0,870.0,879.29,27971,24606982.3,271
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-03,885.0,865.0,865.89,16125,14033275.4,137
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-04,879.5,860.0,865.58,14182,12246814.0,126
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-05,905.0,850.0,898.91,184782,159395522.6,579
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-08,918.0,896.0,901.47,68736,62155036.8,458
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-09,907.0,883.5,900.08,120708,107304526.3,336
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-10,912.0,890.0,890.1,21694,19450887.8,206
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-11,930.0,890.0,919.43,112564,103196550.1,769
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-12,999.0,920.0,981.75,233162,224693664.3,1733
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-15,1029.1,962.3,1013.67,218249,216903616.7,1527
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-16,1069.4,1007.5,1046.84,271593,283463474.1,1812
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-17,1065.0,1015.5,1023.18,133389,138525112.5,960
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-18,1043.5,976.1,996.84,202952,205904751.5,1111
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-19,1029.1,981.0,995.2,158963,159829318.1,1035
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-22,1000.0,945.1,952.32,92647,89715937.3,686
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-23,970.0,931.0,964.86,55920,53098245.3,476
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-24,989.0,945.0,948.11,48063,46513257.4,397
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-25,1000.0,941.0,994.9,181945,175042000.9,775
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-26,1000.0,961.0,966.0,55944,54924209.4,486
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-29,972.0,940.0,950.84,141634,135465364.5,528
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-06-30,979.9,950.0,953.13,73744,70680756.7,331
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-01,972.1,950.0,952.2,38944,37161009.6,283
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-02,971.2,947.0,954.62,60583,57777738.0,393
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-03,973.7,948.0,949.18,56465,53713263.7,394
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-06,968.1,938.9,940.76,36006,34072914.9,336
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-07,973.0,935.9,949.72,122356,116714033.9,483
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-08,965.0,942.0,953.52,63711,60474381.4,332
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-09,960.0,945.0,956.72,36088,34492700.2,249
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-10,970.0,950.0,955.37,51449,49360035.3,370
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-13,990.0,950.4,952.07,61886,59382777.2,408
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-14,965.0,947.0,949.19,31652,30169109.8,212
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-15,970.0,946.0,960.45,41112,39522070.7,313
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-16,970.0,951.0,956.02,50778,48878111.1,321
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-17,1009.0,965.0,995.64,85971,85164651.3,671
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-20,1038.0,990.0,1015.06,154667,157060695.9,1038
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-21,1065.0,1001.1,1061.48,275925,288738314.7,1647
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-22,1099.9,1073.0,1096.17,195971,212993361.1,1269
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-23,1125.0,1065.0,1116.94,199361,218251426.1,1486
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-24,1140.0,1100.0,1129.73,186929,209617744.6,1107
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-27,1150.0,1065.0,1090.86,225372,249484272.1,1521
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-28,1115.0,1072.2,1100.84,183126,199537587.2,992
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-29,1120.2,1090.0,1097.19,104397,115331856.1,695
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-30,1109.0,1060.6,1063.86,133426,143699666.2,786
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-07-31,1080.0,1030.1,1039.2,124905,131536542.9,800
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-03,1050.0,998.0,1000.08,196799,199574738.4,930
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-04,1014.0,990.2,1002.82,121056,121305413.6,584
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-05,1028.1,991.0,998.24,72548,72923045.3,432
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-06,1002.0,985.6,990.21,34597,34325246.5,250
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-07,1009.0,991.1,1003.49,39763,39829833.0,280
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-11,1011.0,974.2,985.27,51755,51353174.9,377
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-12,993.8,975.3,979.68,30251,29682617.7,281
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-13,999.0,971.0,979.39,28248,27784575.2,235
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-14,997.0,975.0,981.5,36260,35735907.1,220
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-17,1035.0,982.0,991.58,29900,29612769.6,252
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-18,1005.0,985.1,990.59,32323,32091078.1,255
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-19,999.0,977.1,981.44,29524,29060101.0,225
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-20,1063.0,982.1,1054.3,187779,194066813.1,1379
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-21,1068.0,1041.0,1058.06,96275,101517570.7,768
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-24,1058.5,1021.0,1024.41,94909,98038758.0,467
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-25,1055.0,1010.0,1040.04,124829,129663888.6,514
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-26,1044.0,1030.0,1038.15,22195,22966711.2,215
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-27,1070.7,1038.0,1062.66,116127,122566297.9,560
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-28,1104.0,1042.4,1056.49,178031,189023634.0,736
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-08-31,1055.5,1025.0,1027.38,38015,39434753.4,321
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-01,1050.0,1021.5,1042.87,50624,52173655.2,269
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-02,1060.0,1022.0,1023.2,29620,30535133.7,230
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-03,1035.0,1006.0,1011.28,24679,25154834.1,258
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-04,1020.0,1002.5,1013.24,29890,30173730.7,233
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-07,1029.0,1000.0,1010.31,22357,22561724.0,188
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-08,1018.9,982.0,986.47,28180,27921220.9,256
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-18,1005.0,888.0,888.0,2808,2630445.5,22
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-21,940.0,803.0,892.08,123737,106475438.6,857
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-23,934.0,885.0,933.0,51005,46543001.8,340
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-24,945.0,915.6,933.9,27970,25830351.7,214
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-25,934.9,905.0,934.9,29932,27543042.7,191
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-09-28,929.0,900.1,901.0,16549,15029815.1,146
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-07,917.8,867.0,868.1,36060,31685863.7,304
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-08,899.0,850.0,860.0,23921,20500242.2,214
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-09,925.0,864.0,864.0,26288,23018144.8,201
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-12,864.0,810.0,820.0,44601,37139187.3,379
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-13,854.0,803.0,854.0,27248,22690278.3,220
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-14,857.0,830.0,838.0,18907,15898407.4,151
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-15,854.0,824.0,827.0,13864,11462984.6,119
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-16,830.0,805.0,823.8,20696,16806981.4,164
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-19,833.0,817.5,827.0,6013,4943912.1,59
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-26,830.0,800.2,830.0,17093,13854765.2,138
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-28,860.0,815.0,845.0,21556,18057602.6,160
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-29,912.9,839.1,843.0,14951,12773546.5,176
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-10-30,921.0,831.1,868.0,29001,24797005.9,162
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-02,910.0,852.0,910.0,189689,166877139.7,365
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-03,913.0,891.8,910.0,49209,44186539.7,233
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-04,983.0,891.8,924.9,169476,153132430.5,387
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-05,926.0,892.0,900.2,24362,22080322.6,181
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-06,954.7,900.0,919.0,52667,48036792.1,301
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-09,937.3,896.0,900.0,35827,32518435.0,192
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-10,910.0,887.0,890.0,26236,23500769.0,154
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-11,907.8,872.5,878.0,18223,16130940.2,179
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-12,887.9,823.0,860.0,46302,39738102.8,227
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-13,877.0,842.8,875.0,21701,18772026.5,141
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-16,878.0,845.0,860.0,19416,16640417.9,160
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-17,867.0,851.0,857.1,5843,5000514.0,73
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-18,869.9,850.0,861.0,19039,16384313.9,116
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-19,868.0,855.0,860.9,19354,16584427.8,94
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-20,862.0,848.0,854.0,19828,16896612.1,166
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-23,892.0,860.0,878.0,27836,24461745.6,203
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-24,892.8,880.1,880.2,20797,18437100.8,157
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-25,890.0,880.0,887.0,9377,8285179.0,106
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-26,903.0,882.0,882.1,27343,24419110.1,166
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-27,898.8,875.4,882.1,26762,23588250.8,170
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-11-30,891.0,870.0,872.0,22713,20010944.0,197
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-12-01,877.0,867.0,868.3,17233,15029713.8,137
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-12-02,897.0,866.0,879.8,8586,7557044.0,104
+CGH,Chandragiri Hills Limited,Hotels And Tourism,2025-12-03,894.0,878.0,890.0,32652,28989984.9,251
