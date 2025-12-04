@@ -1,0 +1,167 @@
+[
+  {
+    "securityId": "450",
+    "securityName": "Corporate Development Bank Limited",
+    "symbol": "CORBL",
+    "indexId": 55,
+    "totalTradeQuantity": 2001,
+    "lastTradedPrice": 1700.0,
+    "percentageChange": -0.8168028,
+    "previousClose": 1714.0,
+    "closePrice": 1700.0
+  },
+  {
+    "securityId": "274",
+    "securityName": "Excel Development Bank Ltd.",
+    "symbol": "EDBL",
+    "indexId": 55,
+    "totalTradeQuantity": 10792,
+    "lastTradedPrice": 575.3,
+    "percentageChange": -1.876172608,
+    "previousClose": 586.3,
+    "closePrice": 575.3
+  },
+  {
+    "securityId": "417",
+    "securityName": "Garima Bikas Bank Limited",
+    "symbol": "GBBL",
+    "indexId": 55,
+    "totalTradeQuantity": 20031,
+    "lastTradedPrice": 380.8,
+    "percentageChange": -0.052493438,
+    "previousClose": 381.0,
+    "closePrice": 380.8
+  },
+  {
+    "securityId": "2744",
+    "securityName": "Green Development Bank Ltd.",
+    "symbol": "GRDBL",
+    "indexId": 55,
+    "totalTradeQuantity": 19553,
+    "lastTradedPrice": 1184.0,
+    "percentageChange": -2.791461412,
+    "previousClose": 1218.0,
+    "closePrice": 1184.0
+  },
+  {
+    "securityId": "418",
+    "securityName": "Jyoti Bikas Bank Limited",
+    "symbol": "JBBL",
+    "indexId": 55,
+    "totalTradeQuantity": 39429,
+    "lastTradedPrice": 325.9,
+    "percentageChange": -1.002430134,
+    "previousClose": 329.2,
+    "closePrice": 325.9
+  },
+  {
+    "securityId": "459",
+    "securityName": "Kamana Sewa Bikas Bank Limited",
+    "symbol": "KSBBL",
+    "indexId": 55,
+    "totalTradeQuantity": 16185,
+    "lastTradedPrice": 433.1,
+    "percentageChange": -0.892448513,
+    "previousClose": 437.0,
+    "closePrice": 433.1
+  },
+  {
+    "securityId": "358",
+    "securityName": "Lumbini Bikas Bank Ltd.",
+    "symbol": "LBBL",
+    "indexId": 55,
+    "totalTradeQuantity": 77423,
+    "lastTradedPrice": 444.9,
+    "percentageChange": -1.133333333,
+    "previousClose": 450.0,
+    "closePrice": 444.9
+  },
+  {
+    "securityId": "371",
+    "securityName": "Miteri Development Bank Limited",
+    "symbol": "MDB",
+    "indexId": 55,
+    "totalTradeQuantity": 22728,
+    "lastTradedPrice": 578.0,
+    "percentageChange": 0.872600349,
+    "previousClose": 573.0,
+    "closePrice": 578.0
+  },
+  {
+    "securityId": "401",
+    "securityName": "Mahalaxmi Bikas Bank Ltd.",
+    "symbol": "MLBL",
+    "indexId": 55,
+    "totalTradeQuantity": 37298,
+    "lastTradedPrice": 382.0,
+    "percentageChange": -0.494920552,
+    "previousClose": 383.9,
+    "closePrice": 382.0
+  },
+  {
+    "securityId": "474",
+    "securityName": "Muktinath Bikas Bank Ltd.",
+    "symbol": "MNBBL",
+    "indexId": 55,
+    "totalTradeQuantity": 47587,
+    "lastTradedPrice": 347.9,
+    "percentageChange": -0.883190883,
+    "previousClose": 351.0,
+    "closePrice": 347.9
+  },
+  {
+    "securityId": "172",
+    "securityName": "Narayani Development Bank Limited",
+    "symbol": "NABBC",
+    "indexId": 55,
+    "totalTradeQuantity": 37283,
+    "lastTradedPrice": 1075.0,
+    "percentageChange": -1.285583104,
+    "previousClose": 1089.0,
+    "closePrice": 1075.0
+  },
+  {
+    "securityId": "472",
+    "securityName": "Shangrila Development Bank Ltd.",
+    "symbol": "SADBL",
+    "indexId": 55,
+    "totalTradeQuantity": 30941,
+    "lastTradedPrice": 409.9,
+    "percentageChange": -0.966417009,
+    "previousClose": 413.9,
+    "closePrice": 409.9
+  },
+  {
+    "securityId": "2860",
+    "securityName": "Saptakoshi Development Bank Ltd",
+    "symbol": "SAPDBL",
+    "indexId": 55,
+    "totalTradeQuantity": 18937,
+    "lastTradedPrice": 810.1,
+    "percentageChange": -2.279855247,
+    "previousClose": 829.0,
+    "closePrice": 810.1
+  },
+  {
+    "securityId": "473",
+    "securityName": "Shine Resunga Development Bank Ltd.",
+    "symbol": "SHINE",
+    "indexId": 55,
+    "totalTradeQuantity": 21697,
+    "lastTradedPrice": 398.8,
+    "percentageChange": 1.089987326,
+    "previousClose": 394.5,
+    "closePrice": 398.8
+  },
+  {
+    "securityId": "561",
+    "securityName": "Sindhu Bikash Bank Ltd",
+    "symbol": "SINDU",
+    "indexId": 55,
+    "totalTradeQuantity": 18956,
+    "lastTradedPrice": 727.9,
+    "percentageChange": -0.424076607,
+    "previousClose": 731.0,
+    "closePrice": 727.9
+  }
+]

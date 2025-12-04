@@ -1,0 +1,24 @@
+[
+  {
+    "securityId": "156",
+    "securityName": "Bishal Bazar Company Limited",
+    "symbol": "BBC",
+    "indexId": 61,
+    "totalTradeQuantity": 599,
+    "lastTradedPrice": 4924.9,
+    "percentageChange": -0.265289591,
+    "previousClose": 4938.0,
+    "closePrice": 4924.9
+  },
+  {
+    "securityId": "155",
+    "securityName": "Salt Trading Corporation",
+    "symbol": "STC",
+    "indexId": 61,
+    "totalTradeQuantity": 2188,
+    "lastTradedPrice": 5365.0,
+    "percentageChange": 0.093283582,
+    "previousClose": 5360.0,
+    "closePrice": 5365.0
+  }
+]

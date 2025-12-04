@@ -1,0 +1,211 @@
+[
+  {
+    "securityId": "397",
+    "securityName": "Agricultural Development Bank Limited",
+    "symbol": "ADBL",
+    "indexId": 51,
+    "totalTradeQuantity": 23796,
+    "lastTradedPrice": 298.2,
+    "percentageChange": -0.930232558,
+    "previousClose": 301.0,
+    "closePrice": 298.2
+  },
+  {
+    "securityId": "348",
+    "securityName": "Citizens Bank International Limited",
+    "symbol": "CZBIL",
+    "indexId": 51,
+    "totalTradeQuantity": 53400,
+    "lastTradedPrice": 196.0,
+    "percentageChange": 1.501812532,
+    "previousClose": 193.1,
+    "closePrice": 196.0
+  },
+  {
+    "securityId": "137",
+    "securityName": "Everest Bank Limited",
+    "symbol": "EBL",
+    "indexId": 51,
+    "totalTradeQuantity": 19833,
+    "lastTradedPrice": 644.0,
+    "percentageChange": 0.155520995,
+    "previousClose": 643.0,
+    "closePrice": 644.0
+  },
+  {
+    "securityId": "341",
+    "securityName": "Global IME Bank Limited",
+    "symbol": "GBIME",
+    "indexId": 51,
+    "totalTradeQuantity": 91971,
+    "lastTradedPrice": 225.0,
+    "percentageChange": -1.098901099,
+    "previousClose": 227.5,
+    "closePrice": 225.0
+  },
+  {
+    "securityId": "134",
+    "securityName": "Himalayan Bank Limited",
+    "symbol": "HBL",
+    "indexId": 51,
+    "totalTradeQuantity": 47380,
+    "lastTradedPrice": 190.6,
+    "percentageChange": -1.7019082,
+    "previousClose": 193.9,
+    "closePrice": 190.6
+  },
+  {
+    "securityId": "142",
+    "securityName": "Kumari Bank Limited",
+    "symbol": "KBL",
+    "indexId": 51,
+    "totalTradeQuantity": 203507,
+    "lastTradedPrice": 180.0,
+    "percentageChange": -1.639344262,
+    "previousClose": 183.0,
+    "closePrice": 180.0
+  },
+  {
+    "securityId": "141",
+    "securityName": "Laxmi Sunrise Bank Limited",
+    "symbol": "LSL",
+    "indexId": 51,
+    "totalTradeQuantity": 114086,
+    "lastTradedPrice": 232.0,
+    "percentageChange": -0.59982862,
+    "previousClose": 233.4,
+    "closePrice": 232.0
+  },
+  {
+    "securityId": "140",
+    "securityName": "Machhapuchhre Bank Limited",
+    "symbol": "MBL",
+    "indexId": 51,
+    "totalTradeQuantity": 62950,
+    "lastTradedPrice": 219.0,
+    "percentageChange": -0.815217391,
+    "previousClose": 220.8,
+    "closePrice": 219.0
+  },
+  {
+    "securityId": "131",
+    "securityName": "Nabil Bank Limited",
+    "symbol": "NABIL",
+    "indexId": 51,
+    "totalTradeQuantity": 25319,
+    "lastTradedPrice": 510.2,
+    "percentageChange": -0.448780488,
+    "previousClose": 512.5,
+    "closePrice": 510.2
+  },
+  {
+    "securityId": "517",
+    "securityName": "Nepal Bank Limited",
+    "symbol": "NBL",
+    "indexId": 51,
+    "totalTradeQuantity": 37450,
+    "lastTradedPrice": 240.3,
+    "percentageChange": -1.111111111,
+    "previousClose": 243.0,
+    "closePrice": 240.3
+  },
+  {
+    "securityId": "139",
+    "securityName": "NIC Asia Bank Ltd.",
+    "symbol": "NICA",
+    "indexId": 51,
+    "totalTradeQuantity": 29618,
+    "lastTradedPrice": 320.0,
+    "percentageChange": -2.110737229,
+    "previousClose": 326.9,
+    "closePrice": 320.0
+  },
+  {
+    "securityId": "132",
+    "securityName": "Nepal Investment Mega Bank Limited",
+    "symbol": "NIMB",
+    "indexId": 51,
+    "totalTradeQuantity": 127505,
+    "lastTradedPrice": 195.0,
+    "percentageChange": -1.015228426,
+    "previousClose": 197.0,
+    "closePrice": 195.0
+  },
+  {
+    "securityId": "238",
+    "securityName": "NMB Bank Limited",
+    "symbol": "NMB",
+    "indexId": 51,
+    "totalTradeQuantity": 66108,
+    "lastTradedPrice": 247.9,
+    "percentageChange": -0.760608487,
+    "previousClose": 249.8,
+    "closePrice": 247.9
+  },
+  {
+    "securityId": "357",
+    "securityName": "Prime Commercial Bank Ltd.",
+    "symbol": "PCBL",
+    "indexId": 51,
+    "totalTradeQuantity": 46299,
+    "lastTradedPrice": 245.9,
+    "percentageChange": -1.006441224,
+    "previousClose": 248.4,
+    "closePrice": 245.9
+  },
+  {
+    "securityId": "255",
+    "securityName": "Prabhu  Bank Limited",
+    "symbol": "PRVU",
+    "indexId": 51,
+    "totalTradeQuantity": 84908,
+    "lastTradedPrice": 188.4,
+    "percentageChange": -0.317460317,
+    "previousClose": 189.0,
+    "closePrice": 188.4
+  },
+  {
+    "securityId": "171",
+    "securityName": "Sanima Bank Limited",
+    "symbol": "SANIMA",
+    "indexId": 51,
+    "totalTradeQuantity": 49907,
+    "lastTradedPrice": 314.9,
+    "percentageChange": -0.031746032,
+    "previousClose": 315.0,
+    "closePrice": 314.9
+  },
+  {
+    "securityId": "135",
+    "securityName": "Nepal SBI Bank Limited",
+    "symbol": "SBI",
+    "indexId": 51,
+    "totalTradeQuantity": 54859,
+    "lastTradedPrice": 399.9,
+    "percentageChange": 0.654417317,
+    "previousClose": 397.3,
+    "closePrice": 399.9
+  },
+  {
+    "securityId": "145",
+    "securityName": "Siddhartha Bank Limited",
+    "symbol": "SBL",
+    "indexId": 51,
+    "totalTradeQuantity": 41115,
+    "lastTradedPrice": 352.0,
+    "percentageChange": -0.845070423,
+    "previousClose": 355.0,
+    "closePrice": 352.0
+  },
+  {
+    "securityId": "133",
+    "securityName": "Standard Chartered Bank Limited",
+    "symbol": "SCB",
+    "indexId": 51,
+    "totalTradeQuantity": 24352,
+    "lastTradedPrice": 631.0,
+    "percentageChange": -1.40625,
+    "previousClose": 640.0,
+    "closePrice": 631.0
+  }
+]

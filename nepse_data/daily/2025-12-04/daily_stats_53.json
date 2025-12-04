@@ -1,0 +1,101 @@
+[
+  {
+    "securityId": "9234",
+    "securityName": "Himalayan Reinsurance Limited",
+    "symbol": "HRL",
+    "indexId": 53,
+    "totalTradeQuantity": 210555,
+    "lastTradedPrice": 838.0,
+    "percentageChange": -1.527614571,
+    "previousClose": 851.0,
+    "closePrice": 838.0
+  },
+  {
+    "securityId": "9300",
+    "securityName": "Jhapa Energy Limited",
+    "symbol": "JHAPA",
+    "indexId": 53,
+    "totalTradeQuantity": 1330,
+    "lastTradedPrice": 1073.6,
+    "percentageChange": 10.0,
+    "previousClose": 976.0,
+    "closePrice": 1073.6
+  },
+  {
+    "securityId": "9230",
+    "securityName": "Muktinath Krishi Company Limited",
+    "symbol": "MKCL",
+    "indexId": 53,
+    "totalTradeQuantity": 5756,
+    "lastTradedPrice": 1364.9,
+    "percentageChange": -1.451263538,
+    "previousClose": 1385.0,
+    "closePrice": 1364.9
+  },
+  {
+    "securityId": "2881",
+    "securityName": "Nepal Reinsurance Company Limited",
+    "symbol": "NRIC",
+    "indexId": 53,
+    "totalTradeQuantity": 58828,
+    "lastTradedPrice": 1315.0,
+    "percentageChange": -1.202103681,
+    "previousClose": 1331.0,
+    "closePrice": 1315.0
+  },
+  {
+    "securityId": "9183",
+    "securityName": "Nepal Republic Media Limited",
+    "symbol": "NRM",
+    "indexId": 53,
+    "totalTradeQuantity": 19115,
+    "lastTradedPrice": 422.0,
+    "percentageChange": 0.380589914,
+    "previousClose": 420.4,
+    "closePrice": 422.0
+  },
+  {
+    "securityId": "307",
+    "securityName": "Nepal Doorsanchar Company Limited",
+    "symbol": "NTC",
+    "indexId": 53,
+    "totalTradeQuantity": 8331,
+    "lastTradedPrice": 862.0,
+    "percentageChange": 0.23255814,
+    "previousClose": 860.0,
+    "closePrice": 862.0
+  },
+  {
+    "securityId": "9233",
+    "securityName": "Nepal Warehousing Company Limited ",
+    "symbol": "NWCL",
+    "indexId": 53,
+    "totalTradeQuantity": 4067,
+    "lastTradedPrice": 820.0,
+    "percentageChange": 0.109876694,
+    "previousClose": 819.1,
+    "closePrice": 820.0
+  },
+  {
+    "securityId": "9258",
+    "securityName": "Pure Energy Limited",
+    "symbol": "PURE",
+    "indexId": 53,
+    "totalTradeQuantity": 53829,
+    "lastTradedPrice": 924.0,
+    "percentageChange": 2.43902439,
+    "previousClose": 902.0,
+    "closePrice": 924.0
+  },
+  {
+    "securityId": "9262",
+    "securityName": "Trade Tower Limited",
+    "symbol": "TTL",
+    "indexId": 53,
+    "totalTradeQuantity": 126477,
+    "lastTradedPrice": 827.0,
+    "percentageChange": 4.816223067,
+    "previousClose": 789.0,
+    "closePrice": 827.0
+  }
+]

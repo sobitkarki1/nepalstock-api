@@ -1,0 +1,416 @@
+[
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-12-30",
+    "holidayDescription": "Tamu Lhosar",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-12-25",
+    "holidayDescription": "Christmas Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-12-04",
+    "holidayDescription": "Udhauli Parva and Yomari Punhi",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-27",
+    "holidayDescription": "Chhath Parva",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-24",
+    "holidayDescription": "Tihar Bida",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-23",
+    "holidayDescription": "Bhai Tika",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-22",
+    "holidayDescription": "Mha Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-21",
+    "holidayDescription": "Gai Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-20",
+    "holidayDescription": "Laxmi Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-06",
+    "holidayDescription": "Public holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-05",
+    "holidayDescription": "Public Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-03",
+    "holidayDescription": "Dashain bida",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-02",
+    "holidayDescription": "Bijaya Dashami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-10-01",
+    "holidayDescription": " MahaNawami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-30",
+    "holidayDescription": "MahaAstami ",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-29",
+    "holidayDescription": "Fulpati",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-22",
+    "holidayDescription": "Ghatasthapana",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-19",
+    "holidayDescription": "Sambidhan Diwas",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-17",
+    "holidayDescription": "Mourn Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-16",
+    "holidayDescription": "Emergency Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-15",
+    "holidayDescription": "Emergency Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-14",
+    "holidayDescription": "Emergency Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-11",
+    "holidayDescription": "Emergency Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-10",
+    "holidayDescription": "Emergency Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-09",
+    "holidayDescription": "Emergency Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-09-06",
+    "holidayDescription": "Indra Jatra",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-08-16",
+    "holidayDescription": "Shree Krishna Janmasthami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-08-10",
+    "holidayDescription": "Gai Jatra",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-08-09",
+    "holidayDescription": "Janai Purnima",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-06-01",
+    "holidayDescription": "Bhoto Jatra",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-05-29",
+    "holidayDescription": "Republic Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-05-12",
+    "holidayDescription": "Buddha Jayanti & Ubhauli parva",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-05-01",
+    "holidayDescription": "Labour Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-04-14",
+    "holidayDescription": "New Year ",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-04-06",
+    "holidayDescription": "Ram Nawami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-03-31",
+    "holidayDescription": "EID",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-03-29",
+    "holidayDescription": "Ghode Jatra",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-03-13",
+    "holidayDescription": "Fagu Purnima",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-03-08",
+    "holidayDescription": "International Woman Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-02-28",
+    "holidayDescription": "Gyalpo Lhosar",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-02-26",
+    "holidayDescription": "Mahashiva Ratri",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-02-19",
+    "holidayDescription": "Prajatantra Diwas",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-01-30",
+    "holidayDescription": "Sonam Lhosar",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-01-29",
+    "holidayDescription": "Martyrs Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-01-14",
+    "holidayDescription": "Maghe Sankranti",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2025-01-11",
+    "holidayDescription": "Prithvi Jayanti",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  }
+]

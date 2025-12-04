@@ -1,0 +1,165 @@
+[2025-12-04 15:41:55] [INFO] 
+[1mNEPSE API - Comprehensive Data Download[0m
+[2025-12-04 15:41:55] [INFO] Started: 2025-12-04 15:41:55
+[2025-12-04 15:41:55] [INFO] Downloading Priorities: [1, 2, 3]
+
+[2025-12-04 15:49:00] [INFO] 
+[1mNEPSE API - Comprehensive Data Download[0m
+[2025-12-04 15:49:00] [INFO] Started: 2025-12-04 15:49:00
+[2025-12-04 15:49:00] [INFO] Downloading Priorities: [1, 2, 3]
+
+[2025-12-04 15:49:01] [INFO] ✓ API is accessible
+[2025-12-04 15:49:01] [INFO] 
+[1m============================================================
+[2025-12-04 15:49:01] [INFO] PRIORITY 1: STATIC REFERENCE DATA
+[2025-12-04 15:49:01] [INFO] ============================================================[0m
+
+[2025-12-04 15:49:01] [INFO] Company & Security Information:
+[2025-12-04 15:49:03] [INFO] ✓ /company/list
+[2025-12-04 15:49:05] [INFO] ✓ /security/classification
+[2025-12-04 15:49:07] [INFO] ✓ /security/promoters
+[2025-12-04 15:49:08] [INFO] ✓ /security?nonDelisted=true
+[2025-12-04 15:49:10] [INFO] ✓ /index
+[2025-12-04 15:49:12] [INFO] ✓ /sectorwise
+[2025-12-04 15:49:14] [INFO] ✓ /holiday/year
+[2025-12-04 15:49:14] [INFO] 
+Holiday Lists:
+[2025-12-04 15:49:16] [INFO] ✓ /holiday/list?year=2022
+[2025-12-04 15:49:18] [INFO] ✓ /holiday/list?year=2023
+[2025-12-04 15:49:19] [INFO] ✓ /holiday/list?year=2024
+[2025-12-04 15:49:21] [INFO] ✓ /holiday/list?year=2025
+[2025-12-04 15:49:22] [INFO] 
+Broker Information:
+[2025-12-04 15:49:23] [WARN] ✗ /member?size=500 - Status 500
+[2025-12-04 15:49:25] [WARN] ✗ /member/dealer?size=500 - Status 500
+[2025-12-04 15:49:25] [INFO] 
+[1mPRIORITY 1 COMPLETE: 11/13 endpoints downloaded[0m
+
+[2025-12-04 15:49:27] [INFO] 
+[1m============================================================
+[2025-12-04 15:49:27] [INFO] PRIORITY 2: HISTORICAL DATA
+[2025-12-04 15:49:27] [INFO] ============================================================[0m
+
+[2025-12-04 15:49:27] [INFO] Fetching company list...
+[2025-12-04 15:49:29] [INFO] Found 612 companies
+[2025-12-04 15:49:29] [INFO] 
+Downloading Index Histories (2020-2024):
+[2025-12-04 15:49:30] [INFO] ✓ /index/history/51?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:32] [INFO] ✓ /index/history/52?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:35] [INFO] ✓ /index/history/53?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:37] [INFO] ✓ /index/history/54?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:40] [INFO] ✓ /index/history/55?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:42] [INFO] ✓ /index/history/56?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:44] [INFO] ✓ /index/history/57?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:46] [INFO] ✓ /index/history/58?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:49] [INFO] ✓ /index/history/59?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:51] [INFO] ✓ /index/history/60?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:53] [INFO] ✓ /index/history/61?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:56] [INFO] ✓ /index/history/62?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:49:59] [INFO] ✓ /index/history/63?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:50:01] [INFO] ✓ /index/history/64?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:50:03] [INFO] ✓ /index/history/65?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:50:05] [INFO] ✓ /index/history/66?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:50:08] [INFO] ✓ /index/history/67?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:50:09] [INFO] 
+Downloading Sample Security Histories (first 20 companies):
+[2025-12-04 15:50:10] [INFO] ✓ /market/history/security/131?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:13] [INFO] ✓ /market/history/security/132?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:15] [INFO] ✓ /market/history/security/133?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:18] [INFO] ✓ /market/history/security/134?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:20] [INFO] ✓ /market/history/security/135?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:21] [INFO]   Progress: 5/20 securities
+[2025-12-04 15:50:22] [INFO] ✓ /market/history/security/136?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:24] [INFO] ✓ /market/history/security/137?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:27] [INFO] ✓ /market/history/security/138?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:29] [INFO] ✓ /market/history/security/139?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:32] [INFO] ✓ /market/history/security/140?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:33] [INFO]   Progress: 10/20 securities
+[2025-12-04 15:50:34] [INFO] ✓ /market/history/security/141?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:36] [INFO] ✓ /market/history/security/142?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:39] [INFO] ✓ /market/history/security/143?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:41] [INFO] ✓ /market/history/security/144?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:44] [INFO] ✓ /market/history/security/145?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:45] [INFO]   Progress: 15/20 securities
+[2025-12-04 15:50:46] [INFO] ✓ /market/history/security/146?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:48] [INFO] ✓ /market/history/security/147?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:51] [INFO] ✓ /market/history/security/148?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:53] [INFO] ✓ /market/history/security/149?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:55] [INFO] ✓ /market/history/security/150?startDate=2020-01-01&endDate=2024-12-31&size=10000
+[2025-12-04 15:50:56] [INFO]   Progress: 20/20 securities
+[2025-12-04 15:50:56] [INFO] 
+Downloading Market Summary History:
+[2025-12-04 15:50:57] [INFO] ✓ /market-summary-history?startDate=2020-01-01&endDate=2024-12-31
+[2025-12-04 15:50:57] [INFO] 
+[1mPRIORITY 2 COMPLETE: 38/38 endpoints downloaded[0m
+
+[2025-12-04 15:50:59] [INFO] 
+[1m============================================================
+[2025-12-04 15:50:59] [INFO] PRIORITY 3: DAILY MARKET SNAPSHOT
+[2025-12-04 15:51:00] [INFO] ============================================================[0m
+
+[2025-12-04 15:51:00] [INFO] Market State:
+[2025-12-04 15:51:01] [INFO] ✓ /nepse-data/market-open
+[2025-12-04 15:51:03] [INFO] ✓ /nepse-index
+[2025-12-04 15:51:04] [INFO] ✓ /market-summary
+[2025-12-04 15:51:05] [INFO] 
+Daily Trading Stats (by sector):
+[2025-12-04 15:51:06] [INFO] ✓ /securityDailyTradeStat/58
+[2025-12-04 15:51:08] [INFO] ✓ /securityDailyTradeStat/51
+[2025-12-04 15:51:10] [INFO] ✓ /securityDailyTradeStat/52
+[2025-12-04 15:51:12] [INFO] ✓ /securityDailyTradeStat/53
+[2025-12-04 15:51:14] [INFO] ✓ /securityDailyTradeStat/54
+[2025-12-04 15:51:15] [INFO] ✓ /securityDailyTradeStat/55
+[2025-12-04 15:51:17] [INFO] ✓ /securityDailyTradeStat/56
+[2025-12-04 15:51:19] [INFO] ✓ /securityDailyTradeStat/57
+[2025-12-04 15:51:21] [INFO] ✓ /securityDailyTradeStat/59
+[2025-12-04 15:51:23] [INFO] ✓ /securityDailyTradeStat/60
+[2025-12-04 15:51:25] [INFO] ✓ /securityDailyTradeStat/61
+[2025-12-04 15:51:27] [INFO] ✓ /securityDailyTradeStat/62
+[2025-12-04 15:51:29] [INFO] ✓ /securityDailyTradeStat/63
+[2025-12-04 15:51:31] [INFO] ✓ /securityDailyTradeStat/64
+[2025-12-04 15:51:32] [INFO] ✓ /securityDailyTradeStat/65
+[2025-12-04 15:51:34] [INFO] ✓ /securityDailyTradeStat/66
+[2025-12-04 15:51:36] [INFO] ✓ /securityDailyTradeStat/67
+[2025-12-04 15:51:37] [INFO] 
+Top Performers:
+[2025-12-04 15:51:38] [INFO] ✓ /top-ten/top-gainer?all=true
+[2025-12-04 15:51:40] [INFO] ✓ /top-ten/top-loser?all=true
+[2025-12-04 15:51:42] [INFO] ✓ /top-ten/turnover?all=true
+[2025-12-04 15:51:44] [INFO] ✓ /top-ten/trade?all=true
+[2025-12-04 15:51:46] [INFO] ✓ /top-ten/transaction?all=true
+[2025-12-04 15:51:46] [INFO] 
+Aggregates:
+[2025-12-04 15:51:47] [INFO] ✓ /sectorwise
+[2025-12-04 15:51:49] [INFO] ✓ /nepse-data/supplydemand
+[2025-12-04 15:51:51] [INFO] ✓ /nepse-data/trading-average?nDays=120
+[2025-12-04 15:51:52] [INFO] 
+Floor Sheet:
+[2025-12-04 15:51:54] [INFO] ✓ /nepse-data/floorsheet?page=0&size=500&sort=contractId,desc
+[2025-12-04 15:51:55] [INFO] ✓ /nepse-data/today-price
+[2025-12-04 15:51:55] [INFO] 
+[1mPRIORITY 3 COMPLETE: 30/30 endpoints downloaded[0m
+
+[2025-12-04 15:51:55] [INFO] 
+[1m============================================================
+[2025-12-04 15:51:55] [INFO] DOWNLOAD SUMMARY
+[2025-12-04 15:51:55] [INFO] ============================================================[0m
+
+[2025-12-04 15:51:55] [INFO] Data Directory: nepse_data
+[2025-12-04 15:51:55] [INFO] Total Size: 1.64 MB
+[2025-12-04 15:51:55] [INFO] Directories Created:
+[2025-12-04 15:51:55] [INFO]   • static: 11 files
+[2025-12-04 15:51:55] [INFO]   • daily: 0 files
+[2025-12-04 15:51:55] [INFO]   • historical/indices: 17 files
+[2025-12-04 15:51:55] [INFO]   • historical/securities: 20 files
+[2025-12-04 15:51:55] [INFO] 
+Log file: nepse_data\download_log.txt
+[2025-12-04 15:51:55] [INFO] 
+[1mFINAL RESULTS:[0m
+[2025-12-04 15:51:55] [INFO] Total Endpoints: 81
+[2025-12-04 15:51:55] [INFO] Successful: 79
+[2025-12-04 15:51:55] [INFO] Failed: 2
+[2025-12-04 15:51:55] [INFO] Success Rate: 97.5%
+[2025-12-04 15:51:55] [INFO] 
+Completed: 2025-12-04 15:51:55
+

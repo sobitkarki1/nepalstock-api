@@ -1,0 +1,167 @@
+[
+  {
+    "securityId": "227",
+    "securityName": "Best Finance Company Ltd.",
+    "symbol": "BFC",
+    "indexId": 60,
+    "totalTradeQuantity": 73282,
+    "lastTradedPrice": 488.0,
+    "percentageChange": 2.671996634,
+    "previousClose": 475.3,
+    "closePrice": 488.0
+  },
+  {
+    "securityId": "245",
+    "securityName": "Central Finance Co. Ltd.",
+    "symbol": "CFCL",
+    "indexId": 60,
+    "totalTradeQuantity": 35578,
+    "lastTradedPrice": 500.0,
+    "percentageChange": 1.071356378,
+    "previousClose": 494.7,
+    "closePrice": 500.0
+  },
+  {
+    "securityId": "232",
+    "securityName": "Goodwill Finance Limited",
+    "symbol": "GFCL",
+    "indexId": 60,
+    "totalTradeQuantity": 28075,
+    "lastTradedPrice": 598.9,
+    "percentageChange": 1.165540541,
+    "previousClose": 592.0,
+    "closePrice": 598.9
+  },
+  {
+    "securityId": "263",
+    "securityName": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+    "symbol": "GMFIL",
+    "indexId": 60,
+    "totalTradeQuantity": 185477,
+    "lastTradedPrice": 504.0,
+    "percentageChange": 4.781704782,
+    "previousClose": 481.0,
+    "closePrice": 504.0
+  },
+  {
+    "securityId": "204",
+    "securityName": "Gurkhas Finance Ltd.",
+    "symbol": "GUFL",
+    "indexId": 60,
+    "totalTradeQuantity": 18019,
+    "lastTradedPrice": 515.0,
+    "percentageChange": 1.198663785,
+    "previousClose": 508.9,
+    "closePrice": 515.0
+  },
+  {
+    "securityId": "273",
+    "securityName": "ICFC Finance Limited",
+    "symbol": "ICFC",
+    "indexId": 60,
+    "totalTradeQuantity": 126954,
+    "lastTradedPrice": 653.7,
+    "percentageChange": 1.066790353,
+    "previousClose": 646.8,
+    "closePrice": 653.7
+  },
+  {
+    "securityId": "250",
+    "securityName": "Janaki Finance Company Limited",
+    "symbol": "JFL",
+    "indexId": 60,
+    "totalTradeQuantity": 21554,
+    "lastTradedPrice": 429.9,
+    "percentageChange": 1.84790334,
+    "previousClose": 422.1,
+    "closePrice": 429.9
+  },
+  {
+    "securityId": "516",
+    "securityName": "Manjushree Finance Ltd.",
+    "symbol": "MFIL",
+    "indexId": 60,
+    "totalTradeQuantity": 38555,
+    "lastTradedPrice": 612.0,
+    "percentageChange": 0.99009901,
+    "previousClose": 606.0,
+    "closePrice": 612.0
+  },
+  {
+    "securityId": "471",
+    "securityName": "Multipurpose Finance Company  Limited",
+    "symbol": "MPFL",
+    "indexId": 60,
+    "totalTradeQuantity": 19307,
+    "lastTradedPrice": 559.0,
+    "percentageChange": 1.158161419,
+    "previousClose": 552.6,
+    "closePrice": 559.0
+  },
+  {
+    "securityId": "194",
+    "securityName": "Nepal Finance Ltd.",
+    "symbol": "NFS",
+    "indexId": 60,
+    "totalTradeQuantity": 24623,
+    "lastTradedPrice": 642.3,
+    "percentageChange": 0.359375,
+    "previousClose": 640.0,
+    "closePrice": 642.3
+  },
+  {
+    "securityId": "236",
+    "securityName": "Pokhara Finance Ltd.",
+    "symbol": "PFL",
+    "indexId": 60,
+    "totalTradeQuantity": 12821,
+    "lastTradedPrice": 378.0,
+    "percentageChange": 2.024291498,
+    "previousClose": 370.5,
+    "closePrice": 378.0
+  },
+  {
+    "securityId": "338",
+    "securityName": "Progressive Finance Limited",
+    "symbol": "PROFL",
+    "indexId": 60,
+    "totalTradeQuantity": 37469,
+    "lastTradedPrice": 474.5,
+    "percentageChange": 2.064960206,
+    "previousClose": 464.9,
+    "closePrice": 474.5
+  },
+  {
+    "securityId": "587",
+    "securityName": "Reliance Finance Ltd.",
+    "symbol": "RLFL",
+    "indexId": 60,
+    "totalTradeQuantity": 52854,
+    "lastTradedPrice": 441.0,
+    "percentageChange": 2.083333333,
+    "previousClose": 432.0,
+    "closePrice": 441.0
+  },
+  {
+    "securityId": "256",
+    "securityName": "Samriddhi Finance Company Limited",
+    "symbol": "SFCL",
+    "indexId": 60,
+    "totalTradeQuantity": 30621,
+    "lastTradedPrice": 402.0,
+    "percentageChange": 1.515151515,
+    "previousClose": 396.0,
+    "closePrice": 402.0
+  },
+  {
+    "securityId": "244",
+    "securityName": "Shree Investment Finance Co. Ltd.",
+    "symbol": "SIFC",
+    "indexId": 60,
+    "totalTradeQuantity": 42452,
+    "lastTradedPrice": 520.0,
+    "percentageChange": 1.761252446,
+    "previousClose": 511.0,
+    "closePrice": 520.0
+  }
+]

@@ -92,7 +92,7 @@ class Nepse:
             response = requests.post(url, headers=headers, data=json.dumps(post_data), verify=False)        
         else:
             #response = requests.post(url, headers=headers, data=json.dumps({"id": self.getPOSTPayloadIDForNepseIndex() if '/graph/index/' in url else self.getPOSTPayloadID()}))
-            response = requests.post(url, headers=headers, data=json.dumps({"id": self.getPOSTPayloadIDForNepseIndex() if '/graph/index/' in url else (self.getPOSTPayloadIDForFloorSheet() if '/nepse-data/floorsheet' or ' /nepse-data/today-price' in url else self.getPOSTPayloadID())}), verify=False)
+            response = requests.post(url, headers=headers, data=json.dumps({"id": self.getPOSTPayloadIDForNepseIndex() if '/graph/index/' in url else (self.getPOSTPayloadIDForFloorSheet() if '/nepse-data/floorsheet' in url or '/nepse-data/today-price' in url else self.getPOSTPayloadID())}), verify=False)
         # if (response.status_code != 200):
             # self.refreshToken()
             # return self.requestPOSTAPI(url)
@@ -206,14 +206,14 @@ class S(BaseHTTPRequestHandler):
         nepse = Nepse()    
         url='https://nepalstock.com.np/api/nots'+str(self.path)
         res=nepse.requestAPI(url=url)
-        self.write_response(res)
+        self.write_response(res, content_type='application/json')
         
 
     def do_POST(self):
         try:
             nepse = Nepse()
             url='https://nepalstock.com.np/api/nots'+str(self.path)
-            content_len = int(self.headers.get('Content-Length'))
+            content_len = int(self.headers.get('Content-Length', 0))
             if content_len==0:
                 res=nepse.requestPOSTAPI(url=url)
             else:
@@ -225,13 +225,17 @@ class S(BaseHTTPRequestHandler):
                     post_body={k: v[0] for k, v in post_body.items()}
                 print(post_body)
                 res=nepse.requestPOSTAPI(url=url,post_data=json.loads(post_body))
-            self.write_response(res)
+            self.write_response(res, content_type='application/json')
         except Exception as e:
             print(e)
-            self.send_error(500)
+            self.send_response(500)
+            self.send_header('Content-type', 'application/json')
+            self.end_headers()
+            self.wfile.write(json.dumps({"error": str(e)}).encode('utf-8'))
 
-    def write_response(self, content):
+    def write_response(self, content, content_type='application/json'):
         self.send_response(content[1])
+        self.send_header('Content-type', content_type)
         self.end_headers()
         self.wfile.write(str(content[0]).encode('utf-8'))
         self.rfile.close()

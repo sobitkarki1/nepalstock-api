@@ -1,0 +1,79 @@
+[
+  {
+    "securityId": "3946",
+    "securityName": "CEDB Holdings Limited",
+    "symbol": "CHDC",
+    "indexId": 67,
+    "totalTradeQuantity": 14284,
+    "lastTradedPrice": 2355.0,
+    "percentageChange": -0.590966653,
+    "previousClose": 2369.0,
+    "closePrice": 2355.0
+  },
+  {
+    "securityId": "210",
+    "securityName": "Citizen Investment Trust",
+    "symbol": "CIT",
+    "indexId": 67,
+    "totalTradeQuantity": 6938,
+    "lastTradedPrice": 1860.0,
+    "percentageChange": -0.107411386,
+    "previousClose": 1862.0,
+    "closePrice": 1860.0
+  },
+  {
+    "securityId": "8034",
+    "securityName": "Emerging Nepal Limited",
+    "symbol": "ENL",
+    "indexId": 67,
+    "totalTradeQuantity": 453,
+    "lastTradedPrice": 937.0,
+    "percentageChange": 0.321199143,
+    "previousClose": 934.0,
+    "closePrice": 937.0
+  },
+  {
+    "securityId": "9213",
+    "securityName": "Hathway Investment Nepal Limited",
+    "symbol": "HATHY",
+    "indexId": 67,
+    "totalTradeQuantity": 8834,
+    "lastTradedPrice": 914.5,
+    "percentageChange": -0.435492651,
+    "previousClose": 918.5,
+    "closePrice": 914.5
+  },
+  {
+    "securityId": "2742",
+    "securityName": "Hydorelectricity Investment and Development Company Ltd",
+    "symbol": "HIDCL",
+    "indexId": 67,
+    "totalTradeQuantity": 86398,
+    "lastTradedPrice": 269.0,
+    "percentageChange": -1.465201465,
+    "previousClose": 273.0,
+    "closePrice": 269.0
+  },
+  {
+    "securityId": "2919",
+    "securityName": "Nepal Infrastructure Bank Limited",
+    "symbol": "NIFRA",
+    "indexId": 67,
+    "totalTradeQuantity": 93167,
+    "lastTradedPrice": 273.4,
+    "percentageChange": -0.581818182,
+    "previousClose": 275.0,
+    "closePrice": 273.4
+  },
+  {
+    "securityId": "2898",
+    "securityName": "NRN Infrastructure and Development Limited",
+    "symbol": "NRN",
+    "indexId": 67,
+    "totalTradeQuantity": 24964,
+    "lastTradedPrice": 1433.0,
+    "percentageChange": 0.0,
+    "previousClose": 1433.0,
+    "closePrice": 1433.0
+  }
+]

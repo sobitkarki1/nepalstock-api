@@ -1,0 +1,9 @@
+i added this file manually
+
+Use these documents and download as much data you can
+
+📖 How to Use These Documents:
+Start with: DOCUMENTATION_INDEX.md (navigation hub)
+For complete understanding: Read NEPSE_API_DATA_AVAILABILITY_REPORT.md
+To actually download: Follow DOWNLOAD_ACTION_PLAN.md
+For visual clarity: Reference ENDPOINT_VISUAL_MAP.md

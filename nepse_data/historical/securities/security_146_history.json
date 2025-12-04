@@ -1,0 +1,191 @@
+{
+  "content": [
+    {
+      "businessDate": "2024-12-31",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-29",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-26",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-24",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-23",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-22",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-19",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-18",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-17",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-16",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-12",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-11",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-10",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-09",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-08",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-05",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-04",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    },
+    {
+      "businessDate": "2024-12-03",
+      "totalTrades": 0,
+      "totalTradedQuantity": 0,
+      "totalTradedValue": 0.0,
+      "highPrice": 600.0,
+      "lowPrice": 600.0,
+      "closePrice": 600.0
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "offset": 0,
+    "pageNumber": 0,
+    "pageSize": 2000,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": true,
+  "totalPages": 1,
+  "totalElements": 18,
+  "size": 2000,
+  "number": 0,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "first": true,
+  "numberOfElements": 18,
+  "empty": false
+}

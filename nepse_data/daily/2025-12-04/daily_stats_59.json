@@ -1,0 +1,145 @@
+[
+  {
+    "securityId": "179",
+    "securityName": "Himalayan Everest Insurance Limited",
+    "symbol": "HEI",
+    "indexId": 59,
+    "totalTradeQuantity": 9669,
+    "lastTradedPrice": 497.9,
+    "percentageChange": -0.42,
+    "previousClose": 500.0,
+    "closePrice": 497.9
+  },
+  {
+    "securityId": "186",
+    "securityName": "IGI Prudential insurance Limited",
+    "symbol": "IGI",
+    "indexId": 59,
+    "totalTradeQuantity": 30126,
+    "lastTradedPrice": 424.0,
+    "percentageChange": -0.469483568,
+    "previousClose": 426.0,
+    "closePrice": 424.0
+  },
+  {
+    "securityId": "176",
+    "securityName": "Nepal Insurance Co. Ltd.",
+    "symbol": "NICL",
+    "indexId": 59,
+    "totalTradeQuantity": 23452,
+    "lastTradedPrice": 522.9,
+    "percentageChange": -0.589353612,
+    "previousClose": 526.0,
+    "closePrice": 522.9
+  },
+  {
+    "securityId": "183",
+    "securityName": "Neco Insurance Limited",
+    "symbol": "NIL",
+    "indexId": 59,
+    "totalTradeQuantity": 5444,
+    "lastTradedPrice": 618.1,
+    "percentageChange": -1.104,
+    "previousClose": 625.0,
+    "closePrice": 618.1
+  },
+  {
+    "securityId": "559",
+    "securityName": "NLG Insurance Company Ltd.",
+    "symbol": "NLG",
+    "indexId": 59,
+    "totalTradeQuantity": 14918,
+    "lastTradedPrice": 697.9,
+    "percentageChange": -1.287128713,
+    "previousClose": 707.0,
+    "closePrice": 697.9
+  },
+  {
+    "securityId": "9250",
+    "securityName": "Nepal Micro Insurance Company Limited",
+    "symbol": "NMIC",
+    "indexId": 59,
+    "totalTradeQuantity": 15683,
+    "lastTradedPrice": 1296.0,
+    "percentageChange": 0.543056633,
+    "previousClose": 1289.0,
+    "closePrice": 1296.0
+  },
+  {
+    "securityId": "184",
+    "securityName": "Prabhu Insurance Ltd.",
+    "symbol": "PRIN",
+    "indexId": 59,
+    "totalTradeQuantity": 11949,
+    "lastTradedPrice": 682.0,
+    "percentageChange": -0.161030596,
+    "previousClose": 683.1,
+    "closePrice": 682.0
+  },
+  {
+    "securityId": "177",
+    "securityName": "Rastriya Beema Company Limited",
+    "symbol": "RBCL",
+    "indexId": 59,
+    "totalTradeQuantity": 260,
+    "lastTradedPrice": 15148.9,
+    "percentageChange": -0.630370613,
+    "previousClose": 15245.0,
+    "closePrice": 15148.9
+  },
+  {
+    "securityId": "185",
+    "securityName": "Sagarmatha Lumbini Insurance Co. Limited",
+    "symbol": "SALICO",
+    "indexId": 59,
+    "totalTradeQuantity": 8011,
+    "lastTradedPrice": 599.9,
+    "percentageChange": -1.494252874,
+    "previousClose": 609.0,
+    "closePrice": 599.9
+  },
+  {
+    "securityId": "2908",
+    "securityName": "Sanima GIC Insurance Limited",
+    "symbol": "SGIC",
+    "indexId": 59,
+    "totalTradeQuantity": 10940,
+    "lastTradedPrice": 481.0,
+    "percentageChange": -1.63599182,
+    "previousClose": 489.0,
+    "closePrice": 481.0
+  },
+  {
+    "securityId": "192",
+    "securityName": "Shikhar Insurance Co. Ltd.",
+    "symbol": "SICL",
+    "indexId": 59,
+    "totalTradeQuantity": 7081,
+    "lastTradedPrice": 640.0,
+    "percentageChange": -1.990811639,
+    "previousClose": 653.0,
+    "closePrice": 640.0
+  },
+  {
+    "securityId": "182",
+    "securityName": "Siddhartha Premier Insurance Limited",
+    "symbol": "SPIL",
+    "indexId": 59,
+    "totalTradeQuantity": 11360,
+    "lastTradedPrice": 724.0,
+    "percentageChange": 0.416088766,
+    "previousClose": 721.0,
+    "closePrice": 724.0
+  },
+  {
+    "securityId": "180",
+    "securityName": "United Ajod Insurance Limited",
+    "symbol": "UAIL",
+    "indexId": 59,
+    "totalTradeQuantity": 11068,
+    "lastTradedPrice": 469.5,
+    "percentageChange": -0.106382979,
+    "previousClose": 470.0,
+    "closePrice": 469.5
+  }
+]

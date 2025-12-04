@@ -1,0 +1,123 @@
+[
+  {
+    "securityId": "195",
+    "securityName": "Bottlers Nepal (Balaju) Limited",
+    "symbol": "BNL",
+    "indexId": 56,
+    "totalTradeQuantity": 140,
+    "lastTradedPrice": 15850.0,
+    "percentageChange": 0.0,
+    "previousClose": 15850.0,
+    "closePrice": 15850.0
+  },
+  {
+    "securityId": "213",
+    "securityName": "Bottlers Nepal (Terai) Limited",
+    "symbol": "BNT",
+    "indexId": 56,
+    "totalTradeQuantity": 145,
+    "lastTradedPrice": 11920.0,
+    "percentageChange": -1.487603306,
+    "previousClose": 12100.0,
+    "closePrice": 11920.0
+  },
+  {
+    "securityId": "9193",
+    "securityName": "Ghorahi Cement Industry Limited",
+    "symbol": "GCIL",
+    "indexId": 56,
+    "totalTradeQuantity": 31533,
+    "lastTradedPrice": 458.1,
+    "percentageChange": -0.5427703,
+    "previousClose": 460.6,
+    "closePrice": 458.1
+  },
+  {
+    "securityId": "235",
+    "securityName": "Himalayan Distillery Limited",
+    "symbol": "HDL",
+    "indexId": 56,
+    "totalTradeQuantity": 57595,
+    "lastTradedPrice": 1170.0,
+    "percentageChange": -0.467886006,
+    "previousClose": 1175.5,
+    "closePrice": 1170.0
+  },
+  {
+    "securityId": "9256",
+    "securityName": "Om Megashree Pharmaceuticals Limited",
+    "symbol": "OMPL",
+    "indexId": 56,
+    "totalTradeQuantity": 72151,
+    "lastTradedPrice": 1311.0,
+    "percentageChange": 7.020408163,
+    "previousClose": 1225.0,
+    "closePrice": 1311.0
+  },
+  {
+    "securityId": "9294",
+    "securityName": "Sagar Distillery Limited",
+    "symbol": "SAGAR",
+    "indexId": 56,
+    "totalTradeQuantity": 4420,
+    "lastTradedPrice": 1951.8,
+    "percentageChange": 9.997745717,
+    "previousClose": 1774.4,
+    "closePrice": 1951.8
+  },
+  {
+    "securityId": "9301",
+    "securityName": "Shreenagar Agritech Industries Limited",
+    "symbol": "SAIL",
+    "indexId": 56,
+    "totalTradeQuantity": 930,
+    "lastTradedPrice": 646.1,
+    "percentageChange": 9.99319033,
+    "previousClose": 587.4,
+    "closePrice": 646.1
+  },
+  {
+    "securityId": "9242",
+    "securityName": "Sarbottam Cement Limited",
+    "symbol": "SARBTM",
+    "indexId": 56,
+    "totalTradeQuantity": 57454,
+    "lastTradedPrice": 880.0,
+    "percentageChange": -0.317172633,
+    "previousClose": 882.8,
+    "closePrice": 880.0
+  },
+  {
+    "securityId": "2809",
+    "securityName": "SHIVAM CEMENTS LTD",
+    "symbol": "SHIVM",
+    "indexId": 56,
+    "totalTradeQuantity": 155381,
+    "lastTradedPrice": 581.5,
+    "percentageChange": -1.004426285,
+    "previousClose": 587.4,
+    "closePrice": 581.5
+  },
+  {
+    "securityId": "9216",
+    "securityName": "Sonapur Minerals And Oil Limited",
+    "symbol": "SONA",
+    "indexId": 56,
+    "totalTradeQuantity": 42550,
+    "lastTradedPrice": 427.0,
+    "percentageChange": -1.408450704,
+    "previousClose": 433.1,
+    "closePrice": 427.0
+  },
+  {
+    "securityId": "219",
+    "securityName": "Unilever Nepal Limited",
+    "symbol": "UNL",
+    "indexId": 56,
+    "totalTradeQuantity": 51,
+    "lastTradedPrice": 46256.0,
+    "percentageChange": -2.0,
+    "previousClose": 47200.0,
+    "closePrice": 46256.0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "securityId": "9297",
+    "securityName": "Bandipur Cablecar and Tourism Limited",
+    "symbol": "BANDIPUR",
+    "indexId": 52,
+    "totalTradeQuantity": 227147,
+    "lastTradedPrice": 825.0,
+    "percentageChange": 5.769230769,
+    "previousClose": 780.0,
+    "closePrice": 825.0
+  },
+  {
+    "securityId": "2917",
+    "securityName": "Chandragiri Hills Limited",
+    "symbol": "CGH",
+    "indexId": 52,
+    "totalTradeQuantity": 32652,
+    "lastTradedPrice": 890.0,
+    "percentageChange": 1.159354399,
+    "previousClose": 879.8,
+    "closePrice": 890.0
+  },
+  {
+    "securityId": "9173",
+    "securityName": "City Hotel Limited",
+    "symbol": "CITY",
+    "indexId": 52,
+    "totalTradeQuantity": 2620,
+    "lastTradedPrice": 530.0,
+    "percentageChange": -0.225903614,
+    "previousClose": 531.2,
+    "closePrice": 530.0
+  },
+  {
+    "securityId": "9151",
+    "securityName": "Kalinchowk Darshan Limited",
+    "symbol": "KDL",
+    "indexId": 52,
+    "totalTradeQuantity": 2731,
+    "lastTradedPrice": 890.0,
+    "percentageChange": 0.678733032,
+    "previousClose": 884.0,
+    "closePrice": 890.0
+  },
+  {
+    "securityId": "149",
+    "securityName": "Oriental Hotels Limited",
+    "symbol": "OHL",
+    "indexId": 52,
+    "totalTradeQuantity": 26492,
+    "lastTradedPrice": 702.0,
+    "percentageChange": -1.955307263,
+    "previousClose": 716.0,
+    "closePrice": 702.0
+  },
+  {
+    "securityId": "147",
+    "securityName": "Soaltee Hotel Limited",
+    "symbol": "SHL",
+    "indexId": 52,
+    "totalTradeQuantity": 16548,
+    "lastTradedPrice": 484.0,
+    "percentageChange": -0.697578991,
+    "previousClose": 487.4,
+    "closePrice": 484.0
+  },
+  {
+    "securityId": "148",
+    "securityName": "Taragaon Regency Hotel Limited",
+    "symbol": "TRH",
+    "indexId": 52,
+    "totalTradeQuantity": 2976,
+    "lastTradedPrice": 704.0,
+    "percentageChange": -0.831102972,
+    "previousClose": 709.9,
+    "closePrice": 704.0
+  }
+]

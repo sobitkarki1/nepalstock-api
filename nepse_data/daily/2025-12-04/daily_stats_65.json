@@ -1,0 +1,156 @@
+[
+  {
+    "securityId": "385",
+    "securityName": "Asian Life Insurance Co. Limited",
+    "symbol": "ALICL",
+    "indexId": 65,
+    "totalTradeQuantity": 48017,
+    "lastTradedPrice": 465.0,
+    "percentageChange": -1.774397972,
+    "previousClose": 473.4,
+    "closePrice": 465.0
+  },
+  {
+    "securityId": "9209",
+    "securityName": "Citizen Life Insurance Company Limited",
+    "symbol": "CLI",
+    "indexId": 65,
+    "totalTradeQuantity": 21196,
+    "lastTradedPrice": 485.1,
+    "percentageChange": -0.553505535,
+    "previousClose": 487.8,
+    "closePrice": 485.1
+  },
+  {
+    "securityId": "9252",
+    "securityName": "Crest Micro Life Insurance Limited",
+    "symbol": "CREST",
+    "indexId": 65,
+    "totalTradeQuantity": 9786,
+    "lastTradedPrice": 1263.0,
+    "percentageChange": 0.39745628,
+    "previousClose": 1258.0,
+    "closePrice": 1263.0
+  },
+  {
+    "securityId": "9246",
+    "securityName": "Guardian Micro Life Insurance Limited ",
+    "symbol": "GMLI",
+    "indexId": 65,
+    "totalTradeQuantity": 2632,
+    "lastTradedPrice": 1835.0,
+    "percentageChange": 0.542436031,
+    "previousClose": 1825.1,
+    "closePrice": 1835.0
+  },
+  {
+    "securityId": "393",
+    "securityName": "Himalayan Life Insurance Limited",
+    "symbol": "HLI",
+    "indexId": 65,
+    "totalTradeQuantity": 28568,
+    "lastTradedPrice": 377.0,
+    "percentageChange": -0.789473684,
+    "previousClose": 380.0,
+    "closePrice": 377.0
+  },
+  {
+    "securityId": "9184",
+    "securityName": "IME Life Insurance Company Limited",
+    "symbol": "ILI",
+    "indexId": 65,
+    "totalTradeQuantity": 31561,
+    "lastTradedPrice": 460.1,
+    "percentageChange": -1.709036531,
+    "previousClose": 468.1,
+    "closePrice": 460.1
+  },
+  {
+    "securityId": "188",
+    "securityName": "Life Insurance Corporation (Nepal) Limited",
+    "symbol": "LICN",
+    "indexId": 65,
+    "totalTradeQuantity": 21432,
+    "lastTradedPrice": 891.1,
+    "percentageChange": -1.153632834,
+    "previousClose": 901.5,
+    "closePrice": 891.1
+  },
+  {
+    "securityId": "187",
+    "securityName": "Nepal Life Insurance Co. Ltd.",
+    "symbol": "NLIC",
+    "indexId": 65,
+    "totalTradeQuantity": 75475,
+    "lastTradedPrice": 829.0,
+    "percentageChange": -1.215443279,
+    "previousClose": 839.2,
+    "closePrice": 829.0
+  },
+  {
+    "securityId": "178",
+    "securityName": "National Life Insurance Co. Ltd.",
+    "symbol": "NLICL",
+    "indexId": 65,
+    "totalTradeQuantity": 26530,
+    "lastTradedPrice": 606.7,
+    "percentageChange": -0.946938776,
+    "previousClose": 612.5,
+    "closePrice": 606.7
+  },
+  {
+    "securityId": "2915",
+    "securityName": "Prabhu Mahalaxmi Life Insurance Limited",
+    "symbol": "PMLI",
+    "indexId": 65,
+    "totalTradeQuantity": 21295,
+    "lastTradedPrice": 495.0,
+    "percentageChange": -2.731381411,
+    "previousClose": 508.9,
+    "closePrice": 495.0
+  },
+  {
+    "securityId": "9199",
+    "securityName": "Reliable Nepal Life Insurance Limited",
+    "symbol": "RNLI",
+    "indexId": 65,
+    "totalTradeQuantity": 96476,
+    "lastTradedPrice": 485.0,
+    "percentageChange": -1.921132457,
+    "previousClose": 494.5,
+    "closePrice": 485.0
+  },
+  {
+    "securityId": "403",
+    "securityName": "SuryaJyoti Life Insurance Company Limited",
+    "symbol": "SJLIC",
+    "indexId": 65,
+    "totalTradeQuantity": 62104,
+    "lastTradedPrice": 461.9,
+    "percentageChange": -0.237580994,
+    "previousClose": 463.0,
+    "closePrice": 461.9
+  },
+  {
+    "securityId": "9201",
+    "securityName": "Sun Nepal Life Insurance Company Limited",
+    "symbol": "SNLI",
+    "indexId": 65,
+    "totalTradeQuantity": 42234,
+    "lastTradedPrice": 498.0,
+    "percentageChange": -1.444686325,
+    "previousClose": 505.3,
+    "closePrice": 498.0
+  },
+  {
+    "securityId": "5982",
+    "securityName": "Sanima Reliance Life Insurance Limited",
+    "symbol": "SRLI",
+    "indexId": 65,
+    "totalTradeQuantity": 36272,
+    "lastTradedPrice": 402.1,
+    "percentageChange": -1.446078431,
+    "previousClose": 408.0,
+    "closePrice": 402.1
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-12-30",
+    "holidayDescription": "Tamu Lhosar",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-12-25",
+    "holidayDescription": "Christmas Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-12-08",
+    "holidayDescription": "Udhauli Parva and Yomari Punhi",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-11-21",
+    "holidayDescription": "Elections Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-11-20",
+    "holidayDescription": "Elections Holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-30",
+    "holidayDescription": "Chhath Parva",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-28",
+    "holidayDescription": "Tihar Bida",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-27",
+    "holidayDescription": "Bhai Tika Kjja Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-26",
+    "holidayDescription": "Mha Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-25",
+    "holidayDescription": "Gai Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-24",
+    "holidayDescription": "Laxmi Puja",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-18",
+    "holidayDescription": "Government holiday",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-07",
+    "holidayDescription": "Dwadashi",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-06",
+    "holidayDescription": "Ekadasi",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-05",
+    "holidayDescription": "Bijaya Dasami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-04",
+    "holidayDescription": "MahaNawami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-03",
+    "holidayDescription": "MahaAstami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-10-02",
+    "holidayDescription": "Fulpati",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-09-26",
+    "holidayDescription": "Ghatasthapana",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-09-19",
+    "holidayDescription": "Sabidan Diwas",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-09-09",
+    "holidayDescription": "Indra Jatra",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-08-19",
+    "holidayDescription": "Shree Krishna Janmasthami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-08-12",
+    "holidayDescription": "Janai Purnima",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-07-10",
+    "holidayDescription": "Bakra Eid",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-05-16",
+    "holidayDescription": "Buddha Jayanti",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-05-03",
+    "holidayDescription": "EID UL FITRA",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-05-01",
+    "holidayDescription": "May Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-04-14",
+    "holidayDescription": "New Year BS",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-04-10",
+    "holidayDescription": "Ram Nawami",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-04-01",
+    "holidayDescription": "Godhe Jatra",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-03-17",
+    "holidayDescription": "Fagu Purnima",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-03-08",
+    "holidayDescription": "International Woman Day",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-03-03",
+    "holidayDescription": "Gyalpo Lhosar",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-03-01",
+    "holidayDescription": "Mahasiva ratri",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-02-02",
+    "holidayDescription": "Sonam Lhosar",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  },
+  {
+    "id": null,
+    "instrumentTypeId": null,
+    "holidayDate": "2022-01-15",
+    "holidayDescription": "Maghe sangrati",
+    "modifiedBy": null,
+    "modifiedDate": null,
+    "activeStatus": null
+  }
+]

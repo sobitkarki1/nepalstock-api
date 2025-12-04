@@ -1,0 +1,114 @@
+[
+  {
+    "businessDate": "1970-01-01",
+    "sectorName": "Preference Share",
+    "turnOverValues": 0,
+    "turnOverVolume": 0,
+    "totalTransaction": 0
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Commercial Banks",
+    "turnOverValues": 304792486.7,
+    "turnOverVolume": 1204363,
+    "totalTransaction": 4935
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Corporate Debenture",
+    "turnOverValues": 4794595.4,
+    "turnOverVolume": 4309,
+    "totalTransaction": 71
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Development Banks",
+    "turnOverValues": 229956591.8,
+    "turnOverVolume": 420841,
+    "totalTransaction": 2322
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Finance",
+    "turnOverValues": 396992687.4,
+    "turnOverVolume": 747641,
+    "totalTransaction": 3617
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Hotels And Tourism",
+    "turnOverValues": 246730794.6,
+    "turnOverVolume": 311166,
+    "totalTransaction": 6049
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Hydro Power",
+    "turnOverValues": 2274601007.9,
+    "turnOverVolume": 5130394,
+    "totalTransaction": 29757
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Investment",
+    "turnOverValues": 139746638.7,
+    "turnOverVolume": 235038,
+    "totalTransaction": 1493
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Life Insurance",
+    "turnOverValues": 296619557.3,
+    "turnOverVolume": 523578,
+    "totalTransaction": 4192
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Manufacturing And Processing",
+    "turnOverValues": 349280553.1,
+    "turnOverVolume": 422350,
+    "totalTransaction": 3760
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Microfinance",
+    "turnOverValues": 409799183.0,
+    "turnOverVolume": 386353,
+    "totalTransaction": 3921
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Mutual Fund",
+    "turnOverValues": 6851100.63,
+    "turnOverVolume": 741059,
+    "totalTransaction": 568
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Non Life Insurance",
+    "turnOverValues": 103758092.1,
+    "turnOverVolume": 159961,
+    "totalTransaction": 1287
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Others",
+    "turnOverValues": 437981759.5,
+    "turnOverVolume": 488288,
+    "totalTransaction": 5246
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Promoter Share",
+    "turnOverValues": 19072439.5,
+    "turnOverVolume": 95244,
+    "totalTransaction": 169
+  },
+  {
+    "businessDate": "2025-12-03",
+    "sectorName": "Tradings",
+    "turnOverValues": 14721849.7,
+    "turnOverVolume": 2787,
+    "totalTransaction": 98
+  }
+]
